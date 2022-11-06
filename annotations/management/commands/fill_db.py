@@ -23,7 +23,7 @@ class Command(BaseCommand):
         fake = Faker()
         authors = list()
 
-        # loop for creation authors in loop for needed cnt
+        # create authors in loop for needed cnt
         for i in range(cnt):
             name = fake.first_name()
             age = random.randint(15, 100)
@@ -39,7 +39,7 @@ class Command(BaseCommand):
         cnt = 30
         publishers = list()
 
-        # loop for creation authors in loop for needed cnt
+        # create publishers in loop for needed cnt
         for i in range(cnt):
             name = f'Publisher_{i}'
             publisher = Publisher(name=name)
@@ -58,7 +58,7 @@ class Command(BaseCommand):
         # get min and max id from publisher model
         publisher_id = Publisher.objects.aggregate(min_id=Min('id'), max_id=Max('id'))
 
-        # loop for creation books in loop for needed cnt
+        # create books in loop for needed cnt
         for i in range(cnt):
             name = f'Book_{i}'
             pages = random.randint(1, 1000)
@@ -92,7 +92,7 @@ class Command(BaseCommand):
         # get min and max id from book model
         book_id = Book.objects.aggregate(min_id=Min('id'), max_id=Max('id'))
 
-        # loop for creation stores in loop for needed cnt
+        # create stores in loop for needed cnt
         for i in range(cnt):
             name = f'Store_{i}'
 
