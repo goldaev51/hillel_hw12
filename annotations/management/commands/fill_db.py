@@ -1,11 +1,11 @@
 import datetime
 import random
 
-from django.core.management.base import BaseCommand
-from django.db.models import Min, Max
-from faker import Faker
+from annotations.models import Author, Book, Publisher, Store
 
-from annotations.models import Author, Publisher, Book, Store
+from django.core.management.base import BaseCommand
+
+from faker import Faker
 
 
 class Command(BaseCommand):
@@ -54,7 +54,6 @@ class Command(BaseCommand):
         cnt = 200
 
         # get author ids
-        author_id = Author.objects.aggregate(min_id=Min('id'), max_id=Max('id'))
         author_ids = Author.objects.values_list('id', flat=True)
         author_ids_cnt = author_ids.count() - 1
         # get publisher ids
@@ -89,7 +88,6 @@ class Command(BaseCommand):
 
             # add authors to created book
             book.authors.add(*random_authors_ids)
-
 
         self.stdout.write(self.style.SUCCESS(f'Created {cnt} books'))
 

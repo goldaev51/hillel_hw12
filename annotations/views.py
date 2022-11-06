@@ -1,6 +1,3 @@
+from annotations.models import Author, Book, Publisher, Store
+
 from django.shortcuts import render
-
-from annotations.models import Author, Publisher, Book, Store
-
-
-
