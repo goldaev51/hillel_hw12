@@ -3,333 +3,213 @@
   "model": "annotations.author",
   "pk": 1,
   "fields": {
-    "name": "Scott",
-    "age": 71
+    "name": "Harold",
+    "age": 67
   }
 },
 {
   "model": "annotations.author",
   "pk": 2,
   "fields": {
-    "name": "Anthony",
-    "age": 77
+    "name": "Amanda",
+    "age": 89
   }
 },
 {
   "model": "annotations.author",
   "pk": 3,
   "fields": {
-    "name": "Susan",
-    "age": 19
+    "name": "Ryan",
+    "age": 49
   }
 },
 {
   "model": "annotations.author",
   "pk": 4,
   "fields": {
-    "name": "Robin",
-    "age": 80
+    "name": "Tiffany",
+    "age": 44
   }
 },
 {
   "model": "annotations.author",
   "pk": 5,
   "fields": {
-    "name": "Megan",
-    "age": 33
+    "name": "Kevin",
+    "age": 91
   }
 },
 {
   "model": "annotations.author",
   "pk": 6,
   "fields": {
-    "name": "Tara",
-    "age": 66
+    "name": "Michael",
+    "age": 84
   }
 },
 {
   "model": "annotations.author",
   "pk": 7,
   "fields": {
-    "name": "Wayne",
-    "age": 96
+    "name": "Kristen",
+    "age": 75
   }
 },
 {
   "model": "annotations.author",
   "pk": 8,
   "fields": {
-    "name": "Veronica",
-    "age": 75
+    "name": "Rita",
+    "age": 50
   }
 },
 {
   "model": "annotations.author",
   "pk": 9,
   "fields": {
-    "name": "Leslie",
-    "age": 94
+    "name": "Julie",
+    "age": 74
   }
 },
 {
   "model": "annotations.author",
   "pk": 10,
   "fields": {
-    "name": "Samantha",
-    "age": 48
+    "name": "Cameron",
+    "age": 38
   }
 },
 {
   "model": "annotations.author",
   "pk": 11,
   "fields": {
-    "name": "Abigail",
-    "age": 94
+    "name": "Angela",
+    "age": 54
   }
 },
 {
   "model": "annotations.author",
   "pk": 12,
   "fields": {
-    "name": "Marissa",
-    "age": 95
+    "name": "Kristine",
+    "age": 44
   }
 },
 {
   "model": "annotations.author",
   "pk": 13,
   "fields": {
-    "name": "Danielle",
-    "age": 52
+    "name": "Valerie",
+    "age": 98
   }
 },
 {
   "model": "annotations.author",
   "pk": 14,
   "fields": {
-    "name": "Stephanie",
-    "age": 34
+    "name": "Christopher",
+    "age": 30
   }
 },
 {
   "model": "annotations.author",
   "pk": 15,
   "fields": {
-    "name": "Christopher",
-    "age": 71
+    "name": "John",
+    "age": 63
   }
 },
 {
   "model": "annotations.author",
   "pk": 16,
   "fields": {
-    "name": "Nicole",
-    "age": 19
+    "name": "Shelby",
+    "age": 78
   }
 },
 {
   "model": "annotations.author",
   "pk": 17,
   "fields": {
-    "name": "Mark",
-    "age": 96
+    "name": "Deborah",
+    "age": 81
   }
 },
 {
   "model": "annotations.author",
   "pk": 18,
   "fields": {
-    "name": "Barbara",
-    "age": 66
+    "name": "Natalie",
+    "age": 39
   }
 },
 {
   "model": "annotations.author",
   "pk": 19,
   "fields": {
-    "name": "Randy",
-    "age": 81
+    "name": "Marcus",
+    "age": 100
   }
 },
 {
   "model": "annotations.author",
   "pk": 20,
   "fields": {
-    "name": "Craig",
-    "age": 61
+    "name": "Angela",
+    "age": 55
   }
 },
 {
   "model": "annotations.author",
   "pk": 21,
   "fields": {
-    "name": "Amanda",
-    "age": 18
+    "name": "Teresa",
+    "age": 48
   }
 },
 {
   "model": "annotations.author",
   "pk": 22,
   "fields": {
-    "name": "Cynthia",
-    "age": 34
+    "name": "Jesse",
+    "age": 21
   }
 },
 {
   "model": "annotations.author",
   "pk": 23,
   "fields": {
-    "name": "Rachel",
-    "age": 92
+    "name": "Juan",
+    "age": 74
   }
 },
 {
   "model": "annotations.author",
   "pk": 24,
   "fields": {
-    "name": "Patricia",
-    "age": 73
+    "name": "Dylan",
+    "age": 85
   }
 },
 {
   "model": "annotations.author",
   "pk": 25,
   "fields": {
-    "name": "Briana",
-    "age": 83
+    "name": "Elizabeth",
+    "age": 95
   }
 },
 {
   "model": "annotations.author",
   "pk": 26,
   "fields": {
-    "name": "Nicole",
-    "age": 80
+    "name": "James",
+    "age": 49
   }
 },
 {
   "model": "annotations.author",
   "pk": 27,
-  "fields": {
-    "name": "Denise",
-    "age": 39
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 28,
-  "fields": {
-    "name": "Melanie",
-    "age": 81
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 29,
-  "fields": {
-    "name": "Jeffery",
-    "age": 57
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 30,
-  "fields": {
-    "name": "Cassandra",
-    "age": 20
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 31,
-  "fields": {
-    "name": "Amy",
-    "age": 47
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 32,
-  "fields": {
-    "name": "Kimberly",
-    "age": 46
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 33,
-  "fields": {
-    "name": "Jennifer",
-    "age": 17
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 34,
-  "fields": {
-    "name": "Dana",
-    "age": 66
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 35,
-  "fields": {
-    "name": "Jared",
-    "age": 36
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 36,
-  "fields": {
-    "name": "Robert",
-    "age": 62
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 37,
-  "fields": {
-    "name": "Daniel",
-    "age": 54
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 38,
-  "fields": {
-    "name": "Daniel",
-    "age": 63
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 39,
-  "fields": {
-    "name": "Brandon",
-    "age": 69
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 40,
-  "fields": {
-    "name": "Rachel",
-    "age": 45
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 41,
-  "fields": {
-    "name": "Jessica",
-    "age": 27
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 42,
   "fields": {
     "name": "Michael",
     "age": 21
@@ -337,97 +217,217 @@
 },
 {
   "model": "annotations.author",
+  "pk": 28,
+  "fields": {
+    "name": "Joanne",
+    "age": 67
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 29,
+  "fields": {
+    "name": "Michael",
+    "age": 65
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 30,
+  "fields": {
+    "name": "Elizabeth",
+    "age": 24
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 31,
+  "fields": {
+    "name": "Ricky",
+    "age": 91
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 32,
+  "fields": {
+    "name": "Cheyenne",
+    "age": 41
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 33,
+  "fields": {
+    "name": "Nancy",
+    "age": 27
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 34,
+  "fields": {
+    "name": "Thomas",
+    "age": 40
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 35,
+  "fields": {
+    "name": "David",
+    "age": 27
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 36,
+  "fields": {
+    "name": "Jason",
+    "age": 41
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 37,
+  "fields": {
+    "name": "Travis",
+    "age": 48
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 38,
+  "fields": {
+    "name": "Megan",
+    "age": 24
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 39,
+  "fields": {
+    "name": "Timothy",
+    "age": 36
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 40,
+  "fields": {
+    "name": "Allison",
+    "age": 95
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 41,
+  "fields": {
+    "name": "Cynthia",
+    "age": 19
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 42,
+  "fields": {
+    "name": "Brian",
+    "age": 52
+  }
+},
+{
+  "model": "annotations.author",
   "pk": 43,
   "fields": {
-    "name": "Michelle",
-    "age": 93
+    "name": "Amanda",
+    "age": 22
   }
 },
 {
   "model": "annotations.author",
   "pk": 44,
   "fields": {
-    "name": "Lori",
-    "age": 43
+    "name": "Joel",
+    "age": 74
   }
 },
 {
   "model": "annotations.author",
   "pk": 45,
   "fields": {
-    "name": "Keith",
-    "age": 36
+    "name": "Sandra",
+    "age": 60
   }
 },
 {
   "model": "annotations.author",
   "pk": 46,
   "fields": {
-    "name": "Diana",
-    "age": 40
+    "name": "Kelsey",
+    "age": 68
   }
 },
 {
   "model": "annotations.author",
   "pk": 47,
   "fields": {
-    "name": "Daniel",
-    "age": 90
+    "name": "Debra",
+    "age": 20
   }
 },
 {
   "model": "annotations.author",
   "pk": 48,
   "fields": {
-    "name": "Michael",
-    "age": 77
+    "name": "Francisco",
+    "age": 31
   }
 },
 {
   "model": "annotations.author",
   "pk": 49,
   "fields": {
-    "name": "Patricia",
-    "age": 83
+    "name": "Patrick",
+    "age": 42
   }
 },
 {
   "model": "annotations.author",
   "pk": 50,
   "fields": {
-    "name": "William",
-    "age": 54
+    "name": "Sarah",
+    "age": 30
   }
 },
 {
   "model": "annotations.author",
   "pk": 51,
   "fields": {
-    "name": "Ryan",
-    "age": 20
+    "name": "Richard",
+    "age": 44
   }
 },
 {
   "model": "annotations.author",
   "pk": 52,
   "fields": {
-    "name": "Sara",
-    "age": 86
+    "name": "Denise",
+    "age": 65
   }
 },
 {
   "model": "annotations.author",
   "pk": 53,
   "fields": {
-    "name": "Alex",
-    "age": 65
+    "name": "Richard",
+    "age": 87
   }
 },
 {
   "model": "annotations.author",
   "pk": 54,
   "fields": {
-    "name": "James",
+    "name": "Lauren",
     "age": 45
   }
 },
@@ -435,293 +435,165 @@
   "model": "annotations.author",
   "pk": 55,
   "fields": {
-    "name": "Jennifer",
-    "age": 23
+    "name": "Monica",
+    "age": 43
   }
 },
 {
   "model": "annotations.author",
   "pk": 56,
   "fields": {
-    "name": "Lisa",
-    "age": 58
+    "name": "Matthew",
+    "age": 87
   }
 },
 {
   "model": "annotations.author",
   "pk": 57,
   "fields": {
-    "name": "Heather",
-    "age": 77
+    "name": "Tammy",
+    "age": 100
   }
 },
 {
   "model": "annotations.author",
   "pk": 58,
   "fields": {
-    "name": "Michael",
-    "age": 80
+    "name": "Alyssa",
+    "age": 64
   }
 },
 {
   "model": "annotations.author",
   "pk": 59,
   "fields": {
-    "name": "Jason",
-    "age": 18
+    "name": "Candice",
+    "age": 39
   }
 },
 {
   "model": "annotations.author",
   "pk": 60,
   "fields": {
-    "name": "William",
-    "age": 19
+    "name": "John",
+    "age": 40
   }
 },
 {
   "model": "annotations.author",
   "pk": 61,
   "fields": {
-    "name": "Raymond",
-    "age": 58
+    "name": "Jenny",
+    "age": 95
   }
 },
 {
   "model": "annotations.author",
   "pk": 62,
   "fields": {
-    "name": "Anthony",
-    "age": 54
+    "name": "Michael",
+    "age": 44
   }
 },
 {
   "model": "annotations.author",
   "pk": 63,
   "fields": {
-    "name": "Janet",
-    "age": 20
+    "name": "Melanie",
+    "age": 26
   }
 },
 {
   "model": "annotations.author",
   "pk": 64,
   "fields": {
-    "name": "Tina",
-    "age": 31
+    "name": "Amber",
+    "age": 19
   }
 },
 {
   "model": "annotations.author",
   "pk": 65,
   "fields": {
-    "name": "Tammy",
-    "age": 32
+    "name": "Max",
+    "age": 79
   }
 },
 {
   "model": "annotations.author",
   "pk": 66,
   "fields": {
-    "name": "Regina",
-    "age": 66
+    "name": "Jason",
+    "age": 93
   }
 },
 {
   "model": "annotations.author",
   "pk": 67,
   "fields": {
-    "name": "Peter",
-    "age": 62
+    "name": "Calvin",
+    "age": 33
   }
 },
 {
   "model": "annotations.author",
   "pk": 68,
   "fields": {
-    "name": "Erin",
-    "age": 58
+    "name": "Sarah",
+    "age": 25
   }
 },
 {
   "model": "annotations.author",
   "pk": 69,
   "fields": {
-    "name": "Julie",
-    "age": 24
+    "name": "Ryan",
+    "age": 100
   }
 },
 {
   "model": "annotations.author",
   "pk": 70,
   "fields": {
-    "name": "Kevin",
-    "age": 29
+    "name": "Heather",
+    "age": 53
   }
 },
 {
   "model": "annotations.author",
   "pk": 71,
   "fields": {
-    "name": "Robert",
-    "age": 77
+    "name": "Sarah",
+    "age": 75
   }
 },
 {
   "model": "annotations.author",
   "pk": 72,
   "fields": {
-    "name": "Sarah",
-    "age": 74
+    "name": "Andrea",
+    "age": 75
   }
 },
 {
   "model": "annotations.author",
   "pk": 73,
   "fields": {
-    "name": "Michael",
-    "age": 80
+    "name": "Keith",
+    "age": 17
   }
 },
 {
   "model": "annotations.author",
   "pk": 74,
   "fields": {
-    "name": "Eric",
-    "age": 28
+    "name": "Jonathan",
+    "age": 45
   }
 },
 {
   "model": "annotations.author",
   "pk": 75,
-  "fields": {
-    "name": "Melissa",
-    "age": 48
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 76,
-  "fields": {
-    "name": "Zachary",
-    "age": 59
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 77,
-  "fields": {
-    "name": "Clarence",
-    "age": 69
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 78,
-  "fields": {
-    "name": "Taylor",
-    "age": 30
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 79,
-  "fields": {
-    "name": "John",
-    "age": 29
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 80,
-  "fields": {
-    "name": "Tanya",
-    "age": 39
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 81,
-  "fields": {
-    "name": "Robert",
-    "age": 46
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 82,
-  "fields": {
-    "name": "Michelle",
-    "age": 80
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 83,
-  "fields": {
-    "name": "Jesus",
-    "age": 51
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 84,
-  "fields": {
-    "name": "Bianca",
-    "age": 78
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 85,
-  "fields": {
-    "name": "David",
-    "age": 61
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 86,
-  "fields": {
-    "name": "April",
-    "age": 39
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 87,
-  "fields": {
-    "name": "David",
-    "age": 21
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 88,
-  "fields": {
-    "name": "Lisa",
-    "age": 57
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 89,
-  "fields": {
-    "name": "Lucas",
-    "age": 53
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 90,
-  "fields": {
-    "name": "Heather",
-    "age": 36
-  }
-},
-{
-  "model": "annotations.author",
-  "pk": 91,
   "fields": {
     "name": "Nicole",
     "age": 18
@@ -729,58 +601,186 @@
 },
 {
   "model": "annotations.author",
+  "pk": 76,
+  "fields": {
+    "name": "Douglas",
+    "age": 23
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 77,
+  "fields": {
+    "name": "Harold",
+    "age": 53
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 78,
+  "fields": {
+    "name": "Andrew",
+    "age": 82
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 79,
+  "fields": {
+    "name": "Daniel",
+    "age": 81
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 80,
+  "fields": {
+    "name": "Antonio",
+    "age": 69
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 81,
+  "fields": {
+    "name": "Kim",
+    "age": 94
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 82,
+  "fields": {
+    "name": "Vanessa",
+    "age": 21
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 83,
+  "fields": {
+    "name": "Cameron",
+    "age": 58
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 84,
+  "fields": {
+    "name": "Darlene",
+    "age": 34
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 85,
+  "fields": {
+    "name": "Megan",
+    "age": 53
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 86,
+  "fields": {
+    "name": "April",
+    "age": 36
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 87,
+  "fields": {
+    "name": "Sarah",
+    "age": 86
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 88,
+  "fields": {
+    "name": "Denise",
+    "age": 91
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 89,
+  "fields": {
+    "name": "Daniel",
+    "age": 97
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 90,
+  "fields": {
+    "name": "Amy",
+    "age": 18
+  }
+},
+{
+  "model": "annotations.author",
+  "pk": 91,
+  "fields": {
+    "name": "Jeremy",
+    "age": 91
+  }
+},
+{
+  "model": "annotations.author",
   "pk": 92,
   "fields": {
-    "name": "Ashley",
-    "age": 54
+    "name": "Jessica",
+    "age": 35
   }
 },
 {
   "model": "annotations.author",
   "pk": 93,
   "fields": {
-    "name": "Laurie",
-    "age": 80
+    "name": "Nicholas",
+    "age": 16
   }
 },
 {
   "model": "annotations.author",
   "pk": 94,
   "fields": {
-    "name": "Christina",
-    "age": 78
+    "name": "Cassandra",
+    "age": 75
   }
 },
 {
   "model": "annotations.author",
   "pk": 95,
   "fields": {
-    "name": "Michelle",
-    "age": 17
+    "name": "Elaine",
+    "age": 73
   }
 },
 {
   "model": "annotations.author",
   "pk": 96,
   "fields": {
-    "name": "Jack",
-    "age": 58
+    "name": "Christie",
+    "age": 85
   }
 },
 {
   "model": "annotations.author",
   "pk": 97,
   "fields": {
-    "name": "Logan",
-    "age": 23
+    "name": "Michael",
+    "age": 36
   }
 },
 {
   "model": "annotations.author",
   "pk": 98,
   "fields": {
-    "name": "Gregory",
-    "age": 17
+    "name": "Jessica",
+    "age": 58
   }
 },
 {
@@ -788,15 +788,15 @@
   "pk": 99,
   "fields": {
     "name": "John",
-    "age": 62
+    "age": 21
   }
 },
 {
   "model": "annotations.author",
   "pk": 100,
   "fields": {
-    "name": "Christopher",
-    "age": 69
+    "name": "Ryan",
+    "age": 62
   }
 },
 {
@@ -1014,14 +1014,15 @@
   "pk": 1,
   "fields": {
     "name": "Book_0",
-    "pages": 430,
-    "price": "851.40",
-    "rating": 63.67,
-    "publisher": 13,
-    "pubdate": "2008-12-16",
+    "pages": 969,
+    "price": "206.58",
+    "rating": 35.75,
+    "publisher": 20,
+    "pubdate": "2013-08-30",
     "authors": [
-      53,
-      83
+      26,
+      28,
+      75
     ]
   }
 },
@@ -1030,13 +1031,15 @@
   "pk": 2,
   "fields": {
     "name": "Book_1",
-    "pages": 685,
-    "price": "559.04",
-    "rating": 81.44,
-    "publisher": 24,
-    "pubdate": "1934-07-25",
+    "pages": 183,
+    "price": "829.49",
+    "rating": 26.0,
+    "publisher": 19,
+    "pubdate": "1942-06-25",
     "authors": [
-      72
+      31,
+      39,
+      74
     ]
   }
 },
@@ -1045,14 +1048,13 @@
   "pk": 3,
   "fields": {
     "name": "Book_2",
-    "pages": 469,
-    "price": "629.50",
-    "rating": 91.75,
-    "publisher": 24,
-    "pubdate": "1915-02-05",
+    "pages": 74,
+    "price": "695.43",
+    "rating": 79.48,
+    "publisher": 12,
+    "pubdate": "1973-05-18",
     "authors": [
-      39,
-      50
+      23
     ]
   }
 },
@@ -1061,16 +1063,15 @@
   "pk": 4,
   "fields": {
     "name": "Book_3",
-    "pages": 76,
-    "price": "783.00",
-    "rating": 59.18,
-    "publisher": 21,
-    "pubdate": "1924-02-09",
+    "pages": 712,
+    "price": "330.43",
+    "rating": 94.12,
+    "publisher": 10,
+    "pubdate": "2000-07-31",
     "authors": [
-      22,
-      44,
-      46,
-      93
+      30,
+      51,
+      85
     ]
   }
 },
@@ -1079,13 +1080,15 @@
   "pk": 5,
   "fields": {
     "name": "Book_4",
-    "pages": 995,
-    "price": "411.47",
-    "rating": 71.29,
-    "publisher": 15,
-    "pubdate": "2012-03-22",
+    "pages": 775,
+    "price": "529.10",
+    "rating": 94.6,
+    "publisher": 16,
+    "pubdate": "2001-10-10",
     "authors": [
-      13
+      6,
+      61,
+      62
     ]
   }
 },
@@ -1094,13 +1097,13 @@
   "pk": 6,
   "fields": {
     "name": "Book_5",
-    "pages": 435,
-    "price": "279.82",
-    "rating": 45.44,
-    "publisher": 16,
-    "pubdate": "1999-07-29",
+    "pages": 409,
+    "price": "997.67",
+    "rating": 58.23,
+    "publisher": 19,
+    "pubdate": "1989-02-05",
     "authors": [
-      50
+      47
     ]
   }
 },
@@ -1109,13 +1112,14 @@
   "pk": 7,
   "fields": {
     "name": "Book_6",
-    "pages": 578,
-    "price": "862.84",
-    "rating": 89.83,
-    "publisher": 13,
-    "pubdate": "2017-03-30",
+    "pages": 451,
+    "price": "399.37",
+    "rating": 78.74,
+    "publisher": 3,
+    "pubdate": "2003-04-25",
     "authors": [
-      70
+      21,
+      100
     ]
   }
 },
@@ -1124,16 +1128,13 @@
   "pk": 8,
   "fields": {
     "name": "Book_7",
-    "pages": 807,
-    "price": "840.09",
-    "rating": 72.96,
+    "pages": 529,
+    "price": "826.55",
+    "rating": 23.13,
     "publisher": 16,
-    "pubdate": "1933-08-05",
+    "pubdate": "1999-09-25",
     "authors": [
-      42,
-      47,
-      59,
-      75
+      73
     ]
   }
 },
@@ -1142,14 +1143,13 @@
   "pk": 9,
   "fields": {
     "name": "Book_8",
-    "pages": 251,
-    "price": "410.82",
-    "rating": 94.54,
-    "publisher": 28,
-    "pubdate": "1983-03-09",
+    "pages": 916,
+    "price": "935.79",
+    "rating": 13.78,
+    "publisher": 29,
+    "pubdate": "1936-10-11",
     "authors": [
-      30,
-      80
+      14
     ]
   }
 },
@@ -1158,13 +1158,13 @@
   "pk": 10,
   "fields": {
     "name": "Book_9",
-    "pages": 11,
-    "price": "127.60",
-    "rating": 56.55,
-    "publisher": 6,
-    "pubdate": "1938-07-25",
+    "pages": 144,
+    "price": "106.54",
+    "rating": 55.29,
+    "publisher": 12,
+    "pubdate": "2006-05-18",
     "authors": [
-      91
+      92
     ]
   }
 },
@@ -1173,13 +1173,13 @@
   "pk": 11,
   "fields": {
     "name": "Book_10",
-    "pages": 158,
-    "price": "446.59",
-    "rating": 40.92,
-    "publisher": 5,
-    "pubdate": "1918-07-13",
+    "pages": 323,
+    "price": "503.73",
+    "rating": 74.42,
+    "publisher": 24,
+    "pubdate": "1949-06-13",
     "authors": [
-      90
+      16
     ]
   }
 },
@@ -1188,16 +1188,16 @@
   "pk": 12,
   "fields": {
     "name": "Book_11",
-    "pages": 969,
-    "price": "522.00",
-    "rating": 59.69,
-    "publisher": 22,
-    "pubdate": "2001-09-16",
+    "pages": 139,
+    "price": "816.88",
+    "rating": 78.78,
+    "publisher": 4,
+    "pubdate": "2004-09-16",
     "authors": [
-      11,
-      63,
-      67,
-      97
+      49,
+      74,
+      87,
+      93
     ]
   }
 },
@@ -1206,16 +1206,14 @@
   "pk": 13,
   "fields": {
     "name": "Book_12",
-    "pages": 472,
-    "price": "694.59",
-    "rating": 26.37,
-    "publisher": 16,
-    "pubdate": "1908-04-04",
+    "pages": 893,
+    "price": "900.64",
+    "rating": 40.48,
+    "publisher": 3,
+    "pubdate": "1970-12-29",
     "authors": [
-      9,
-      47,
-      77,
-      82
+      51,
+      90
     ]
   }
 },
@@ -1224,14 +1222,14 @@
   "pk": 14,
   "fields": {
     "name": "Book_13",
-    "pages": 21,
-    "price": "421.47",
-    "rating": 63.08,
-    "publisher": 25,
-    "pubdate": "1976-07-08",
+    "pages": 378,
+    "price": "382.43",
+    "rating": 85.37,
+    "publisher": 12,
+    "pubdate": "2001-10-23",
     "authors": [
-      25,
-      100
+      55,
+      89
     ]
   }
 },
@@ -1240,13 +1238,16 @@
   "pk": 15,
   "fields": {
     "name": "Book_14",
-    "pages": 827,
-    "price": "763.78",
-    "rating": 14.24,
-    "publisher": 6,
-    "pubdate": "1906-04-28",
+    "pages": 687,
+    "price": "912.07",
+    "rating": 75.73,
+    "publisher": 5,
+    "pubdate": "1996-07-20",
     "authors": [
-      47
+      14,
+      20,
+      34,
+      41
     ]
   }
 },
@@ -1255,13 +1256,16 @@
   "pk": 16,
   "fields": {
     "name": "Book_15",
-    "pages": 610,
-    "price": "494.88",
-    "rating": 64.66,
-    "publisher": 30,
-    "pubdate": "1995-02-04",
+    "pages": 209,
+    "price": "741.94",
+    "rating": 58.25,
+    "publisher": 5,
+    "pubdate": "1958-09-20",
     "authors": [
-      50
+      25,
+      34,
+      58,
+      91
     ]
   }
 },
@@ -1270,15 +1274,13 @@
   "pk": 17,
   "fields": {
     "name": "Book_16",
-    "pages": 650,
-    "price": "656.49",
-    "rating": 20.44,
-    "publisher": 9,
-    "pubdate": "1949-03-04",
+    "pages": 141,
+    "price": "15.47",
+    "rating": 54.31,
+    "publisher": 16,
+    "pubdate": "1985-07-03",
     "authors": [
-      70,
-      73,
-      77
+      59
     ]
   }
 },
@@ -1287,15 +1289,16 @@
   "pk": 18,
   "fields": {
     "name": "Book_17",
-    "pages": 281,
-    "price": "202.08",
-    "rating": 61.32,
-    "publisher": 14,
-    "pubdate": "1993-10-10",
+    "pages": 529,
+    "price": "249.96",
+    "rating": 87.53,
+    "publisher": 10,
+    "pubdate": "1950-03-20",
     "authors": [
-      58,
-      81,
-      96
+      51,
+      79,
+      80,
+      85
     ]
   }
 },
@@ -1304,15 +1307,15 @@
   "pk": 19,
   "fields": {
     "name": "Book_18",
-    "pages": 660,
-    "price": "120.99",
-    "rating": 70.29,
-    "publisher": 13,
-    "pubdate": "1909-06-09",
+    "pages": 104,
+    "price": "479.74",
+    "rating": 41.72,
+    "publisher": 7,
+    "pubdate": "1906-02-28",
     "authors": [
-      4,
-      12,
-      75
+      37,
+      38,
+      92
     ]
   }
 },
@@ -1321,15 +1324,16 @@
   "pk": 20,
   "fields": {
     "name": "Book_19",
-    "pages": 498,
-    "price": "555.69",
-    "rating": 79.07,
-    "publisher": 19,
-    "pubdate": "1973-10-25",
+    "pages": 803,
+    "price": "697.98",
+    "rating": 21.44,
+    "publisher": 26,
+    "pubdate": "2005-01-26",
     "authors": [
-      5,
-      46,
-      70
+      40,
+      41,
+      47,
+      88
     ]
   }
 },
@@ -1338,14 +1342,15 @@
   "pk": 21,
   "fields": {
     "name": "Book_20",
-    "pages": 920,
-    "price": "622.86",
-    "rating": 71.83,
-    "publisher": 6,
-    "pubdate": "1971-06-08",
+    "pages": 174,
+    "price": "817.62",
+    "rating": 46.07,
+    "publisher": 21,
+    "pubdate": "1946-03-08",
     "authors": [
-      13,
-      59
+      16,
+      41,
+      90
     ]
   }
 },
@@ -1354,13 +1359,16 @@
   "pk": 22,
   "fields": {
     "name": "Book_21",
-    "pages": 180,
-    "price": "864.25",
-    "rating": 6.38,
-    "publisher": 7,
-    "pubdate": "1984-03-03",
+    "pages": 703,
+    "price": "521.06",
+    "rating": 31.88,
+    "publisher": 24,
+    "pubdate": "1982-11-28",
     "authors": [
-      34
+      19,
+      85,
+      94,
+      96
     ]
   }
 },
@@ -1369,14 +1377,13 @@
   "pk": 23,
   "fields": {
     "name": "Book_22",
-    "pages": 121,
-    "price": "556.19",
-    "rating": 64.07,
-    "publisher": 29,
-    "pubdate": "2006-08-08",
+    "pages": 805,
+    "price": "118.34",
+    "rating": 67.28,
+    "publisher": 26,
+    "pubdate": "1953-04-04",
     "authors": [
-      46,
-      83
+      2
     ]
   }
 },
@@ -1385,15 +1392,15 @@
   "pk": 24,
   "fields": {
     "name": "Book_23",
-    "pages": 218,
-    "price": "168.93",
-    "rating": 14.33,
-    "publisher": 8,
-    "pubdate": "1900-10-17",
+    "pages": 614,
+    "price": "97.61",
+    "rating": 48.35,
+    "publisher": 17,
+    "pubdate": "1971-05-10",
     "authors": [
-      10,
-      80,
-      100
+      16,
+      30,
+      82
     ]
   }
 },
@@ -1402,14 +1409,16 @@
   "pk": 25,
   "fields": {
     "name": "Book_24",
-    "pages": 618,
-    "price": "893.53",
-    "rating": 17.33,
-    "publisher": 1,
-    "pubdate": "1931-11-20",
+    "pages": 330,
+    "price": "121.91",
+    "rating": 19.66,
+    "publisher": 11,
+    "pubdate": "1982-12-16",
     "authors": [
-      24,
-      86
+      9,
+      22,
+      43,
+      54
     ]
   }
 },
@@ -1418,13 +1427,14 @@
   "pk": 26,
   "fields": {
     "name": "Book_25",
-    "pages": 705,
-    "price": "118.28",
-    "rating": 7.14,
-    "publisher": 17,
-    "pubdate": "1965-04-02",
+    "pages": 3,
+    "price": "105.33",
+    "rating": 36.15,
+    "publisher": 4,
+    "pubdate": "1927-09-16",
     "authors": [
-      2
+      21,
+      41
     ]
   }
 },
@@ -1433,13 +1443,15 @@
   "pk": 27,
   "fields": {
     "name": "Book_26",
-    "pages": 517,
-    "price": "972.33",
-    "rating": 47.13,
-    "publisher": 28,
-    "pubdate": "1986-06-14",
+    "pages": 40,
+    "price": "460.28",
+    "rating": 70.88,
+    "publisher": 13,
+    "pubdate": "1960-05-13",
     "authors": [
-      99
+      19,
+      21,
+      72
     ]
   }
 },
@@ -1448,15 +1460,15 @@
   "pk": 28,
   "fields": {
     "name": "Book_27",
-    "pages": 291,
-    "price": "51.77",
-    "rating": 98.85,
-    "publisher": 30,
-    "pubdate": "1909-08-18",
+    "pages": 413,
+    "price": "793.69",
+    "rating": 8.59,
+    "publisher": 8,
+    "pubdate": "1999-04-06",
     "authors": [
-      61,
-      82,
-      93
+      1,
+      58,
+      63
     ]
   }
 },
@@ -1465,13 +1477,13 @@
   "pk": 29,
   "fields": {
     "name": "Book_28",
-    "pages": 99,
-    "price": "466.10",
-    "rating": 11.21,
+    "pages": 407,
+    "price": "384.05",
+    "rating": 71.22,
     "publisher": 18,
-    "pubdate": "1987-04-17",
+    "pubdate": "1981-09-08",
     "authors": [
-      44
+      63
     ]
   }
 },
@@ -1480,13 +1492,14 @@
   "pk": 30,
   "fields": {
     "name": "Book_29",
-    "pages": 29,
-    "price": "736.20",
-    "rating": 14.61,
-    "publisher": 12,
-    "pubdate": "1973-10-22",
+    "pages": 82,
+    "price": "599.52",
+    "rating": 76.29,
+    "publisher": 10,
+    "pubdate": "1999-02-04",
     "authors": [
-      30
+      35,
+      64
     ]
   }
 },
@@ -1495,15 +1508,13 @@
   "pk": 31,
   "fields": {
     "name": "Book_30",
-    "pages": 990,
-    "price": "444.15",
-    "rating": 35.87,
-    "publisher": 1,
-    "pubdate": "2008-03-12",
+    "pages": 751,
+    "price": "733.17",
+    "rating": 40.3,
+    "publisher": 2,
+    "pubdate": "1956-06-04",
     "authors": [
-      17,
-      60,
-      63
+      8
     ]
   }
 },
@@ -1512,13 +1523,15 @@
   "pk": 32,
   "fields": {
     "name": "Book_31",
-    "pages": 870,
-    "price": "514.57",
-    "rating": 57.0,
-    "publisher": 6,
-    "pubdate": "1946-06-29",
+    "pages": 78,
+    "price": "769.67",
+    "rating": 43.02,
+    "publisher": 12,
+    "pubdate": "1985-09-08",
     "authors": [
-      82
+      25,
+      32,
+      51
     ]
   }
 },
@@ -1527,13 +1540,14 @@
   "pk": 33,
   "fields": {
     "name": "Book_32",
-    "pages": 913,
-    "price": "810.53",
-    "rating": 79.35,
-    "publisher": 5,
-    "pubdate": "1968-02-22",
+    "pages": 675,
+    "price": "792.32",
+    "rating": 92.14,
+    "publisher": 2,
+    "pubdate": "1962-01-31",
     "authors": [
-      30
+      6,
+      57
     ]
   }
 },
@@ -1542,16 +1556,16 @@
   "pk": 34,
   "fields": {
     "name": "Book_33",
-    "pages": 731,
-    "price": "275.63",
-    "rating": 72.99,
-    "publisher": 14,
-    "pubdate": "1939-04-05",
+    "pages": 703,
+    "price": "153.45",
+    "rating": 94.15,
+    "publisher": 23,
+    "pubdate": "1916-03-17",
     "authors": [
-      20,
-      54,
-      57,
-      70
+      37,
+      63,
+      74,
+      98
     ]
   }
 },
@@ -1560,16 +1574,15 @@
   "pk": 35,
   "fields": {
     "name": "Book_34",
-    "pages": 880,
-    "price": "115.65",
-    "rating": 20.07,
-    "publisher": 1,
-    "pubdate": "2020-09-17",
+    "pages": 662,
+    "price": "611.95",
+    "rating": 94.79,
+    "publisher": 12,
+    "pubdate": "1932-07-04",
     "authors": [
-      1,
-      3,
-      54,
-      91
+      13,
+      84,
+      97
     ]
   }
 },
@@ -1578,16 +1591,14 @@
   "pk": 36,
   "fields": {
     "name": "Book_35",
-    "pages": 891,
-    "price": "297.86",
-    "rating": 26.24,
-    "publisher": 26,
-    "pubdate": "1934-03-06",
+    "pages": 557,
+    "price": "257.86",
+    "rating": 77.33,
+    "publisher": 22,
+    "pubdate": "1952-09-30",
     "authors": [
-      40,
-      72,
-      78,
-      97
+      36,
+      69
     ]
   }
 },
@@ -1596,16 +1607,14 @@
   "pk": 37,
   "fields": {
     "name": "Book_36",
-    "pages": 813,
-    "price": "735.27",
-    "rating": 70.7,
-    "publisher": 9,
-    "pubdate": "1917-12-19",
+    "pages": 201,
+    "price": "95.10",
+    "rating": 19.38,
+    "publisher": 8,
+    "pubdate": "1965-05-14",
     "authors": [
-      4,
-      9,
-      31,
-      86
+      85,
+      87
     ]
   }
 },
@@ -1614,14 +1623,14 @@
   "pk": 38,
   "fields": {
     "name": "Book_37",
-    "pages": 193,
-    "price": "553.40",
-    "rating": 27.81,
-    "publisher": 30,
-    "pubdate": "1920-08-28",
+    "pages": 243,
+    "price": "81.67",
+    "rating": 65.13,
+    "publisher": 2,
+    "pubdate": "1922-08-12",
     "authors": [
-      49,
-      78
+      10,
+      11
     ]
   }
 },
@@ -1630,16 +1639,14 @@
   "pk": 39,
   "fields": {
     "name": "Book_38",
-    "pages": 717,
-    "price": "835.41",
-    "rating": 40.7,
-    "publisher": 6,
-    "pubdate": "1934-01-25",
+    "pages": 419,
+    "price": "489.70",
+    "rating": 91.27,
+    "publisher": 29,
+    "pubdate": "1980-02-02",
     "authors": [
-      11,
-      43,
-      48,
-      94
+      14,
+      15
     ]
   }
 },
@@ -1648,14 +1655,16 @@
   "pk": 40,
   "fields": {
     "name": "Book_39",
-    "pages": 289,
-    "price": "177.51",
-    "rating": 51.11,
-    "publisher": 5,
-    "pubdate": "2000-07-25",
+    "pages": 713,
+    "price": "192.23",
+    "rating": 93.37,
+    "publisher": 20,
+    "pubdate": "2003-11-24",
     "authors": [
-      16,
-      28
+      25,
+      41,
+      60,
+      69
     ]
   }
 },
@@ -1664,13 +1673,16 @@
   "pk": 41,
   "fields": {
     "name": "Book_40",
-    "pages": 374,
-    "price": "909.56",
-    "rating": 5.64,
-    "publisher": 15,
-    "pubdate": "1916-04-27",
+    "pages": 722,
+    "price": "268.71",
+    "rating": 61.9,
+    "publisher": 4,
+    "pubdate": "1993-11-18",
     "authors": [
-      91
+      7,
+      13,
+      51,
+      78
     ]
   }
 },
@@ -1679,13 +1691,15 @@
   "pk": 42,
   "fields": {
     "name": "Book_41",
-    "pages": 252,
-    "price": "328.47",
-    "rating": 39.69,
-    "publisher": 13,
-    "pubdate": "2013-06-25",
+    "pages": 209,
+    "price": "740.23",
+    "rating": 7.67,
+    "publisher": 7,
+    "pubdate": "1948-06-01",
     "authors": [
-      12
+      10,
+      47,
+      56
     ]
   }
 },
@@ -1694,15 +1708,13 @@
   "pk": 43,
   "fields": {
     "name": "Book_42",
-    "pages": 988,
-    "price": "546.59",
-    "rating": 74.27,
-    "publisher": 16,
-    "pubdate": "1925-04-08",
+    "pages": 863,
+    "price": "203.73",
+    "rating": 6.88,
+    "publisher": 22,
+    "pubdate": "1944-07-27",
     "authors": [
-      39,
-      60,
-      70
+      6
     ]
   }
 },
@@ -1711,14 +1723,15 @@
   "pk": 44,
   "fields": {
     "name": "Book_43",
-    "pages": 881,
-    "price": "275.27",
-    "rating": 31.75,
-    "publisher": 5,
-    "pubdate": "1960-11-13",
+    "pages": 909,
+    "price": "193.61",
+    "rating": 45.67,
+    "publisher": 18,
+    "pubdate": "1906-08-16",
     "authors": [
-      27,
-      99
+      2,
+      37,
+      61
     ]
   }
 },
@@ -1727,15 +1740,14 @@
   "pk": 45,
   "fields": {
     "name": "Book_44",
-    "pages": 765,
-    "price": "196.27",
-    "rating": 49.55,
-    "publisher": 6,
-    "pubdate": "1923-09-17",
+    "pages": 868,
+    "price": "822.58",
+    "rating": 13.35,
+    "publisher": 11,
+    "pubdate": "1994-11-05",
     "authors": [
-      26,
-      27,
-      70
+      54,
+      79
     ]
   }
 },
@@ -1744,16 +1756,16 @@
   "pk": 46,
   "fields": {
     "name": "Book_45",
-    "pages": 656,
-    "price": "547.77",
-    "rating": 27.49,
-    "publisher": 20,
-    "pubdate": "1910-08-31",
+    "pages": 737,
+    "price": "481.65",
+    "rating": 69.52,
+    "publisher": 24,
+    "pubdate": "1946-02-20",
     "authors": [
-      19,
-      28,
-      35,
-      73
+      15,
+      47,
+      58,
+      99
     ]
   }
 },
@@ -1762,13 +1774,14 @@
   "pk": 47,
   "fields": {
     "name": "Book_46",
-    "pages": 160,
-    "price": "995.65",
-    "rating": 61.71,
-    "publisher": 25,
-    "pubdate": "1943-03-08",
+    "pages": 770,
+    "price": "18.67",
+    "rating": 85.85,
+    "publisher": 30,
+    "pubdate": "1920-12-15",
     "authors": [
-      58
+      21,
+      26
     ]
   }
 },
@@ -1777,15 +1790,16 @@
   "pk": 48,
   "fields": {
     "name": "Book_47",
-    "pages": 511,
-    "price": "839.82",
-    "rating": 35.93,
-    "publisher": 24,
-    "pubdate": "1926-08-22",
+    "pages": 602,
+    "price": "300.61",
+    "rating": 31.14,
+    "publisher": 11,
+    "pubdate": "1967-02-18",
     "authors": [
-      3,
-      11,
-      63
+      39,
+      60,
+      63,
+      65
     ]
   }
 },
@@ -1794,14 +1808,15 @@
   "pk": 49,
   "fields": {
     "name": "Book_48",
-    "pages": 883,
-    "price": "497.86",
-    "rating": 31.94,
-    "publisher": 14,
-    "pubdate": "1999-06-16",
+    "pages": 804,
+    "price": "926.73",
+    "rating": 55.43,
+    "publisher": 23,
+    "pubdate": "2012-05-19",
     "authors": [
-      16,
-      71
+      11,
+      81,
+      82
     ]
   }
 },
@@ -1810,13 +1825,13 @@
   "pk": 50,
   "fields": {
     "name": "Book_49",
-    "pages": 881,
-    "price": "612.02",
-    "rating": 67.32,
-    "publisher": 23,
-    "pubdate": "1965-06-07",
+    "pages": 758,
+    "price": "810.85",
+    "rating": 2.24,
+    "publisher": 30,
+    "pubdate": "1973-06-07",
     "authors": [
-      1
+      64
     ]
   }
 },
@@ -1825,14 +1840,15 @@
   "pk": 51,
   "fields": {
     "name": "Book_50",
-    "pages": 885,
-    "price": "101.66",
-    "rating": 49.71,
-    "publisher": 22,
-    "pubdate": "1965-06-05",
+    "pages": 87,
+    "price": "115.96",
+    "rating": 91.93,
+    "publisher": 30,
+    "pubdate": "1967-12-03",
     "authors": [
-      14,
-      91
+      18,
+      30,
+      78
     ]
   }
 },
@@ -1841,14 +1857,16 @@
   "pk": 52,
   "fields": {
     "name": "Book_51",
-    "pages": 239,
-    "price": "262.99",
-    "rating": 73.94,
-    "publisher": 15,
-    "pubdate": "2013-07-01",
+    "pages": 854,
+    "price": "466.59",
+    "rating": 93.45,
+    "publisher": 9,
+    "pubdate": "1995-02-07",
     "authors": [
-      18,
-      59
+      9,
+      10,
+      52,
+      82
     ]
   }
 },
@@ -1857,14 +1875,16 @@
   "pk": 53,
   "fields": {
     "name": "Book_52",
-    "pages": 594,
-    "price": "317.19",
-    "rating": 84.4,
-    "publisher": 4,
-    "pubdate": "1973-02-14",
+    "pages": 279,
+    "price": "984.60",
+    "rating": 41.98,
+    "publisher": 7,
+    "pubdate": "2005-07-10",
     "authors": [
-      20,
-      23
+      29,
+      63,
+      66,
+      71
     ]
   }
 },
@@ -1873,14 +1893,13 @@
   "pk": 54,
   "fields": {
     "name": "Book_53",
-    "pages": 69,
-    "price": "524.35",
-    "rating": 13.63,
-    "publisher": 9,
-    "pubdate": "1946-09-16",
+    "pages": 861,
+    "price": "295.53",
+    "rating": 37.31,
+    "publisher": 24,
+    "pubdate": "1927-07-17",
     "authors": [
-      33,
-      76
+      31
     ]
   }
 },
@@ -1889,16 +1908,15 @@
   "pk": 55,
   "fields": {
     "name": "Book_54",
-    "pages": 491,
-    "price": "92.46",
-    "rating": 70.67,
-    "publisher": 4,
-    "pubdate": "1932-05-14",
+    "pages": 461,
+    "price": "402.80",
+    "rating": 83.19,
+    "publisher": 12,
+    "pubdate": "1976-09-27",
     "authors": [
-      8,
-      16,
-      73,
-      78
+      25,
+      59,
+      73
     ]
   }
 },
@@ -1907,13 +1925,14 @@
   "pk": 56,
   "fields": {
     "name": "Book_55",
-    "pages": 539,
-    "price": "237.34",
-    "rating": 86.08,
-    "publisher": 27,
-    "pubdate": "1950-10-26",
+    "pages": 37,
+    "price": "147.24",
+    "rating": 66.77,
+    "publisher": 13,
+    "pubdate": "1997-06-26",
     "authors": [
-      86
+      30,
+      80
     ]
   }
 },
@@ -1922,16 +1941,16 @@
   "pk": 57,
   "fields": {
     "name": "Book_56",
-    "pages": 751,
-    "price": "931.25",
-    "rating": 98.43,
-    "publisher": 25,
-    "pubdate": "1956-06-13",
+    "pages": 843,
+    "price": "185.28",
+    "rating": 16.71,
+    "publisher": 28,
+    "pubdate": "1917-03-21",
     "authors": [
-      2,
-      85,
-      95,
-      96
+      7,
+      60,
+      81,
+      98
     ]
   }
 },
@@ -1940,15 +1959,16 @@
   "pk": 58,
   "fields": {
     "name": "Book_57",
-    "pages": 504,
-    "price": "747.60",
-    "rating": 62.85,
-    "publisher": 23,
-    "pubdate": "1925-02-11",
+    "pages": 497,
+    "price": "823.12",
+    "rating": 87.57,
+    "publisher": 18,
+    "pubdate": "2009-04-16",
     "authors": [
-      3,
-      38,
-      40
+      7,
+      51,
+      57,
+      100
     ]
   }
 },
@@ -1957,16 +1977,14 @@
   "pk": 59,
   "fields": {
     "name": "Book_58",
-    "pages": 301,
-    "price": "779.01",
-    "rating": 49.68,
-    "publisher": 17,
-    "pubdate": "1942-12-20",
+    "pages": 756,
+    "price": "953.57",
+    "rating": 65.21,
+    "publisher": 20,
+    "pubdate": "1945-05-14",
     "authors": [
-      2,
-      46,
-      73,
-      95
+      25,
+      50
     ]
   }
 },
@@ -1975,16 +1993,15 @@
   "pk": 60,
   "fields": {
     "name": "Book_59",
-    "pages": 67,
-    "price": "415.14",
-    "rating": 79.89,
-    "publisher": 17,
-    "pubdate": "1905-10-28",
+    "pages": 355,
+    "price": "148.79",
+    "rating": 56.18,
+    "publisher": 24,
+    "pubdate": "2014-06-03",
     "authors": [
-      1,
-      57,
-      61,
-      80
+      3,
+      26,
+      40
     ]
   }
 },
@@ -1993,15 +2010,13 @@
   "pk": 61,
   "fields": {
     "name": "Book_60",
-    "pages": 981,
-    "price": "9.68",
-    "rating": 79.25,
-    "publisher": 13,
-    "pubdate": "1961-09-15",
+    "pages": 628,
+    "price": "865.07",
+    "rating": 27.97,
+    "publisher": 17,
+    "pubdate": "1914-12-18",
     "authors": [
-      33,
-      63,
-      91
+      23
     ]
   }
 },
@@ -2010,14 +2025,13 @@
   "pk": 62,
   "fields": {
     "name": "Book_61",
-    "pages": 230,
-    "price": "948.54",
-    "rating": 71.89,
-    "publisher": 11,
-    "pubdate": "1958-02-14",
+    "pages": 556,
+    "price": "78.42",
+    "rating": 23.8,
+    "publisher": 8,
+    "pubdate": "1980-07-01",
     "authors": [
-      52,
-      98
+      87
     ]
   }
 },
@@ -2026,14 +2040,15 @@
   "pk": 63,
   "fields": {
     "name": "Book_62",
-    "pages": 842,
-    "price": "469.33",
-    "rating": 36.66,
-    "publisher": 12,
-    "pubdate": "2000-01-23",
+    "pages": 678,
+    "price": "860.19",
+    "rating": 63.21,
+    "publisher": 23,
+    "pubdate": "1927-01-09",
     "authors": [
-      6,
-      25
+      17,
+      85,
+      99
     ]
   }
 },
@@ -2042,16 +2057,16 @@
   "pk": 64,
   "fields": {
     "name": "Book_63",
-    "pages": 61,
-    "price": "515.80",
-    "rating": 72.94,
-    "publisher": 27,
-    "pubdate": "1907-03-03",
+    "pages": 874,
+    "price": "441.23",
+    "rating": 81.6,
+    "publisher": 21,
+    "pubdate": "1998-03-26",
     "authors": [
-      14,
-      23,
-      24,
-      52
+      37,
+      44,
+      46,
+      97
     ]
   }
 },
@@ -2060,15 +2075,13 @@
   "pk": 65,
   "fields": {
     "name": "Book_64",
-    "pages": 384,
-    "price": "548.81",
-    "rating": 68.79,
-    "publisher": 2,
-    "pubdate": "2020-08-29",
+    "pages": 963,
+    "price": "548.79",
+    "rating": 14.52,
+    "publisher": 16,
+    "pubdate": "2013-11-22",
     "authors": [
-      30,
-      47,
-      93
+      46
     ]
   }
 },
@@ -2077,15 +2090,13 @@
   "pk": 66,
   "fields": {
     "name": "Book_65",
-    "pages": 933,
-    "price": "604.47",
-    "rating": 68.4,
-    "publisher": 23,
-    "pubdate": "1965-01-11",
+    "pages": 752,
+    "price": "455.26",
+    "rating": 56.96,
+    "publisher": 18,
+    "pubdate": "2014-04-09",
     "authors": [
-      1,
-      12,
-      46
+      29
     ]
   }
 },
@@ -2094,13 +2105,13 @@
   "pk": 67,
   "fields": {
     "name": "Book_66",
-    "pages": 41,
-    "price": "38.01",
-    "rating": 21.98,
-    "publisher": 29,
-    "pubdate": "1941-01-31",
+    "pages": 177,
+    "price": "426.33",
+    "rating": 96.0,
+    "publisher": 27,
+    "pubdate": "1918-05-02",
     "authors": [
-      30
+      64
     ]
   }
 },
@@ -2109,13 +2120,16 @@
   "pk": 68,
   "fields": {
     "name": "Book_67",
-    "pages": 924,
-    "price": "957.12",
-    "rating": 22.24,
-    "publisher": 16,
-    "pubdate": "1968-12-13",
+    "pages": 713,
+    "price": "175.69",
+    "rating": 15.13,
+    "publisher": 15,
+    "pubdate": "1988-05-08",
     "authors": [
-      11
+      26,
+      33,
+      49,
+      82
     ]
   }
 },
@@ -2124,15 +2138,15 @@
   "pk": 69,
   "fields": {
     "name": "Book_68",
-    "pages": 856,
-    "price": "930.23",
-    "rating": 31.21,
-    "publisher": 10,
-    "pubdate": "1978-11-23",
+    "pages": 954,
+    "price": "203.21",
+    "rating": 39.23,
+    "publisher": 20,
+    "pubdate": "1933-11-19",
     "authors": [
-      1,
+      19,
       30,
-      33
+      31
     ]
   }
 },
@@ -2141,13 +2155,13 @@
   "pk": 70,
   "fields": {
     "name": "Book_69",
-    "pages": 904,
-    "price": "982.93",
-    "rating": 65.09,
-    "publisher": 14,
-    "pubdate": "1911-09-18",
+    "pages": 764,
+    "price": "687.65",
+    "rating": 21.94,
+    "publisher": 26,
+    "pubdate": "2013-02-09",
     "authors": [
-      44
+      89
     ]
   }
 },
@@ -2156,14 +2170,15 @@
   "pk": 71,
   "fields": {
     "name": "Book_70",
-    "pages": 615,
-    "price": "961.04",
-    "rating": 18.73,
-    "publisher": 16,
-    "pubdate": "1918-01-31",
+    "pages": 688,
+    "price": "869.85",
+    "rating": 24.66,
+    "publisher": 29,
+    "pubdate": "1923-01-15",
     "authors": [
-      14,
-      71
+      64,
+      78,
+      95
     ]
   }
 },
@@ -2172,15 +2187,16 @@
   "pk": 72,
   "fields": {
     "name": "Book_71",
-    "pages": 581,
-    "price": "47.42",
-    "rating": 58.87,
-    "publisher": 27,
-    "pubdate": "1946-09-25",
+    "pages": 150,
+    "price": "166.04",
+    "rating": 52.64,
+    "publisher": 29,
+    "pubdate": "1902-02-17",
     "authors": [
-      7,
-      27,
-      63
+      18,
+      26,
+      41,
+      43
     ]
   }
 },
@@ -2189,13 +2205,13 @@
   "pk": 73,
   "fields": {
     "name": "Book_72",
-    "pages": 414,
-    "price": "423.17",
-    "rating": 7.02,
-    "publisher": 12,
-    "pubdate": "1980-08-14",
+    "pages": 290,
+    "price": "222.46",
+    "rating": 72.41,
+    "publisher": 9,
+    "pubdate": "2007-01-24",
     "authors": [
-      8
+      46
     ]
   }
 },
@@ -2204,13 +2220,16 @@
   "pk": 74,
   "fields": {
     "name": "Book_73",
-    "pages": 283,
-    "price": "773.99",
-    "rating": 73.57,
-    "publisher": 17,
-    "pubdate": "1975-02-17",
+    "pages": 608,
+    "price": "644.50",
+    "rating": 48.45,
+    "publisher": 15,
+    "pubdate": "1905-04-14",
     "authors": [
-      81
+      32,
+      41,
+      63,
+      73
     ]
   }
 },
@@ -2219,16 +2238,15 @@
   "pk": 75,
   "fields": {
     "name": "Book_74",
-    "pages": 337,
-    "price": "157.48",
-    "rating": 20.5,
-    "publisher": 10,
-    "pubdate": "1981-07-09",
+    "pages": 572,
+    "price": "401.18",
+    "rating": 69.73,
+    "publisher": 8,
+    "pubdate": "2000-11-20",
     "authors": [
-      29,
-      54,
-      73,
-      84
+      27,
+      81,
+      95
     ]
   }
 },
@@ -2237,15 +2255,15 @@
   "pk": 76,
   "fields": {
     "name": "Book_75",
-    "pages": 710,
-    "price": "759.10",
-    "rating": 78.42,
-    "publisher": 13,
-    "pubdate": "1968-05-23",
+    "pages": 687,
+    "price": "525.30",
+    "rating": 72.85,
+    "publisher": 6,
+    "pubdate": "1991-12-01",
     "authors": [
-      13,
-      59,
-      75
+      19,
+      44,
+      100
     ]
   }
 },
@@ -2254,16 +2272,13 @@
   "pk": 77,
   "fields": {
     "name": "Book_76",
-    "pages": 874,
-    "price": "567.91",
-    "rating": 33.2,
-    "publisher": 30,
-    "pubdate": "1961-04-12",
+    "pages": 529,
+    "price": "370.59",
+    "rating": 54.11,
+    "publisher": 23,
+    "pubdate": "2014-11-03",
     "authors": [
-      14,
-      50,
-      70,
-      82
+      86
     ]
   }
 },
@@ -2272,15 +2287,16 @@
   "pk": 78,
   "fields": {
     "name": "Book_77",
-    "pages": 435,
-    "price": "330.36",
-    "rating": 2.71,
-    "publisher": 21,
-    "pubdate": "1944-10-23",
+    "pages": 288,
+    "price": "719.83",
+    "rating": 88.87,
+    "publisher": 3,
+    "pubdate": "1986-08-22",
     "authors": [
-      16,
-      48,
-      100
+      18,
+      26,
+      47,
+      64
     ]
   }
 },
@@ -2289,15 +2305,13 @@
   "pk": 79,
   "fields": {
     "name": "Book_78",
-    "pages": 107,
-    "price": "301.90",
-    "rating": 15.06,
-    "publisher": 22,
-    "pubdate": "2022-01-22",
+    "pages": 750,
+    "price": "792.81",
+    "rating": 86.67,
+    "publisher": 3,
+    "pubdate": "1990-01-11",
     "authors": [
-      5,
-      25,
-      92
+      17
     ]
   }
 },
@@ -2306,14 +2320,14 @@
   "pk": 80,
   "fields": {
     "name": "Book_79",
-    "pages": 866,
-    "price": "182.34",
-    "rating": 1.03,
-    "publisher": 29,
-    "pubdate": "1930-11-28",
+    "pages": 393,
+    "price": "610.18",
+    "rating": 14.85,
+    "publisher": 18,
+    "pubdate": "1960-05-01",
     "authors": [
       56,
-      77
+      94
     ]
   }
 },
@@ -2322,16 +2336,16 @@
   "pk": 81,
   "fields": {
     "name": "Book_80",
-    "pages": 205,
-    "price": "969.16",
-    "rating": 75.37,
-    "publisher": 20,
-    "pubdate": "1921-08-04",
+    "pages": 401,
+    "price": "945.11",
+    "rating": 79.88,
+    "publisher": 28,
+    "pubdate": "1932-07-10",
     "authors": [
-      20,
-      38,
-      61,
-      86
+      15,
+      18,
+      59,
+      97
     ]
   }
 },
@@ -2340,15 +2354,15 @@
   "pk": 82,
   "fields": {
     "name": "Book_81",
-    "pages": 210,
-    "price": "762.11",
-    "rating": 64.87,
-    "publisher": 26,
-    "pubdate": "1939-01-03",
+    "pages": 386,
+    "price": "344.67",
+    "rating": 43.47,
+    "publisher": 3,
+    "pubdate": "1999-03-02",
     "authors": [
-      16,
-      17,
-      87
+      18,
+      53,
+      58
     ]
   }
 },
@@ -2357,14 +2371,14 @@
   "pk": 83,
   "fields": {
     "name": "Book_82",
-    "pages": 920,
-    "price": "692.96",
-    "rating": 80.04,
-    "publisher": 23,
-    "pubdate": "1970-10-20",
+    "pages": 29,
+    "price": "9.75",
+    "rating": 12.55,
+    "publisher": 1,
+    "pubdate": "1976-03-27",
     "authors": [
-      77,
-      80
+      38,
+      79
     ]
   }
 },
@@ -2373,15 +2387,16 @@
   "pk": 84,
   "fields": {
     "name": "Book_83",
-    "pages": 19,
-    "price": "331.42",
-    "rating": 22.83,
-    "publisher": 5,
-    "pubdate": "2005-08-07",
+    "pages": 32,
+    "price": "942.28",
+    "rating": 12.3,
+    "publisher": 6,
+    "pubdate": "1911-08-09",
     "authors": [
-      7,
-      86,
-      100
+      42,
+      75,
+      81,
+      86
     ]
   }
 },
@@ -2390,13 +2405,15 @@
   "pk": 85,
   "fields": {
     "name": "Book_84",
-    "pages": 858,
-    "price": "440.75",
-    "rating": 10.86,
-    "publisher": 8,
-    "pubdate": "1949-08-13",
+    "pages": 602,
+    "price": "660.22",
+    "rating": 39.86,
+    "publisher": 29,
+    "pubdate": "2010-06-05",
     "authors": [
-      66
+      19,
+      32,
+      58
     ]
   }
 },
@@ -2405,15 +2422,16 @@
   "pk": 86,
   "fields": {
     "name": "Book_85",
-    "pages": 164,
-    "price": "630.45",
-    "rating": 84.17,
-    "publisher": 2,
-    "pubdate": "1970-07-26",
+    "pages": 689,
+    "price": "567.21",
+    "rating": 98.43,
+    "publisher": 9,
+    "pubdate": "1922-05-07",
     "authors": [
-      10,
-      36,
-      44
+      34,
+      48,
+      78,
+      92
     ]
   }
 },
@@ -2422,15 +2440,16 @@
   "pk": 87,
   "fields": {
     "name": "Book_86",
-    "pages": 865,
-    "price": "541.32",
-    "rating": 66.56,
-    "publisher": 9,
-    "pubdate": "1916-07-18",
+    "pages": 84,
+    "price": "271.73",
+    "rating": 72.9,
+    "publisher": 28,
+    "pubdate": "1959-09-03",
     "authors": [
-      29,
-      40,
-      48
+      6,
+      13,
+      43,
+      46
     ]
   }
 },
@@ -2439,14 +2458,13 @@
   "pk": 88,
   "fields": {
     "name": "Book_87",
-    "pages": 933,
-    "price": "47.24",
-    "rating": 5.42,
-    "publisher": 29,
-    "pubdate": "1951-10-16",
+    "pages": 914,
+    "price": "608.14",
+    "rating": 48.83,
+    "publisher": 30,
+    "pubdate": "1938-01-05",
     "authors": [
-      9,
-      28
+      82
     ]
   }
 },
@@ -2455,14 +2473,13 @@
   "pk": 89,
   "fields": {
     "name": "Book_88",
-    "pages": 156,
-    "price": "335.74",
-    "rating": 39.16,
-    "publisher": 25,
-    "pubdate": "2011-06-29",
+    "pages": 209,
+    "price": "815.64",
+    "rating": 83.39,
+    "publisher": 22,
+    "pubdate": "1967-03-22",
     "authors": [
-      21,
-      51
+      97
     ]
   }
 },
@@ -2471,14 +2488,15 @@
   "pk": 90,
   "fields": {
     "name": "Book_89",
-    "pages": 134,
-    "price": "821.27",
-    "rating": 47.05,
-    "publisher": 21,
-    "pubdate": "1912-10-07",
+    "pages": 235,
+    "price": "886.69",
+    "rating": 31.22,
+    "publisher": 3,
+    "pubdate": "1917-04-25",
     "authors": [
-      1,
-      99
+      32,
+      88,
+      89
     ]
   }
 },
@@ -2487,16 +2505,14 @@
   "pk": 91,
   "fields": {
     "name": "Book_90",
-    "pages": 419,
-    "price": "862.68",
-    "rating": 35.84,
-    "publisher": 25,
-    "pubdate": "1916-01-04",
+    "pages": 846,
+    "price": "751.17",
+    "rating": 82.93,
+    "publisher": 30,
+    "pubdate": "1964-01-26",
     "authors": [
-      2,
-      10,
-      63,
-      75
+      57,
+      87
     ]
   }
 },
@@ -2505,15 +2521,16 @@
   "pk": 92,
   "fields": {
     "name": "Book_91",
-    "pages": 293,
-    "price": "328.56",
-    "rating": 26.69,
-    "publisher": 2,
-    "pubdate": "1904-08-11",
+    "pages": 776,
+    "price": "306.26",
+    "rating": 27.03,
+    "publisher": 5,
+    "pubdate": "1976-09-07",
     "authors": [
-      8,
-      38,
-      98
+      24,
+      55,
+      59,
+      66
     ]
   }
 },
@@ -2522,14 +2539,14 @@
   "pk": 93,
   "fields": {
     "name": "Book_92",
-    "pages": 760,
-    "price": "151.04",
-    "rating": 21.32,
-    "publisher": 24,
-    "pubdate": "1962-12-03",
+    "pages": 842,
+    "price": "238.31",
+    "rating": 57.81,
+    "publisher": 8,
+    "pubdate": "2011-12-10",
     "authors": [
-      14,
-      54
+      62,
+      63
     ]
   }
 },
@@ -2538,13 +2555,15 @@
   "pk": 94,
   "fields": {
     "name": "Book_93",
-    "pages": 535,
-    "price": "349.91",
-    "rating": 19.72,
-    "publisher": 26,
-    "pubdate": "2006-01-07",
+    "pages": 592,
+    "price": "471.12",
+    "rating": 7.46,
+    "publisher": 25,
+    "pubdate": "1997-08-18",
     "authors": [
-      48
+      14,
+      51,
+      62
     ]
   }
 },
@@ -2553,13 +2572,13 @@
   "pk": 95,
   "fields": {
     "name": "Book_94",
-    "pages": 254,
-    "price": "777.48",
-    "rating": 85.84,
-    "publisher": 17,
-    "pubdate": "1968-09-29",
+    "pages": 461,
+    "price": "64.21",
+    "rating": 50.73,
+    "publisher": 13,
+    "pubdate": "1983-03-04",
     "authors": [
-      45
+      25
     ]
   }
 },
@@ -2568,15 +2587,13 @@
   "pk": 96,
   "fields": {
     "name": "Book_95",
-    "pages": 350,
-    "price": "342.16",
-    "rating": 8.53,
-    "publisher": 6,
-    "pubdate": "1912-09-13",
+    "pages": 526,
+    "price": "906.41",
+    "rating": 3.28,
+    "publisher": 5,
+    "pubdate": "1990-04-23",
     "authors": [
-      54,
-      89,
-      91
+      38
     ]
   }
 },
@@ -2585,14 +2602,13 @@
   "pk": 97,
   "fields": {
     "name": "Book_96",
-    "pages": 590,
-    "price": "792.03",
-    "rating": 66.34,
-    "publisher": 10,
-    "pubdate": "1969-05-09",
+    "pages": 210,
+    "price": "684.93",
+    "rating": 78.16,
+    "publisher": 2,
+    "pubdate": "1966-07-01",
     "authors": [
-      45,
-      67
+      99
     ]
   }
 },
@@ -2601,14 +2617,16 @@
   "pk": 98,
   "fields": {
     "name": "Book_97",
-    "pages": 89,
-    "price": "711.40",
-    "rating": 21.42,
-    "publisher": 28,
-    "pubdate": "1955-01-02",
+    "pages": 388,
+    "price": "136.71",
+    "rating": 90.78,
+    "publisher": 13,
+    "pubdate": "2013-08-16",
     "authors": [
-      59,
-      81
+      14,
+      15,
+      63,
+      83
     ]
   }
 },
@@ -2617,16 +2635,13 @@
   "pk": 99,
   "fields": {
     "name": "Book_98",
-    "pages": 385,
-    "price": "27.50",
-    "rating": 40.99,
-    "publisher": 4,
-    "pubdate": "1922-08-07",
+    "pages": 739,
+    "price": "681.75",
+    "rating": 63.76,
+    "publisher": 3,
+    "pubdate": "1984-10-21",
     "authors": [
-      2,
-      4,
-      51,
-      80
+      32
     ]
   }
 },
@@ -2635,14 +2650,15 @@
   "pk": 100,
   "fields": {
     "name": "Book_99",
-    "pages": 709,
-    "price": "5.86",
-    "rating": 10.22,
-    "publisher": 22,
-    "pubdate": "1957-08-12",
+    "pages": 282,
+    "price": "869.52",
+    "rating": 29.69,
+    "publisher": 27,
+    "pubdate": "1909-10-10",
     "authors": [
-      51,
-      66
+      2,
+      52,
+      93
     ]
   }
 },
@@ -2651,16 +2667,15 @@
   "pk": 101,
   "fields": {
     "name": "Book_100",
-    "pages": 499,
-    "price": "130.60",
-    "rating": 54.48,
-    "publisher": 26,
-    "pubdate": "1980-10-10",
+    "pages": 109,
+    "price": "17.92",
+    "rating": 31.92,
+    "publisher": 21,
+    "pubdate": "2007-09-06",
     "authors": [
-      7,
-      60,
-      69,
-      81
+      29,
+      36,
+      40
     ]
   }
 },
@@ -2669,13 +2684,13 @@
   "pk": 102,
   "fields": {
     "name": "Book_101",
-    "pages": 259,
-    "price": "451.42",
-    "rating": 85.16,
-    "publisher": 21,
-    "pubdate": "1924-01-21",
+    "pages": 15,
+    "price": "874.89",
+    "rating": 29.72,
+    "publisher": 16,
+    "pubdate": "2010-07-27",
     "authors": [
-      14
+      42
     ]
   }
 },
@@ -2684,13 +2699,15 @@
   "pk": 103,
   "fields": {
     "name": "Book_102",
-    "pages": 583,
-    "price": "588.65",
-    "rating": 8.43,
-    "publisher": 20,
-    "pubdate": "1982-10-03",
+    "pages": 554,
+    "price": "672.70",
+    "rating": 99.1,
+    "publisher": 17,
+    "pubdate": "1921-07-29",
     "authors": [
-      14
+      38,
+      43,
+      44
     ]
   }
 },
@@ -2699,14 +2716,13 @@
   "pk": 104,
   "fields": {
     "name": "Book_103",
-    "pages": 1,
-    "price": "807.62",
-    "rating": 29.85,
-    "publisher": 28,
-    "pubdate": "1991-09-17",
+    "pages": 160,
+    "price": "951.30",
+    "rating": 39.38,
+    "publisher": 24,
+    "pubdate": "1926-04-15",
     "authors": [
-      8,
-      34
+      60
     ]
   }
 },
@@ -2715,14 +2731,16 @@
   "pk": 105,
   "fields": {
     "name": "Book_104",
-    "pages": 517,
-    "price": "654.57",
-    "rating": 88.06,
-    "publisher": 7,
-    "pubdate": "1991-12-09",
+    "pages": 945,
+    "price": "417.90",
+    "rating": 40.65,
+    "publisher": 5,
+    "pubdate": "1980-07-06",
     "authors": [
-      48,
-      80
+      21,
+      27,
+      28,
+      65
     ]
   }
 },
@@ -2731,16 +2749,15 @@
   "pk": 106,
   "fields": {
     "name": "Book_105",
-    "pages": 288,
-    "price": "212.42",
-    "rating": 44.78,
+    "pages": 208,
+    "price": "374.86",
+    "rating": 1.69,
     "publisher": 19,
-    "pubdate": "1929-02-21",
+    "pubdate": "1932-03-07",
     "authors": [
-      6,
-      26,
-      28,
-      96
+      67,
+      71,
+      89
     ]
   }
 },
@@ -2749,13 +2766,13 @@
   "pk": 107,
   "fields": {
     "name": "Book_106",
-    "pages": 748,
-    "price": "480.70",
-    "rating": 7.96,
-    "publisher": 4,
-    "pubdate": "1961-03-23",
+    "pages": 665,
+    "price": "997.44",
+    "rating": 46.56,
+    "publisher": 17,
+    "pubdate": "2004-10-30",
     "authors": [
-      62
+      25
     ]
   }
 },
@@ -2764,13 +2781,14 @@
   "pk": 108,
   "fields": {
     "name": "Book_107",
-    "pages": 591,
-    "price": "89.75",
-    "rating": 43.64,
-    "publisher": 25,
-    "pubdate": "2017-10-25",
+    "pages": 669,
+    "price": "90.59",
+    "rating": 77.52,
+    "publisher": 29,
+    "pubdate": "1946-04-28",
     "authors": [
-      55
+      20,
+      53
     ]
   }
 },
@@ -2779,15 +2797,14 @@
   "pk": 109,
   "fields": {
     "name": "Book_108",
-    "pages": 333,
-    "price": "771.63",
-    "rating": 31.58,
-    "publisher": 22,
-    "pubdate": "1929-09-26",
+    "pages": 551,
+    "price": "101.85",
+    "rating": 49.2,
+    "publisher": 12,
+    "pubdate": "2014-09-15",
     "authors": [
-      62,
-      69,
-      87
+      58,
+      79
     ]
   }
 },
@@ -2796,13 +2813,15 @@
   "pk": 110,
   "fields": {
     "name": "Book_109",
-    "pages": 729,
-    "price": "966.02",
-    "rating": 39.93,
-    "publisher": 10,
-    "pubdate": "1969-08-16",
+    "pages": 359,
+    "price": "90.81",
+    "rating": 58.92,
+    "publisher": 21,
+    "pubdate": "1910-11-14",
     "authors": [
-      41
+      12,
+      78,
+      81
     ]
   }
 },
@@ -2811,13 +2830,13 @@
   "pk": 111,
   "fields": {
     "name": "Book_110",
-    "pages": 179,
-    "price": "535.80",
-    "rating": 48.15,
-    "publisher": 22,
-    "pubdate": "1981-01-13",
+    "pages": 684,
+    "price": "341.81",
+    "rating": 25.48,
+    "publisher": 19,
+    "pubdate": "1919-09-19",
     "authors": [
-      68
+      92
     ]
   }
 },
@@ -2826,14 +2845,14 @@
   "pk": 112,
   "fields": {
     "name": "Book_111",
-    "pages": 402,
-    "price": "335.31",
-    "rating": 6.29,
-    "publisher": 29,
-    "pubdate": "1943-09-07",
+    "pages": 688,
+    "price": "746.63",
+    "rating": 13.67,
+    "publisher": 30,
+    "pubdate": "1963-10-17",
     "authors": [
-      40,
-      81
+      23,
+      70
     ]
   }
 },
@@ -2842,15 +2861,16 @@
   "pk": 113,
   "fields": {
     "name": "Book_112",
-    "pages": 713,
-    "price": "104.32",
-    "rating": 12.88,
-    "publisher": 13,
-    "pubdate": "1931-09-05",
+    "pages": 341,
+    "price": "403.21",
+    "rating": 38.27,
+    "publisher": 9,
+    "pubdate": "1947-08-08",
     "authors": [
-      9,
-      75,
-      96
+      11,
+      32,
+      58,
+      79
     ]
   }
 },
@@ -2859,16 +2879,13 @@
   "pk": 114,
   "fields": {
     "name": "Book_113",
-    "pages": 929,
-    "price": "183.23",
-    "rating": 60.28,
-    "publisher": 18,
-    "pubdate": "1941-11-19",
+    "pages": 958,
+    "price": "998.73",
+    "rating": 7.29,
+    "publisher": 20,
+    "pubdate": "1915-02-19",
     "authors": [
-      2,
-      42,
-      54,
-      78
+      3
     ]
   }
 },
@@ -2877,15 +2894,15 @@
   "pk": 115,
   "fields": {
     "name": "Book_114",
-    "pages": 864,
-    "price": "573.09",
-    "rating": 49.4,
-    "publisher": 8,
-    "pubdate": "1925-10-06",
+    "pages": 627,
+    "price": "594.05",
+    "rating": 99.63,
+    "publisher": 7,
+    "pubdate": "2015-04-29",
     "authors": [
-      16,
-      39,
-      63
+      5,
+      49,
+      57
     ]
   }
 },
@@ -2894,15 +2911,14 @@
   "pk": 116,
   "fields": {
     "name": "Book_115",
-    "pages": 50,
-    "price": "692.42",
-    "rating": 50.0,
-    "publisher": 20,
-    "pubdate": "1942-06-28",
+    "pages": 377,
+    "price": "530.74",
+    "rating": 88.5,
+    "publisher": 24,
+    "pubdate": "1992-10-15",
     "authors": [
-      41,
-      46,
-      68
+      56,
+      78
     ]
   }
 },
@@ -2911,14 +2927,13 @@
   "pk": 117,
   "fields": {
     "name": "Book_116",
-    "pages": 252,
-    "price": "307.57",
-    "rating": 91.75,
-    "publisher": 18,
-    "pubdate": "1973-06-01",
+    "pages": 798,
+    "price": "257.57",
+    "rating": 42.48,
+    "publisher": 17,
+    "pubdate": "1950-03-15",
     "authors": [
-      11,
-      56
+      74
     ]
   }
 },
@@ -2927,15 +2942,15 @@
   "pk": 118,
   "fields": {
     "name": "Book_117",
-    "pages": 782,
-    "price": "964.78",
-    "rating": 46.43,
-    "publisher": 12,
-    "pubdate": "1966-03-30",
+    "pages": 621,
+    "price": "902.06",
+    "rating": 6.56,
+    "publisher": 9,
+    "pubdate": "1959-05-24",
     "authors": [
-      35,
-      46,
-      75
+      53,
+      66,
+      98
     ]
   }
 },
@@ -2944,16 +2959,14 @@
   "pk": 119,
   "fields": {
     "name": "Book_118",
-    "pages": 556,
-    "price": "635.07",
-    "rating": 34.48,
-    "publisher": 29,
-    "pubdate": "1946-09-02",
+    "pages": 218,
+    "price": "213.13",
+    "rating": 61.93,
+    "publisher": 22,
+    "pubdate": "1969-02-02",
     "authors": [
-      56,
-      71,
-      88,
-      92
+      16,
+      22
     ]
   }
 },
@@ -2962,15 +2975,14 @@
   "pk": 120,
   "fields": {
     "name": "Book_119",
-    "pages": 946,
-    "price": "852.65",
-    "rating": 42.99,
-    "publisher": 28,
-    "pubdate": "2003-04-27",
+    "pages": 622,
+    "price": "814.80",
+    "rating": 62.5,
+    "publisher": 11,
+    "pubdate": "1903-06-25",
     "authors": [
-      15,
-      75,
-      89
+      18,
+      97
     ]
   }
 },
@@ -2979,13 +2991,13 @@
   "pk": 121,
   "fields": {
     "name": "Book_120",
-    "pages": 478,
-    "price": "831.78",
-    "rating": 88.6,
-    "publisher": 5,
-    "pubdate": "1954-01-11",
+    "pages": 147,
+    "price": "310.17",
+    "rating": 36.0,
+    "publisher": 23,
+    "pubdate": "2002-11-04",
     "authors": [
-      19
+      44
     ]
   }
 },
@@ -2994,13 +3006,14 @@
   "pk": 122,
   "fields": {
     "name": "Book_121",
-    "pages": 918,
-    "price": "594.99",
-    "rating": 84.63,
-    "publisher": 30,
-    "pubdate": "1953-07-27",
+    "pages": 801,
+    "price": "897.52",
+    "rating": 28.23,
+    "publisher": 14,
+    "pubdate": "1969-02-13",
     "authors": [
-      56,
+      31,
+      47,
       73
     ]
   }
@@ -3010,14 +3023,14 @@
   "pk": 123,
   "fields": {
     "name": "Book_122",
-    "pages": 372,
-    "price": "11.99",
-    "rating": 88.52,
-    "publisher": 10,
-    "pubdate": "1964-04-20",
+    "pages": 375,
+    "price": "666.14",
+    "rating": 76.43,
+    "publisher": 11,
+    "pubdate": "1945-07-11",
     "authors": [
-      40,
-      76
+      29,
+      56
     ]
   }
 },
@@ -3026,16 +3039,13 @@
   "pk": 124,
   "fields": {
     "name": "Book_123",
-    "pages": 674,
-    "price": "923.75",
-    "rating": 57.2,
-    "publisher": 11,
-    "pubdate": "1988-07-17",
+    "pages": 90,
+    "price": "238.14",
+    "rating": 57.47,
+    "publisher": 8,
+    "pubdate": "1970-01-23",
     "authors": [
-      1,
-      63,
-      78,
-      91
+      9
     ]
   }
 },
@@ -3044,15 +3054,16 @@
   "pk": 125,
   "fields": {
     "name": "Book_124",
-    "pages": 611,
-    "price": "21.16",
-    "rating": 85.28,
-    "publisher": 7,
-    "pubdate": "1997-12-03",
+    "pages": 94,
+    "price": "785.57",
+    "rating": 73.32,
+    "publisher": 5,
+    "pubdate": "1918-12-22",
     "authors": [
-      5,
-      6,
-      22
+      22,
+      60,
+      72,
+      95
     ]
   }
 },
@@ -3061,15 +3072,14 @@
   "pk": 126,
   "fields": {
     "name": "Book_125",
-    "pages": 479,
-    "price": "42.54",
-    "rating": 71.76,
-    "publisher": 1,
-    "pubdate": "2013-03-20",
+    "pages": 130,
+    "price": "581.91",
+    "rating": 62.72,
+    "publisher": 29,
+    "pubdate": "1958-06-28",
     "authors": [
-      52,
-      58,
-      62
+      54,
+      78
     ]
   }
 },
@@ -3078,15 +3088,13 @@
   "pk": 127,
   "fields": {
     "name": "Book_126",
-    "pages": 339,
-    "price": "73.34",
-    "rating": 91.11,
-    "publisher": 6,
-    "pubdate": "1955-01-23",
+    "pages": 769,
+    "price": "639.62",
+    "rating": 31.93,
+    "publisher": 28,
+    "pubdate": "1926-01-13",
     "authors": [
-      13,
-      61,
-      81
+      14
     ]
   }
 },
@@ -3095,14 +3103,13 @@
   "pk": 128,
   "fields": {
     "name": "Book_127",
-    "pages": 110,
-    "price": "172.08",
-    "rating": 55.69,
-    "publisher": 2,
-    "pubdate": "1943-05-18",
+    "pages": 984,
+    "price": "488.73",
+    "rating": 55.2,
+    "publisher": 25,
+    "pubdate": "1923-01-22",
     "authors": [
-      45,
-      48
+      64
     ]
   }
 },
@@ -3111,15 +3118,13 @@
   "pk": 129,
   "fields": {
     "name": "Book_128",
-    "pages": 618,
-    "price": "960.56",
-    "rating": 7.33,
-    "publisher": 24,
-    "pubdate": "1943-12-09",
+    "pages": 778,
+    "price": "20.11",
+    "rating": 98.17,
+    "publisher": 23,
+    "pubdate": "1904-09-26",
     "authors": [
-      29,
-      54,
-      85
+      12
     ]
   }
 },
@@ -3128,15 +3133,16 @@
   "pk": 130,
   "fields": {
     "name": "Book_129",
-    "pages": 364,
-    "price": "414.08",
-    "rating": 33.29,
-    "publisher": 2,
-    "pubdate": "2004-01-11",
+    "pages": 411,
+    "price": "741.81",
+    "rating": 79.94,
+    "publisher": 13,
+    "pubdate": "1951-12-01",
     "authors": [
-      18,
-      32,
-      68
+      4,
+      37,
+      51,
+      84
     ]
   }
 },
@@ -3145,16 +3151,16 @@
   "pk": 131,
   "fields": {
     "name": "Book_130",
-    "pages": 863,
-    "price": "160.94",
-    "rating": 79.34,
-    "publisher": 2,
-    "pubdate": "2015-05-29",
+    "pages": 112,
+    "price": "627.55",
+    "rating": 33.8,
+    "publisher": 24,
+    "pubdate": "1975-07-04",
     "authors": [
-      33,
-      53,
-      60,
-      97
+      28,
+      61,
+      65,
+      80
     ]
   }
 },
@@ -3163,15 +3169,15 @@
   "pk": 132,
   "fields": {
     "name": "Book_131",
-    "pages": 861,
-    "price": "912.21",
-    "rating": 46.85,
-    "publisher": 19,
-    "pubdate": "2017-09-06",
+    "pages": 24,
+    "price": "999.09",
+    "rating": 36.0,
+    "publisher": 22,
+    "pubdate": "1900-10-15",
     "authors": [
-      40,
-      52,
-      74
+      69,
+      72,
+      90
     ]
   }
 },
@@ -3180,15 +3186,16 @@
   "pk": 133,
   "fields": {
     "name": "Book_132",
-    "pages": 652,
-    "price": "288.62",
-    "rating": 38.56,
-    "publisher": 23,
-    "pubdate": "1976-09-23",
+    "pages": 502,
+    "price": "611.48",
+    "rating": 76.59,
+    "publisher": 3,
+    "pubdate": "1952-08-10",
     "authors": [
-      6,
-      90,
-      97
+      28,
+      72,
+      75,
+      84
     ]
   }
 },
@@ -3197,16 +3204,14 @@
   "pk": 134,
   "fields": {
     "name": "Book_133",
-    "pages": 402,
-    "price": "955.97",
-    "rating": 76.91,
-    "publisher": 27,
-    "pubdate": "1902-08-12",
+    "pages": 246,
+    "price": "405.71",
+    "rating": 74.42,
+    "publisher": 16,
+    "pubdate": "1987-02-26",
     "authors": [
-      11,
-      32,
-      64,
-      68
+      16,
+      18
     ]
   }
 },
@@ -3215,14 +3220,13 @@
   "pk": 135,
   "fields": {
     "name": "Book_134",
-    "pages": 719,
-    "price": "728.07",
-    "rating": 86.67,
-    "publisher": 26,
-    "pubdate": "1954-03-22",
+    "pages": 384,
+    "price": "700.65",
+    "rating": 88.16,
+    "publisher": 22,
+    "pubdate": "1971-12-24",
     "authors": [
-      5,
-      85
+      8
     ]
   }
 },
@@ -3231,14 +3235,13 @@
   "pk": 136,
   "fields": {
     "name": "Book_135",
-    "pages": 394,
-    "price": "203.01",
-    "rating": 77.13,
-    "publisher": 4,
-    "pubdate": "2003-05-24",
+    "pages": 733,
+    "price": "1.88",
+    "rating": 80.77,
+    "publisher": 30,
+    "pubdate": "1963-07-31",
     "authors": [
-      1,
-      53
+      20
     ]
   }
 },
@@ -3247,14 +3250,14 @@
   "pk": 137,
   "fields": {
     "name": "Book_136",
-    "pages": 407,
-    "price": "929.82",
-    "rating": 27.06,
-    "publisher": 8,
-    "pubdate": "1979-08-16",
+    "pages": 57,
+    "price": "89.11",
+    "rating": 56.98,
+    "publisher": 12,
+    "pubdate": "1909-04-21",
     "authors": [
-      11,
-      51
+      70,
+      88
     ]
   }
 },
@@ -3263,16 +3266,16 @@
   "pk": 138,
   "fields": {
     "name": "Book_137",
-    "pages": 99,
-    "price": "589.82",
-    "rating": 89.36,
-    "publisher": 24,
-    "pubdate": "1943-01-10",
+    "pages": 774,
+    "price": "773.58",
+    "rating": 23.33,
+    "publisher": 16,
+    "pubdate": "1932-03-03",
     "authors": [
-      22,
-      63,
-      75,
-      83
+      18,
+      40,
+      58,
+      62
     ]
   }
 },
@@ -3281,13 +3284,13 @@
   "pk": 139,
   "fields": {
     "name": "Book_138",
-    "pages": 832,
-    "price": "429.67",
-    "rating": 29.13,
-    "publisher": 20,
-    "pubdate": "2012-01-13",
+    "pages": 746,
+    "price": "786.58",
+    "rating": 44.09,
+    "publisher": 11,
+    "pubdate": "1990-04-22",
     "authors": [
-      27
+      45
     ]
   }
 },
@@ -3296,16 +3299,16 @@
   "pk": 140,
   "fields": {
     "name": "Book_139",
-    "pages": 378,
-    "price": "747.07",
-    "rating": 23.92,
-    "publisher": 18,
-    "pubdate": "2017-08-26",
+    "pages": 211,
+    "price": "19.98",
+    "rating": 36.52,
+    "publisher": 9,
+    "pubdate": "2003-08-27",
     "authors": [
-      31,
-      45,
-      80,
-      95
+      64,
+      72,
+      73,
+      89
     ]
   }
 },
@@ -3314,15 +3317,16 @@
   "pk": 141,
   "fields": {
     "name": "Book_140",
-    "pages": 236,
-    "price": "226.25",
-    "rating": 18.86,
-    "publisher": 16,
-    "pubdate": "1912-12-22",
+    "pages": 148,
+    "price": "410.74",
+    "rating": 19.62,
+    "publisher": 25,
+    "pubdate": "1942-02-13",
     "authors": [
-      21,
-      60,
-      93
+      2,
+      27,
+      85,
+      98
     ]
   }
 },
@@ -3331,13 +3335,13 @@
   "pk": 142,
   "fields": {
     "name": "Book_141",
-    "pages": 959,
-    "price": "890.20",
-    "rating": 29.0,
-    "publisher": 27,
-    "pubdate": "2012-06-30",
+    "pages": 610,
+    "price": "926.80",
+    "rating": 57.98,
+    "publisher": 1,
+    "pubdate": "1977-06-06",
     "authors": [
-      71
+      48
     ]
   }
 },
@@ -3346,15 +3350,14 @@
   "pk": 143,
   "fields": {
     "name": "Book_142",
-    "pages": 590,
-    "price": "820.01",
-    "rating": 29.4,
-    "publisher": 27,
-    "pubdate": "1948-06-19",
+    "pages": 704,
+    "price": "596.89",
+    "rating": 67.52,
+    "publisher": 3,
+    "pubdate": "1964-05-29",
     "authors": [
-      61,
-      64,
-      99
+      5,
+      68
     ]
   }
 },
@@ -3363,16 +3366,13 @@
   "pk": 144,
   "fields": {
     "name": "Book_143",
-    "pages": 62,
-    "price": "479.52",
-    "rating": 80.14,
-    "publisher": 1,
-    "pubdate": "1996-12-15",
+    "pages": 195,
+    "price": "186.01",
+    "rating": 52.37,
+    "publisher": 15,
+    "pubdate": "1928-11-08",
     "authors": [
-      13,
-      34,
-      77,
-      80
+      71
     ]
   }
 },
@@ -3381,14 +3381,15 @@
   "pk": 145,
   "fields": {
     "name": "Book_144",
-    "pages": 258,
-    "price": "229.00",
-    "rating": 9.85,
-    "publisher": 16,
-    "pubdate": "1934-09-17",
+    "pages": 9,
+    "price": "74.97",
+    "rating": 32.48,
+    "publisher": 28,
+    "pubdate": "1935-03-30",
     "authors": [
-      43,
-      75
+      22,
+      30,
+      60
     ]
   }
 },
@@ -3397,13 +3398,14 @@
   "pk": 146,
   "fields": {
     "name": "Book_145",
-    "pages": 204,
-    "price": "543.17",
-    "rating": 44.26,
-    "publisher": 26,
-    "pubdate": "1931-08-30",
+    "pages": 606,
+    "price": "435.92",
+    "rating": 85.59,
+    "publisher": 12,
+    "pubdate": "2012-06-06",
     "authors": [
-      46
+      68,
+      93
     ]
   }
 },
@@ -3412,13 +3414,14 @@
   "pk": 147,
   "fields": {
     "name": "Book_146",
-    "pages": 842,
-    "price": "559.53",
-    "rating": 62.32,
-    "publisher": 1,
-    "pubdate": "1925-03-05",
+    "pages": 286,
+    "price": "646.21",
+    "rating": 83.32,
+    "publisher": 21,
+    "pubdate": "1904-02-10",
     "authors": [
-      96
+      14,
+      35
     ]
   }
 },
@@ -3427,16 +3430,14 @@
   "pk": 148,
   "fields": {
     "name": "Book_147",
-    "pages": 391,
-    "price": "607.85",
-    "rating": 86.46,
-    "publisher": 3,
-    "pubdate": "1972-05-26",
+    "pages": 119,
+    "price": "540.97",
+    "rating": 96.9,
+    "publisher": 24,
+    "pubdate": "1978-09-12",
     "authors": [
-      33,
-      40,
-      69,
-      95
+      2,
+      75
     ]
   }
 },
@@ -3445,15 +3446,13 @@
   "pk": 149,
   "fields": {
     "name": "Book_148",
-    "pages": 776,
-    "price": "198.83",
-    "rating": 30.26,
+    "pages": 653,
+    "price": "804.11",
+    "rating": 81.68,
     "publisher": 12,
-    "pubdate": "2022-07-07",
+    "pubdate": "2000-05-03",
     "authors": [
-      10,
-      19,
-      36
+      25
     ]
   }
 },
@@ -3462,16 +3461,13 @@
   "pk": 150,
   "fields": {
     "name": "Book_149",
-    "pages": 602,
-    "price": "377.57",
-    "rating": 17.91,
-    "publisher": 25,
-    "pubdate": "1919-04-28",
+    "pages": 346,
+    "price": "987.49",
+    "rating": 71.1,
+    "publisher": 22,
+    "pubdate": "1998-08-03",
     "authors": [
-      46,
-      54,
-      61,
-      71
+      68
     ]
   }
 },
@@ -3480,13 +3476,13 @@
   "pk": 151,
   "fields": {
     "name": "Book_150",
-    "pages": 716,
-    "price": "500.84",
-    "rating": 88.8,
-    "publisher": 2,
-    "pubdate": "1986-12-22",
+    "pages": 191,
+    "price": "488.85",
+    "rating": 41.78,
+    "publisher": 11,
+    "pubdate": "1914-02-17",
     "authors": [
-      3
+      37
     ]
   }
 },
@@ -3495,14 +3491,13 @@
   "pk": 152,
   "fields": {
     "name": "Book_151",
-    "pages": 219,
-    "price": "301.82",
-    "rating": 25.37,
-    "publisher": 27,
-    "pubdate": "2011-01-02",
+    "pages": 767,
+    "price": "779.26",
+    "rating": 91.75,
+    "publisher": 4,
+    "pubdate": "1947-02-10",
     "authors": [
-      1,
-      39
+      2
     ]
   }
 },
@@ -3511,13 +3506,15 @@
   "pk": 153,
   "fields": {
     "name": "Book_152",
-    "pages": 890,
-    "price": "5.16",
-    "rating": 52.32,
-    "publisher": 10,
-    "pubdate": "1990-01-03",
+    "pages": 896,
+    "price": "828.23",
+    "rating": 12.76,
+    "publisher": 8,
+    "pubdate": "1983-06-05",
     "authors": [
-      87
+      55,
+      80,
+      95
     ]
   }
 },
@@ -3526,13 +3523,14 @@
   "pk": 154,
   "fields": {
     "name": "Book_153",
-    "pages": 166,
-    "price": "275.27",
-    "rating": 26.0,
-    "publisher": 18,
-    "pubdate": "2000-07-19",
+    "pages": 390,
+    "price": "466.78",
+    "rating": 67.56,
+    "publisher": 30,
+    "pubdate": "1950-12-31",
     "authors": [
-      34
+      23,
+      58
     ]
   }
 },
@@ -3541,13 +3539,16 @@
   "pk": 155,
   "fields": {
     "name": "Book_154",
-    "pages": 3,
-    "price": "579.97",
-    "rating": 50.77,
-    "publisher": 26,
-    "pubdate": "1959-11-26",
+    "pages": 313,
+    "price": "415.31",
+    "rating": 52.03,
+    "publisher": 3,
+    "pubdate": "1942-09-24",
     "authors": [
-      99
+      26,
+      35,
+      70,
+      96
     ]
   }
 },
@@ -3556,16 +3557,16 @@
   "pk": 156,
   "fields": {
     "name": "Book_155",
-    "pages": 810,
-    "price": "505.81",
-    "rating": 85.57,
-    "publisher": 11,
-    "pubdate": "1940-03-19",
+    "pages": 143,
+    "price": "434.64",
+    "rating": 55.18,
+    "publisher": 20,
+    "pubdate": "2004-07-06",
     "authors": [
-      1,
-      27,
-      32,
-      42
+      51,
+      56,
+      77,
+      79
     ]
   }
 },
@@ -3574,16 +3575,16 @@
   "pk": 157,
   "fields": {
     "name": "Book_156",
-    "pages": 279,
-    "price": "997.12",
-    "rating": 87.7,
-    "publisher": 5,
-    "pubdate": "1934-02-11",
+    "pages": 754,
+    "price": "383.41",
+    "rating": 24.2,
+    "publisher": 13,
+    "pubdate": "1966-12-12",
     "authors": [
-      17,
-      79,
-      85,
-      99
+      5,
+      15,
+      26,
+      59
     ]
   }
 },
@@ -3592,16 +3593,16 @@
   "pk": 158,
   "fields": {
     "name": "Book_157",
-    "pages": 440,
-    "price": "701.95",
-    "rating": 78.37,
-    "publisher": 17,
-    "pubdate": "1977-09-07",
+    "pages": 580,
+    "price": "830.53",
+    "rating": 99.72,
+    "publisher": 23,
+    "pubdate": "1918-02-19",
     "authors": [
+      3,
       6,
-      19,
-      48,
-      74
+      38,
+      60
     ]
   }
 },
@@ -3610,16 +3611,13 @@
   "pk": 159,
   "fields": {
     "name": "Book_158",
-    "pages": 684,
-    "price": "226.57",
-    "rating": 85.29,
-    "publisher": 15,
-    "pubdate": "1901-05-02",
+    "pages": 728,
+    "price": "215.59",
+    "rating": 97.65,
+    "publisher": 10,
+    "pubdate": "2019-09-11",
     "authors": [
-      21,
-      22,
-      44,
-      68
+      21
     ]
   }
 },
@@ -3628,15 +3626,16 @@
   "pk": 160,
   "fields": {
     "name": "Book_159",
-    "pages": 485,
-    "price": "545.22",
-    "rating": 72.62,
-    "publisher": 18,
-    "pubdate": "1929-11-15",
+    "pages": 952,
+    "price": "829.07",
+    "rating": 93.55,
+    "publisher": 5,
+    "pubdate": "1971-05-09",
     "authors": [
-      56,
-      61,
-      63
+      19,
+      34,
+      58,
+      82
     ]
   }
 },
@@ -3645,16 +3644,16 @@
   "pk": 161,
   "fields": {
     "name": "Book_160",
-    "pages": 347,
-    "price": "86.67",
-    "rating": 67.88,
-    "publisher": 3,
-    "pubdate": "1922-10-28",
+    "pages": 255,
+    "price": "607.12",
+    "rating": 8.16,
+    "publisher": 30,
+    "pubdate": "2020-12-20",
     "authors": [
-      4,
-      9,
-      20,
-      99
+      18,
+      22,
+      26,
+      42
     ]
   }
 },
@@ -3663,15 +3662,14 @@
   "pk": 162,
   "fields": {
     "name": "Book_161",
-    "pages": 506,
-    "price": "212.11",
-    "rating": 52.94,
-    "publisher": 21,
-    "pubdate": "1952-03-19",
+    "pages": 123,
+    "price": "447.84",
+    "rating": 5.57,
+    "publisher": 6,
+    "pubdate": "1967-05-18",
     "authors": [
-      47,
-      55,
-      95
+      5,
+      45
     ]
   }
 },
@@ -3680,15 +3678,13 @@
   "pk": 163,
   "fields": {
     "name": "Book_162",
-    "pages": 414,
-    "price": "625.50",
-    "rating": 82.56,
-    "publisher": 7,
-    "pubdate": "2004-05-02",
+    "pages": 330,
+    "price": "427.04",
+    "rating": 56.62,
+    "publisher": 14,
+    "pubdate": "1901-07-20",
     "authors": [
-      42,
-      60,
-      78
+      60
     ]
   }
 },
@@ -3697,16 +3693,15 @@
   "pk": 164,
   "fields": {
     "name": "Book_163",
-    "pages": 530,
-    "price": "672.80",
-    "rating": 31.77,
-    "publisher": 1,
-    "pubdate": "1949-06-28",
+    "pages": 304,
+    "price": "403.37",
+    "rating": 52.19,
+    "publisher": 14,
+    "pubdate": "1916-08-07",
     "authors": [
-      35,
-      42,
-      45,
-      80
+      25,
+      31,
+      65
     ]
   }
 },
@@ -3715,14 +3710,14 @@
   "pk": 165,
   "fields": {
     "name": "Book_164",
-    "pages": 964,
-    "price": "893.94",
-    "rating": 91.37,
-    "publisher": 28,
-    "pubdate": "1986-04-04",
+    "pages": 1,
+    "price": "332.50",
+    "rating": 78.9,
+    "publisher": 11,
+    "pubdate": "1987-12-28",
     "authors": [
-      20,
-      60
+      3,
+      88
     ]
   }
 },
@@ -3731,16 +3726,16 @@
   "pk": 166,
   "fields": {
     "name": "Book_165",
-    "pages": 543,
-    "price": "857.37",
-    "rating": 2.94,
-    "publisher": 29,
-    "pubdate": "1902-10-26",
+    "pages": 342,
+    "price": "23.55",
+    "rating": 36.67,
+    "publisher": 30,
+    "pubdate": "1959-01-03",
     "authors": [
-      20,
-      25,
-      51,
-      63
+      10,
+      29,
+      50,
+      93
     ]
   }
 },
@@ -3749,13 +3744,16 @@
   "pk": 167,
   "fields": {
     "name": "Book_166",
-    "pages": 523,
-    "price": "379.26",
-    "rating": 46.42,
-    "publisher": 16,
-    "pubdate": "1954-02-24",
+    "pages": 168,
+    "price": "978.77",
+    "rating": 27.05,
+    "publisher": 11,
+    "pubdate": "1914-10-29",
     "authors": [
-      41
+      27,
+      34,
+      41,
+      58
     ]
   }
 },
@@ -3764,13 +3762,16 @@
   "pk": 168,
   "fields": {
     "name": "Book_167",
-    "pages": 269,
-    "price": "85.76",
-    "rating": 29.89,
-    "publisher": 11,
-    "pubdate": "2001-10-17",
+    "pages": 891,
+    "price": "634.48",
+    "rating": 41.22,
+    "publisher": 9,
+    "pubdate": "2004-05-02",
     "authors": [
-      51
+      21,
+      25,
+      41,
+      80
     ]
   }
 },
@@ -3779,16 +3780,13 @@
   "pk": 169,
   "fields": {
     "name": "Book_168",
-    "pages": 29,
-    "price": "652.11",
-    "rating": 54.07,
-    "publisher": 14,
-    "pubdate": "1910-12-14",
+    "pages": 805,
+    "price": "48.29",
+    "rating": 18.24,
+    "publisher": 12,
+    "pubdate": "1923-04-10",
     "authors": [
-      3,
-      4,
-      43,
-      79
+      97
     ]
   }
 },
@@ -3797,16 +3795,14 @@
   "pk": 170,
   "fields": {
     "name": "Book_169",
-    "pages": 887,
-    "price": "325.34",
-    "rating": 65.65,
-    "publisher": 22,
-    "pubdate": "2007-06-23",
+    "pages": 59,
+    "price": "389.34",
+    "rating": 44.75,
+    "publisher": 4,
+    "pubdate": "1912-01-24",
     "authors": [
-      33,
-      67,
-      80,
-      87
+      31,
+      41
     ]
   }
 },
@@ -3815,14 +3811,15 @@
   "pk": 171,
   "fields": {
     "name": "Book_170",
-    "pages": 479,
-    "price": "537.10",
-    "rating": 52.04,
-    "publisher": 7,
-    "pubdate": "1918-06-05",
+    "pages": 376,
+    "price": "583.86",
+    "rating": 12.87,
+    "publisher": 5,
+    "pubdate": "1918-07-14",
     "authors": [
-      8,
-      27
+      12,
+      42,
+      75
     ]
   }
 },
@@ -3831,16 +3828,13 @@
   "pk": 172,
   "fields": {
     "name": "Book_171",
-    "pages": 242,
-    "price": "227.05",
-    "rating": 15.11,
-    "publisher": 25,
-    "pubdate": "1954-04-30",
+    "pages": 669,
+    "price": "459.43",
+    "rating": 93.28,
+    "publisher": 1,
+    "pubdate": "1935-10-08",
     "authors": [
-      16,
-      64,
-      73,
-      95
+      93
     ]
   }
 },
@@ -3849,16 +3843,13 @@
   "pk": 173,
   "fields": {
     "name": "Book_172",
-    "pages": 406,
-    "price": "366.95",
-    "rating": 77.48,
-    "publisher": 9,
-    "pubdate": "1956-11-15",
+    "pages": 565,
+    "price": "312.49",
+    "rating": 74.33,
+    "publisher": 24,
+    "pubdate": "1920-01-24",
     "authors": [
-      12,
-      24,
-      84,
-      93
+      42
     ]
   }
 },
@@ -3867,15 +3858,16 @@
   "pk": 174,
   "fields": {
     "name": "Book_173",
-    "pages": 7,
-    "price": "805.67",
-    "rating": 39.79,
-    "publisher": 8,
-    "pubdate": "2010-10-09",
+    "pages": 612,
+    "price": "141.31",
+    "rating": 66.15,
+    "publisher": 11,
+    "pubdate": "1936-06-02",
     "authors": [
-      23,
-      26,
-      86
+      3,
+      72,
+      83,
+      84
     ]
   }
 },
@@ -3884,13 +3876,15 @@
   "pk": 175,
   "fields": {
     "name": "Book_174",
-    "pages": 347,
-    "price": "369.39",
-    "rating": 53.59,
-    "publisher": 18,
-    "pubdate": "1989-07-17",
+    "pages": 769,
+    "price": "698.85",
+    "rating": 12.68,
+    "publisher": 8,
+    "pubdate": "1973-12-07",
     "authors": [
-      42
+      40,
+      78,
+      80
     ]
   }
 },
@@ -3899,16 +3893,15 @@
   "pk": 176,
   "fields": {
     "name": "Book_175",
-    "pages": 314,
-    "price": "912.18",
-    "rating": 40.51,
-    "publisher": 30,
-    "pubdate": "2010-10-24",
+    "pages": 113,
+    "price": "301.18",
+    "rating": 68.41,
+    "publisher": 23,
+    "pubdate": "1917-02-04",
     "authors": [
-      10,
-      21,
-      45,
-      50
+      59,
+      80,
+      88
     ]
   }
 },
@@ -3917,15 +3910,15 @@
   "pk": 177,
   "fields": {
     "name": "Book_176",
-    "pages": 210,
-    "price": "518.57",
-    "rating": 29.07,
-    "publisher": 14,
-    "pubdate": "1941-11-21",
+    "pages": 769,
+    "price": "322.96",
+    "rating": 60.79,
+    "publisher": 27,
+    "pubdate": "2005-03-17",
     "authors": [
-      51,
-      54,
-      63
+      16,
+      68,
+      94
     ]
   }
 },
@@ -3934,13 +3927,14 @@
   "pk": 178,
   "fields": {
     "name": "Book_177",
-    "pages": 941,
-    "price": "604.10",
-    "rating": 43.61,
-    "publisher": 2,
-    "pubdate": "1991-10-29",
+    "pages": 417,
+    "price": "91.59",
+    "rating": 31.36,
+    "publisher": 10,
+    "pubdate": "1922-02-25",
     "authors": [
-      59
+      2,
+      77
     ]
   }
 },
@@ -3949,13 +3943,16 @@
   "pk": 179,
   "fields": {
     "name": "Book_178",
-    "pages": 44,
-    "price": "70.97",
-    "rating": 62.01,
-    "publisher": 18,
-    "pubdate": "1978-02-03",
+    "pages": 30,
+    "price": "867.08",
+    "rating": 38.9,
+    "publisher": 22,
+    "pubdate": "1916-10-08",
     "authors": [
-      3
+      9,
+      41,
+      68,
+      92
     ]
   }
 },
@@ -3964,13 +3961,15 @@
   "pk": 180,
   "fields": {
     "name": "Book_179",
-    "pages": 326,
-    "price": "332.13",
-    "rating": 79.99,
-    "publisher": 30,
-    "pubdate": "1907-06-17",
+    "pages": 526,
+    "price": "494.91",
+    "rating": 34.24,
+    "publisher": 27,
+    "pubdate": "1957-08-22",
     "authors": [
-      67
+      23,
+      83,
+      84
     ]
   }
 },
@@ -3979,13 +3978,14 @@
   "pk": 181,
   "fields": {
     "name": "Book_180",
-    "pages": 899,
-    "price": "369.90",
-    "rating": 58.69,
-    "publisher": 16,
-    "pubdate": "1976-01-07",
+    "pages": 897,
+    "price": "467.44",
+    "rating": 84.32,
+    "publisher": 15,
+    "pubdate": "2018-12-28",
     "authors": [
-      73
+      30,
+      40
     ]
   }
 },
@@ -3994,15 +3994,15 @@
   "pk": 182,
   "fields": {
     "name": "Book_181",
-    "pages": 891,
-    "price": "834.00",
-    "rating": 70.78,
-    "publisher": 1,
-    "pubdate": "1901-06-09",
+    "pages": 148,
+    "price": "920.97",
+    "rating": 15.41,
+    "publisher": 26,
+    "pubdate": "1992-03-03",
     "authors": [
-      33,
-      64,
-      86
+      2,
+      44,
+      55
     ]
   }
 },
@@ -4011,15 +4011,16 @@
   "pk": 183,
   "fields": {
     "name": "Book_182",
-    "pages": 592,
-    "price": "82.03",
-    "rating": 41.24,
-    "publisher": 30,
-    "pubdate": "1974-06-16",
+    "pages": 165,
+    "price": "406.52",
+    "rating": 3.7,
+    "publisher": 12,
+    "pubdate": "1993-10-18",
     "authors": [
-      5,
-      94,
-      96
+      1,
+      41,
+      46,
+      88
     ]
   }
 },
@@ -4028,13 +4029,15 @@
   "pk": 184,
   "fields": {
     "name": "Book_183",
-    "pages": 347,
-    "price": "236.80",
-    "rating": 70.91,
+    "pages": 327,
+    "price": "807.65",
+    "rating": 42.98,
     "publisher": 6,
-    "pubdate": "1902-02-12",
+    "pubdate": "1961-03-05",
     "authors": [
-      8
+      22,
+      48,
+      83
     ]
   }
 },
@@ -4043,14 +4046,15 @@
   "pk": 185,
   "fields": {
     "name": "Book_184",
-    "pages": 174,
-    "price": "591.21",
-    "rating": 82.44,
-    "publisher": 13,
-    "pubdate": "1952-11-23",
+    "pages": 886,
+    "price": "706.63",
+    "rating": 73.83,
+    "publisher": 15,
+    "pubdate": "1953-05-15",
     "authors": [
-      17,
-      64
+      27,
+      31,
+      58
     ]
   }
 },
@@ -4059,14 +4063,15 @@
   "pk": 186,
   "fields": {
     "name": "Book_185",
-    "pages": 234,
-    "price": "464.49",
-    "rating": 9.9,
-    "publisher": 24,
-    "pubdate": "1908-10-29",
+    "pages": 119,
+    "price": "407.30",
+    "rating": 14.71,
+    "publisher": 19,
+    "pubdate": "1956-08-02",
     "authors": [
-      16,
-      28
+      14,
+      67,
+      88
     ]
   }
 },
@@ -4075,13 +4080,16 @@
   "pk": 187,
   "fields": {
     "name": "Book_186",
-    "pages": 133,
-    "price": "294.04",
-    "rating": 98.86,
-    "publisher": 21,
-    "pubdate": "1926-12-25",
+    "pages": 979,
+    "price": "604.62",
+    "rating": 5.69,
+    "publisher": 19,
+    "pubdate": "1938-05-30",
     "authors": [
-      1
+      12,
+      61,
+      77,
+      82
     ]
   }
 },
@@ -4090,13 +4098,16 @@
   "pk": 188,
   "fields": {
     "name": "Book_187",
-    "pages": 261,
-    "price": "933.73",
-    "rating": 47.96,
-    "publisher": 12,
-    "pubdate": "1947-06-23",
+    "pages": 868,
+    "price": "805.56",
+    "rating": 43.01,
+    "publisher": 29,
+    "pubdate": "1938-02-15",
     "authors": [
-      7
+      9,
+      10,
+      43,
+      59
     ]
   }
 },
@@ -4105,13 +4116,15 @@
   "pk": 189,
   "fields": {
     "name": "Book_188",
-    "pages": 547,
-    "price": "193.03",
-    "rating": 57.55,
-    "publisher": 19,
-    "pubdate": "1919-09-23",
+    "pages": 552,
+    "price": "426.14",
+    "rating": 64.9,
+    "publisher": 28,
+    "pubdate": "1974-06-14",
     "authors": [
-      94
+      9,
+      14,
+      20
     ]
   }
 },
@@ -4120,16 +4133,13 @@
   "pk": 190,
   "fields": {
     "name": "Book_189",
-    "pages": 608,
-    "price": "780.27",
-    "rating": 88.69,
-    "publisher": 1,
-    "pubdate": "1940-10-16",
+    "pages": 416,
+    "price": "267.00",
+    "rating": 6.22,
+    "publisher": 14,
+    "pubdate": "1950-10-08",
     "authors": [
-      4,
-      24,
-      63,
-      80
+      76
     ]
   }
 },
@@ -4138,14 +4148,14 @@
   "pk": 191,
   "fields": {
     "name": "Book_190",
-    "pages": 384,
-    "price": "779.22",
-    "rating": 21.65,
-    "publisher": 4,
-    "pubdate": "1954-02-14",
+    "pages": 251,
+    "price": "623.15",
+    "rating": 71.04,
+    "publisher": 29,
+    "pubdate": "2021-01-27",
     "authors": [
-      53,
-      82
+      15,
+      37
     ]
   }
 },
@@ -4154,14 +4164,16 @@
   "pk": 192,
   "fields": {
     "name": "Book_191",
-    "pages": 440,
-    "price": "604.74",
-    "rating": 6.56,
-    "publisher": 24,
-    "pubdate": "2022-02-24",
+    "pages": 201,
+    "price": "896.58",
+    "rating": 50.16,
+    "publisher": 3,
+    "pubdate": "1943-01-28",
     "authors": [
-      76,
-      98
+      63,
+      68,
+      69,
+      86
     ]
   }
 },
@@ -4170,15 +4182,16 @@
   "pk": 193,
   "fields": {
     "name": "Book_192",
-    "pages": 28,
-    "price": "852.50",
-    "rating": 80.0,
-    "publisher": 5,
-    "pubdate": "2021-12-02",
+    "pages": 412,
+    "price": "899.30",
+    "rating": 84.6,
+    "publisher": 10,
+    "pubdate": "1926-09-07",
     "authors": [
-      8,
-      12,
-      57
+      9,
+      27,
+      67,
+      93
     ]
   }
 },
@@ -4187,16 +4200,14 @@
   "pk": 194,
   "fields": {
     "name": "Book_193",
-    "pages": 762,
-    "price": "778.11",
-    "rating": 3.09,
-    "publisher": 5,
-    "pubdate": "1947-10-05",
+    "pages": 804,
+    "price": "117.67",
+    "rating": 26.48,
+    "publisher": 21,
+    "pubdate": "2021-08-20",
     "authors": [
-      34,
-      40,
-      46,
-      55
+      79,
+      93
     ]
   }
 },
@@ -4205,14 +4216,16 @@
   "pk": 195,
   "fields": {
     "name": "Book_194",
-    "pages": 285,
-    "price": "591.87",
-    "rating": 82.14,
-    "publisher": 7,
-    "pubdate": "1939-03-17",
+    "pages": 382,
+    "price": "248.81",
+    "rating": 38.3,
+    "publisher": 14,
+    "pubdate": "1926-09-04",
     "authors": [
-      17,
-      19
+      37,
+      57,
+      68,
+      80
     ]
   }
 },
@@ -4221,15 +4234,14 @@
   "pk": 196,
   "fields": {
     "name": "Book_195",
-    "pages": 717,
-    "price": "574.02",
-    "rating": 35.54,
-    "publisher": 11,
-    "pubdate": "1911-09-02",
+    "pages": 678,
+    "price": "769.25",
+    "rating": 54.86,
+    "publisher": 21,
+    "pubdate": "1904-08-04",
     "authors": [
-      11,
-      69,
-      82
+      23,
+      47
     ]
   }
 },
@@ -4238,13 +4250,16 @@
   "pk": 197,
   "fields": {
     "name": "Book_196",
-    "pages": 484,
-    "price": "365.18",
-    "rating": 97.73,
-    "publisher": 2,
-    "pubdate": "1983-05-10",
+    "pages": 423,
+    "price": "853.29",
+    "rating": 98.75,
+    "publisher": 30,
+    "pubdate": "2014-06-14",
     "authors": [
-      54
+      5,
+      62,
+      94,
+      98
     ]
   }
 },
@@ -4253,15 +4268,13 @@
   "pk": 198,
   "fields": {
     "name": "Book_197",
-    "pages": 468,
-    "price": "380.39",
-    "rating": 88.46,
-    "publisher": 5,
-    "pubdate": "1960-02-05",
+    "pages": 941,
+    "price": "101.37",
+    "rating": 62.76,
+    "publisher": 3,
+    "pubdate": "1951-03-13",
     "authors": [
-      52,
-      56,
-      78
+      88
     ]
   }
 },
@@ -4270,14 +4283,14 @@
   "pk": 199,
   "fields": {
     "name": "Book_198",
-    "pages": 914,
-    "price": "973.34",
-    "rating": 20.79,
-    "publisher": 14,
-    "pubdate": "1931-04-24",
+    "pages": 612,
+    "price": "973.04",
+    "rating": 23.75,
+    "publisher": 13,
+    "pubdate": "1910-10-23",
     "authors": [
-      23,
-      87
+      57,
+      70
     ]
   }
 },
@@ -4286,14 +4299,15 @@
   "pk": 200,
   "fields": {
     "name": "Book_199",
-    "pages": 747,
-    "price": "607.57",
-    "rating": 88.62,
-    "publisher": 15,
-    "pubdate": "1905-07-18",
+    "pages": 998,
+    "price": "967.40",
+    "rating": 3.82,
+    "publisher": 1,
+    "pubdate": "1921-01-03",
     "authors": [
-      44,
-      65
+      53,
+      78,
+      95
     ]
   }
 },
@@ -4303,26 +4317,23 @@
   "fields": {
     "name": "Store_0",
     "books": [
-      7,
-      9,
-      10,
-      18,
-      34,
-      46,
+      41,
+      45,
+      50,
+      55,
       59,
-      65,
-      79,
-      93,
-      108,
-      109,
-      134,
-      153,
-      155,
-      157,
-      176,
-      179,
-      182,
-      188
+      69,
+      75,
+      82,
+      94,
+      116,
+      120,
+      132,
+      142,
+      148,
+      151,
+      185,
+      199
     ]
   }
 },
@@ -4332,9 +4343,11 @@
   "fields": {
     "name": "Store_1",
     "books": [
-      71,
-      171,
-      182
+      39,
+      41,
+      118,
+      125,
+      183
     ]
   }
 },
@@ -4344,17 +4357,31 @@
   "fields": {
     "name": "Store_2",
     "books": [
-      4,
-      23,
-      80,
-      123,
-      150,
-      158,
-      159,
-      180,
-      184,
-      187,
-      196
+      2,
+      8,
+      13,
+      25,
+      31,
+      46,
+      56,
+      59,
+      75,
+      82,
+      84,
+      99,
+      101,
+      112,
+      114,
+      126,
+      131,
+      141,
+      144,
+      148,
+      162,
+      164,
+      192,
+      193,
+      198
     ]
   }
 },
@@ -4364,46 +4391,45 @@
   "fields": {
     "name": "Store_3",
     "books": [
-      6,
-      10,
-      13,
-      26,
+      11,
+      21,
+      24,
       27,
-      29,
-      32,
-      39,
-      43,
+      31,
+      37,
       46,
-      48,
-      55,
-      57,
-      60,
+      47,
+      56,
+      62,
+      63,
       65,
-      66,
-      69,
+      70,
       72,
-      77,
+      78,
+      81,
+      87,
       88,
+      90,
+      93,
       94,
-      102,
-      111,
-      119,
-      122,
-      124,
-      125,
-      133,
-      140,
-      148,
-      152,
-      159,
-      160,
-      164,
+      101,
+      114,
+      120,
+      130,
+      131,
+      132,
+      137,
+      138,
+      139,
+      150,
+      154,
       169,
-      176,
-      178,
-      191,
-      197,
-      200
+      170,
+      180,
+      181,
+      183,
+      190,
+      192
     ]
   }
 },
@@ -4415,47 +4441,39 @@
     "books": [
       1,
       2,
-      8,
-      11,
-      18,
-      20,
-      24,
-      26,
-      28,
-      30,
-      34,
-      38,
-      43,
-      64,
-      65,
-      73,
-      79,
-      80,
-      84,
-      86,
+      12,
+      23,
+      27,
+      51,
+      52,
+      53,
+      56,
+      58,
+      77,
+      81,
       87,
-      90,
-      93,
-      97,
-      112,
-      114,
-      128,
-      131,
-      133,
-      139,
+      89,
+      103,
+      106,
+      108,
+      115,
+      130,
+      132,
+      134,
+      136,
+      138,
+      141,
       142,
-      143,
-      145,
-      147,
       148,
-      159,
+      150,
+      160,
+      161,
       168,
-      170,
       171,
-      172,
-      187,
-      192,
-      197
+      174,
+      176,
+      185,
+      199
     ]
   }
 },
@@ -4465,19 +4483,42 @@
   "fields": {
     "name": "Store_5",
     "books": [
-      4,
-      5,
-      15,
-      26,
-      43,
+      3,
+      13,
+      18,
+      20,
+      25,
+      28,
+      38,
+      39,
+      41,
       51,
-      105,
-      111,
-      139,
-      156,
-      157,
+      58,
+      64,
+      66,
+      70,
+      74,
+      75,
+      78,
+      83,
+      84,
+      95,
+      102,
+      112,
+      114,
+      119,
+      131,
+      142,
+      144,
       160,
-      192
+      161,
+      166,
+      169,
+      170,
+      174,
+      191,
+      192,
+      193
     ]
   }
 },
@@ -4487,22 +4528,45 @@
   "fields": {
     "name": "Store_6",
     "books": [
-      4,
-      24,
-      30,
-      60,
-      88,
+      6,
+      25,
+      28,
+      31,
+      33,
+      36,
+      54,
+      63,
+      67,
+      70,
+      74,
+      75,
+      83,
+      84,
+      87,
       89,
-      97,
-      100,
+      90,
+      98,
       101,
-      105,
+      107,
       109,
-      115,
-      131,
-      150,
-      157,
-      198
+      110,
+      113,
+      117,
+      128,
+      129,
+      135,
+      139,
+      144,
+      153,
+      162,
+      163,
+      168,
+      176,
+      181,
+      183,
+      186,
+      190,
+      196
     ]
   }
 },
@@ -4512,49 +4576,7 @@
   "fields": {
     "name": "Store_7",
     "books": [
-      1,
-      6,
-      7,
-      12,
-      13,
-      26,
-      29,
-      30,
-      32,
-      33,
-      41,
-      43,
-      44,
-      46,
-      49,
-      54,
-      57,
-      59,
-      64,
-      70,
-      75,
-      82,
-      90,
-      94,
-      100,
-      106,
-      109,
-      114,
-      116,
-      125,
-      130,
-      133,
-      138,
-      143,
-      145,
-      151,
-      154,
-      155,
-      156,
-      165,
-      174,
-      183,
-      191
+      37
     ]
   }
 },
@@ -4564,8 +4586,49 @@
   "fields": {
     "name": "Store_8",
     "books": [
-      19,
-      59
+      5,
+      16,
+      18,
+      23,
+      27,
+      32,
+      38,
+      40,
+      42,
+      46,
+      52,
+      63,
+      66,
+      68,
+      80,
+      89,
+      90,
+      96,
+      106,
+      109,
+      119,
+      120,
+      127,
+      128,
+      132,
+      133,
+      146,
+      152,
+      156,
+      157,
+      158,
+      167,
+      171,
+      180,
+      183,
+      185,
+      189,
+      190,
+      193,
+      194,
+      195,
+      197,
+      199
     ]
   }
 },
@@ -4575,26 +4638,24 @@
   "fields": {
     "name": "Store_9",
     "books": [
-      9,
-      10,
-      14,
       19,
-      24,
-      29,
-      32,
+      23,
+      25,
       35,
-      40,
-      49,
-      63,
-      75,
-      112,
-      115,
-      117,
-      134,
-      153,
-      165,
-      168,
-      170
+      61,
+      66,
+      68,
+      73,
+      78,
+      82,
+      92,
+      98,
+      158,
+      166,
+      170,
+      190,
+      198,
+      200
     ]
   }
 },
@@ -4604,48 +4665,30 @@
   "fields": {
     "name": "Store_10",
     "books": [
-      8,
-      11,
-      14,
-      23,
-      40,
-      47,
-      49,
-      57,
-      60,
+      3,
+      4,
+      18,
+      31,
+      43,
+      45,
+      58,
       68,
-      77,
-      78,
-      84,
-      91,
-      92,
-      95,
-      101,
-      104,
-      114,
-      116,
-      120,
-      121,
-      132,
-      139,
-      147,
+      70,
+      79,
+      81,
+      93,
+      102,
+      110,
+      125,
+      135,
+      142,
+      145,
       148,
-      149,
-      150,
-      152,
-      155,
-      157,
-      158,
-      159,
-      162,
-      165,
+      163,
       172,
-      179,
-      181,
-      188,
-      194,
-      198,
-      199
+      184,
+      196,
+      197
     ]
   }
 },
@@ -4655,9 +4698,33 @@
   "fields": {
     "name": "Store_11",
     "books": [
-      60,
+      23,
+      35,
+      43,
+      46,
+      72,
+      75,
+      82,
+      83,
+      85,
+      88,
+      89,
+      103,
       113,
-      161
+      125,
+      131,
+      140,
+      144,
+      146,
+      148,
+      161,
+      164,
+      165,
+      167,
+      181,
+      195,
+      196,
+      200
     ]
   }
 },
@@ -4667,36 +4734,49 @@
   "fields": {
     "name": "Store_12",
     "books": [
+      3,
+      4,
       5,
-      10,
-      19,
-      21,
-      22,
-      30,
-      33,
-      41,
-      42,
-      44,
-      50,
+      14,
+      29,
+      32,
+      38,
+      47,
+      54,
       57,
-      70,
-      73,
-      78,
-      88,
-      92,
-      93,
-      103,
+      59,
+      61,
+      62,
+      64,
+      66,
+      77,
+      82,
+      86,
+      89,
+      91,
+      102,
+      105,
+      106,
+      107,
+      112,
+      113,
+      117,
       121,
-      129,
+      122,
+      126,
       130,
-      139,
-      145,
-      157,
-      163,
-      168,
-      169,
-      177,
-      181
+      132,
+      133,
+      135,
+      146,
+      154,
+      156,
+      162,
+      170,
+      173,
+      178,
+      182,
+      194
     ]
   }
 },
@@ -4706,9 +4786,35 @@
   "fields": {
     "name": "Store_13",
     "books": [
-      87,
+      3,
+      4,
+      7,
+      9,
+      20,
+      23,
+      24,
+      27,
+      29,
+      32,
+      51,
+      80,
+      81,
+      88,
+      91,
+      93,
+      99,
+      100,
+      112,
+      118,
       120,
-      130
+      145,
+      160,
+      166,
+      168,
+      173,
+      176,
+      178,
+      191
     ]
   }
 },
@@ -4718,9 +4824,19 @@
   "fields": {
     "name": "Store_14",
     "books": [
-      47,
-      89,
-      154
+      4,
+      13,
+      20,
+      39,
+      42,
+      51,
+      165,
+      168,
+      172,
+      189,
+      191,
+      194,
+      198
     ]
   }
 },
@@ -4730,8 +4846,45 @@
   "fields": {
     "name": "Store_15",
     "books": [
+      7,
       8,
-      99
+      30,
+      31,
+      32,
+      36,
+      63,
+      64,
+      66,
+      68,
+      73,
+      77,
+      79,
+      82,
+      89,
+      91,
+      94,
+      95,
+      98,
+      99,
+      107,
+      111,
+      112,
+      116,
+      123,
+      131,
+      136,
+      137,
+      142,
+      150,
+      151,
+      153,
+      154,
+      163,
+      166,
+      169,
+      173,
+      198,
+      200
     ]
   }
 },
@@ -4741,33 +4894,37 @@
   "fields": {
     "name": "Store_16",
     "books": [
-      5,
-      9,
-      13,
-      15,
-      39,
-      50,
-      63,
-      68,
-      69,
-      75,
-      79,
-      84,
-      90,
-      97,
-      103,
+      8,
+      11,
+      17,
+      27,
+      34,
+      37,
+      42,
+      46,
+      53,
+      61,
+      62,
+      71,
+      74,
+      95,
       104,
-      112,
-      118,
+      105,
+      107,
+      110,
+      111,
+      113,
+      119,
       129,
-      137,
+      138,
       145,
-      156,
-      157,
-      174,
-      180,
-      185,
-      191
+      152,
+      159,
+      162,
+      166,
+      187,
+      194,
+      198
     ]
   }
 },
@@ -4777,19 +4934,20 @@
   "fields": {
     "name": "Store_17",
     "books": [
-      2,
-      4,
-      16,
-      32,
-      57,
-      86,
-      122,
-      145,
-      162,
+      14,
+      22,
+      28,
+      33,
+      36,
+      55,
+      61,
+      64,
+      95,
+      99,
+      153,
       169,
-      171,
-      181,
-      199
+      172,
+      176
     ]
   }
 },
@@ -4799,35 +4957,21 @@
   "fields": {
     "name": "Store_18",
     "books": [
-      19,
-      47,
-      50,
-      59,
-      69,
-      70,
-      78,
+      1,
+      2,
+      30,
+      68,
       84,
-      88,
-      106,
-      117,
-      118,
-      121,
-      132,
-      133,
-      135,
-      143,
-      151,
-      153,
-      154,
+      99,
+      155,
       159,
-      163,
-      169,
-      173,
-      178,
-      179,
-      196,
-      198,
-      200
+      164,
+      168,
+      171,
+      174,
+      180,
+      189,
+      196
     ]
   }
 },
@@ -4837,43 +4981,21 @@
   "fields": {
     "name": "Store_19",
     "books": [
-      1,
-      4,
-      6,
-      15,
-      19,
-      23,
-      25,
-      33,
-      38,
-      40,
-      44,
+      21,
+      24,
+      39,
+      50,
+      56,
       65,
-      66,
-      68,
-      74,
-      85,
-      97,
-      103,
-      105,
-      108,
-      111,
-      112,
-      117,
+      104,
+      106,
+      120,
       124,
-      125,
-      133,
-      162,
-      166,
+      134,
+      136,
       175,
-      179,
-      182,
-      188,
-      194,
-      195,
-      197,
-      198,
-      199
+      176,
+      198
     ]
   }
 },
@@ -4883,9 +5005,44 @@
   "fields": {
     "name": "Store_20",
     "books": [
-      94,
-      120,
-      146
+      2,
+      4,
+      6,
+      10,
+      15,
+      21,
+      29,
+      31,
+      36,
+      38,
+      39,
+      40,
+      42,
+      44,
+      51,
+      53,
+      64,
+      80,
+      82,
+      84,
+      86,
+      92,
+      93,
+      97,
+      109,
+      110,
+      114,
+      128,
+      141,
+      160,
+      166,
+      167,
+      171,
+      173,
+      174,
+      181,
+      184,
+      200
     ]
   }
 },
@@ -4895,35 +5052,49 @@
   "fields": {
     "name": "Store_21",
     "books": [
-      7,
+      2,
+      3,
+      5,
+      6,
       10,
-      11,
-      19,
+      12,
+      15,
+      17,
       24,
-      35,
-      47,
-      49,
-      59,
+      25,
+      29,
+      40,
+      43,
+      45,
+      48,
+      50,
+      52,
+      70,
+      78,
+      81,
+      82,
+      84,
+      86,
       87,
       95,
-      99,
+      96,
+      98,
+      101,
+      105,
+      108,
       109,
+      116,
       118,
-      127,
-      138,
-      147,
-      150,
-      156,
+      124,
+      139,
+      148,
+      154,
+      155,
       161,
-      162,
-      164,
-      165,
-      166,
       169,
-      172,
-      177,
-      181,
-      194
+      178,
+      189,
+      200
     ]
   }
 },
@@ -4933,20 +5104,29 @@
   "fields": {
     "name": "Store_22",
     "books": [
-      26,
-      34,
-      50,
-      59,
-      60,
-      68,
-      72,
-      96,
-      136,
+      1,
+      4,
+      9,
+      10,
+      27,
+      28,
+      41,
+      42,
+      48,
+      54,
+      55,
+      57,
+      63,
+      88,
+      94,
+      101,
+      108,
+      111,
+      112,
       144,
-      146,
-      154,
-      193,
-      195
+      145,
+      179,
+      190
     ]
   }
 },
@@ -4956,26 +5136,25 @@
   "fields": {
     "name": "Store_23",
     "books": [
-      18,
-      19,
-      24,
-      42,
-      48,
-      55,
-      84,
-      87,
+      35,
+      38,
+      56,
+      66,
+      73,
+      75,
+      79,
+      81,
+      86,
       91,
-      113,
-      114,
-      118,
-      130,
-      135,
-      139,
-      145,
-      148,
-      166,
-      167,
-      180
+      112,
+      115,
+      127,
+      128,
+      142,
+      149,
+      165,
+      179,
+      194
     ]
   }
 },
@@ -4985,41 +5164,30 @@
   "fields": {
     "name": "Store_24",
     "books": [
-      1,
-      6,
-      9,
-      13,
-      15,
-      21,
-      25,
-      28,
-      29,
-      36,
-      50,
-      54,
-      57,
-      82,
-      89,
-      92,
-      93,
-      98,
-      101,
+      7,
+      22,
+      37,
+      48,
+      52,
+      56,
+      64,
+      70,
+      96,
       102,
-      107,
-      118,
+      103,
+      108,
+      110,
       119,
-      129,
-      144,
-      152,
-      159,
+      127,
+      128,
+      145,
+      151,
       162,
-      172,
-      173,
-      176,
       178,
-      179,
+      180,
+      187,
       188,
-      199,
+      191,
       200
     ]
   }
@@ -5030,44 +5198,24 @@
   "fields": {
     "name": "Store_25",
     "books": [
-      8,
-      21,
-      22,
-      23,
-      28,
+      19,
       31,
-      32,
-      41,
-      44,
-      48,
-      59,
-      60,
-      62,
       70,
-      72,
       73,
-      78,
-      97,
-      105,
-      120,
-      122,
-      125,
-      126,
-      134,
-      135,
-      142,
-      148,
-      153,
-      156,
-      158,
-      169,
-      171,
-      179,
-      186,
+      82,
+      87,
+      88,
+      102,
+      104,
+      116,
+      138,
+      157,
+      162,
+      164,
+      168,
       187,
-      188,
-      191,
-      198
+      190,
+      195
     ]
   }
 },
@@ -5077,46 +5225,27 @@
   "fields": {
     "name": "Store_26",
     "books": [
-      7,
-      17,
-      22,
-      28,
+      26,
       31,
-      38,
-      40,
-      42,
-      51,
-      52,
-      76,
+      44,
+      65,
       81,
-      97,
-      104,
+      85,
+      89,
+      92,
       105,
-      106,
-      109,
-      110,
-      112,
-      115,
       116,
-      121,
-      122,
-      124,
-      126,
-      136,
-      139,
+      129,
       144,
-      146,
-      149,
-      150,
+      147,
       161,
-      168,
+      167,
       171,
-      172,
-      175,
-      177,
-      182,
-      185,
-      193
+      181,
+      183,
+      186,
+      196,
+      200
     ]
   }
 },
@@ -5126,33 +5255,13 @@
   "fields": {
     "name": "Store_27",
     "books": [
-      3,
-      7,
-      9,
-      25,
-      30,
-      31,
-      35,
-      45,
+      22,
       66,
-      67,
       70,
-      85,
-      97,
-      100,
-      110,
-      117,
-      121,
-      124,
-      130,
-      136,
-      138,
-      139,
-      150,
-      166,
-      184,
-      192,
-      197
+      78,
+      146,
+      168,
+      170
     ]
   }
 },
@@ -5162,26 +5271,48 @@
   "fields": {
     "name": "Store_28",
     "books": [
-      4,
+      3,
+      19,
       29,
-      31,
-      47,
-      60,
+      32,
+      36,
+      39,
+      43,
+      45,
+      50,
+      52,
+      56,
+      58,
+      61,
       68,
-      71,
-      74,
-      93,
-      94,
-      96,
-      102,
-      107,
-      139,
-      142,
+      69,
+      76,
+      77,
+      78,
+      88,
+      98,
+      110,
+      112,
+      122,
+      127,
+      128,
+      130,
+      131,
+      138,
+      141,
+      143,
+      146,
       148,
-      156,
-      159,
-      172,
-      199
+      153,
+      154,
+      155,
+      158,
+      167,
+      181,
+      183,
+      188,
+      194,
+      195
     ]
   }
 },
@@ -5191,44 +5322,39 @@
   "fields": {
     "name": "Store_29",
     "books": [
-      26,
-      32,
-      39,
-      44,
-      47,
+      7,
+      9,
+      14,
+      22,
+      28,
+      38,
       48,
-      49,
-      50,
       51,
-      55,
       56,
-      58,
-      60,
+      59,
+      68,
+      69,
+      76,
       79,
-      80,
-      87,
-      91,
-      95,
-      105,
-      110,
-      113,
+      83,
+      89,
+      90,
+      102,
+      114,
       119,
-      125,
-      126,
-      127,
-      128,
-      130,
-      137,
-      144,
-      148,
-      150,
-      156,
-      159,
-      168,
+      121,
+      139,
+      151,
+      152,
+      166,
       173,
-      177,
-      179,
-      193
+      175,
+      176,
+      178,
+      190,
+      194,
+      195,
+      196
     ]
   }
 },
@@ -5238,19 +5364,49 @@
   "fields": {
     "name": "Store_30",
     "books": [
+      2,
+      6,
       8,
-      17,
-      21,
-      24,
-      30,
-      59,
+      10,
+      11,
+      27,
+      31,
+      47,
+      48,
+      49,
+      50,
+      60,
+      63,
+      64,
+      68,
+      75,
+      82,
+      83,
+      84,
+      92,
+      97,
+      109,
+      111,
       113,
-      131,
-      140,
-      144,
+      114,
+      117,
+      122,
+      126,
+      127,
+      130,
+      137,
+      141,
+      142,
+      143,
+      146,
+      149,
+      157,
       159,
-      191,
-      194
+      170,
+      177,
+      184,
+      185,
+      191
     ]
   }
 },
@@ -5260,10 +5416,46 @@
   "fields": {
     "name": "Store_31",
     "books": [
-      7,
+      2,
+      8,
+      14,
+      22,
+      28,
+      47,
+      52,
+      56,
+      57,
+      71,
+      76,
+      77,
+      80,
+      81,
+      86,
+      90,
+      91,
+      96,
+      108,
+      109,
+      111,
       115,
-      135,
-      159
+      122,
+      124,
+      126,
+      128,
+      130,
+      134,
+      136,
+      141,
+      149,
+      151,
+      152,
+      158,
+      165,
+      183,
+      189,
+      193,
+      199,
+      200
     ]
   }
 },
@@ -5273,46 +5465,47 @@
   "fields": {
     "name": "Store_32",
     "books": [
-      2,
-      11,
-      14,
-      18,
-      50,
-      55,
+      5,
+      9,
+      10,
+      23,
+      37,
+      38,
+      47,
+      52,
+      54,
       59,
       62,
-      66,
-      75,
+      69,
+      72,
       77,
-      82,
-      87,
-      89,
-      95,
-      102,
-      105,
-      110,
-      111,
-      127,
-      128,
+      83,
+      88,
+      97,
+      98,
+      100,
+      107,
+      112,
+      120,
+      122,
+      123,
+      126,
       137,
-      138,
-      139,
-      146,
+      145,
       147,
       149,
-      150,
-      152,
-      157,
-      160,
       161,
-      164,
-      167,
+      163,
+      166,
+      168,
       170,
-      177,
-      180,
-      185,
+      173,
+      174,
+      182,
       187,
-      197
+      197,
+      198,
+      199
     ]
   }
 },
@@ -5322,22 +5515,28 @@
   "fields": {
     "name": "Store_33",
     "books": [
+      2,
       17,
-      39,
-      53,
-      59,
-      63,
-      65,
-      75,
-      80,
-      84,
-      134,
-      137,
-      150,
-      156,
-      166,
+      26,
+      27,
+      40,
+      47,
+      49,
+      54,
+      91,
+      98,
+      145,
+      146,
+      160,
+      162,
+      164,
+      165,
+      177,
       179,
-      195
+      187,
+      189,
+      192,
+      200
     ]
   }
 },
@@ -5347,14 +5546,24 @@
   "fields": {
     "name": "Store_34",
     "books": [
-      9,
-      50,
-      54,
-      61,
-      63,
-      119,
-      157,
-      163
+      15,
+      21,
+      35,
+      39,
+      69,
+      70,
+      84,
+      93,
+      103,
+      107,
+      108,
+      111,
+      145,
+      150,
+      181,
+      182,
+      193,
+      196
     ]
   }
 },
@@ -5364,22 +5573,49 @@
   "fields": {
     "name": "Store_35",
     "books": [
-      9,
-      18,
+      4,
+      5,
+      14,
+      15,
+      19,
       22,
-      40,
-      57,
-      65,
-      71,
-      90,
+      34,
+      38,
+      39,
+      43,
+      44,
+      50,
+      56,
+      72,
+      74,
+      76,
+      77,
+      81,
+      86,
       102,
-      117,
-      127,
-      131,
+      103,
+      105,
+      110,
+      115,
+      116,
+      119,
+      123,
       132,
-      156,
-      187,
-      190,
+      143,
+      144,
+      147,
+      151,
+      154,
+      155,
+      166,
+      167,
+      176,
+      177,
+      182,
+      183,
+      186,
+      192,
+      193,
       197
     ]
   }
@@ -5390,43 +5626,13 @@
   "fields": {
     "name": "Store_36",
     "books": [
-      4,
-      21,
-      22,
-      28,
-      31,
-      32,
-      33,
-      54,
-      62,
-      70,
-      73,
-      82,
-      85,
+      64,
       87,
-      92,
-      95,
-      97,
-      98,
-      102,
-      103,
-      115,
-      117,
-      123,
-      129,
+      122,
       135,
-      150,
-      154,
-      158,
-      159,
-      161,
-      168,
-      172,
-      173,
-      184,
-      188,
       190,
-      193
+      195,
+      200
     ]
   }
 },
@@ -5436,25 +5642,19 @@
   "fields": {
     "name": "Store_37",
     "books": [
-      19,
-      29,
-      32,
-      49,
-      51,
-      54,
-      56,
-      68,
-      76,
-      83,
-      88,
-      99,
-      112,
-      116,
-      155,
-      188,
-      190,
-      195,
-      200
+      13,
+      17,
+      31,
+      53,
+      74,
+      81,
+      91,
+      101,
+      120,
+      139,
+      144,
+      149,
+      154
     ]
   }
 },
@@ -5464,41 +5664,49 @@
   "fields": {
     "name": "Store_38",
     "books": [
-      1,
+      7,
       11,
-      18,
-      26,
-      28,
-      31,
+      13,
+      16,
+      27,
       33,
-      35,
-      43,
-      52,
+      45,
+      49,
+      58,
+      59,
+      67,
       69,
-      74,
-      76,
-      77,
-      83,
-      85,
+      71,
+      78,
+      82,
       89,
-      94,
-      96,
-      97,
-      99,
-      107,
-      111,
-      114,
-      132,
-      139,
-      148,
-      149,
-      150,
+      95,
+      98,
+      101,
+      103,
+      104,
+      106,
+      108,
+      117,
+      123,
+      127,
+      128,
+      129,
+      135,
+      137,
+      142,
+      151,
+      156,
+      157,
       160,
-      171,
-      177,
+      162,
+      181,
+      183,
       186,
-      188,
-      190
+      189,
+      190,
+      196,
+      199
     ]
   }
 },
@@ -5508,22 +5716,44 @@
   "fields": {
     "name": "Store_39",
     "books": [
-      20,
+      2,
+      12,
+      24,
+      25,
+      32,
+      36,
+      41,
+      44,
+      54,
+      55,
+      58,
       64,
-      70,
-      75,
-      78,
-      132,
+      69,
+      77,
+      82,
+      90,
+      91,
+      97,
+      99,
+      104,
+      105,
+      118,
+      121,
+      127,
+      133,
+      139,
+      140,
       141,
-      147,
+      151,
       152,
-      162,
+      155,
       163,
-      164,
-      166,
-      172,
-      182,
-      188
+      165,
+      171,
+      177,
+      188,
+      194,
+      195
     ]
   }
 },
@@ -5533,37 +5763,44 @@
   "fields": {
     "name": "Store_40",
     "books": [
-      4,
-      16,
-      21,
-      28,
-      29,
-      50,
-      53,
-      57,
-      63,
-      68,
-      73,
-      76,
-      78,
-      84,
-      88,
+      9,
+      12,
+      24,
+      31,
+      39,
+      40,
+      45,
+      51,
+      52,
+      54,
+      67,
+      77,
+      85,
+      86,
+      89,
       93,
       94,
-      110,
-      113,
-      133,
-      143,
-      151,
-      152,
-      154,
-      156,
-      166,
-      167,
+      96,
+      103,
+      104,
+      112,
+      120,
+      123,
+      127,
+      132,
+      134,
+      148,
+      150,
+      155,
+      161,
+      164,
+      165,
       169,
-      171,
-      182,
-      199
+      176,
+      180,
+      186,
+      190,
+      192
     ]
   }
 },
@@ -5573,36 +5810,40 @@
   "fields": {
     "name": "Store_41",
     "books": [
-      12,
-      25,
-      28,
-      29,
-      32,
+      7,
+      11,
+      20,
+      26,
+      33,
+      38,
+      44,
+      48,
+      49,
       52,
-      62,
-      65,
-      69,
-      106,
-      113,
-      115,
-      118,
-      120,
-      128,
-      130,
+      61,
+      72,
+      76,
+      92,
+      95,
+      100,
+      102,
+      104,
+      105,
+      116,
+      117,
+      121,
       131,
-      137,
-      141,
-      142,
-      143,
-      148,
-      149,
-      154,
-      164,
-      167,
-      169,
-      178,
-      185,
-      187
+      132,
+      135,
+      156,
+      160,
+      161,
+      173,
+      174,
+      186,
+      192,
+      197,
+      199
     ]
   }
 },
@@ -5612,17 +5853,51 @@
   "fields": {
     "name": "Store_42",
     "books": [
-      13,
-      22,
-      23,
-      28,
+      6,
+      7,
+      9,
+      12,
+      15,
+      17,
+      26,
+      27,
+      31,
+      42,
+      43,
+      47,
+      52,
+      54,
       59,
-      83,
-      127,
-      129,
-      157,
+      61,
+      69,
+      73,
+      74,
+      77,
+      81,
+      82,
+      84,
+      94,
+      111,
+      114,
+      117,
+      119,
+      124,
+      130,
+      141,
+      144,
+      149,
+      150,
+      155,
+      160,
       161,
-      162
+      162,
+      167,
+      176,
+      179,
+      181,
+      184,
+      187,
+      199
     ]
   }
 },
@@ -5632,48 +5907,49 @@
   "fields": {
     "name": "Store_43",
     "books": [
-      6,
-      7,
+      5,
+      11,
       13,
+      14,
       16,
-      22,
-      23,
-      26,
-      29,
+      30,
+      31,
       32,
-      35,
+      36,
+      39,
       45,
       46,
-      48,
-      56,
-      58,
-      59,
-      61,
-      62,
-      74,
-      78,
-      80,
+      51,
+      60,
+      65,
+      69,
+      76,
+      79,
       81,
       83,
-      87,
-      89,
-      92,
-      95,
-      103,
-      122,
-      125,
-      132,
-      133,
-      134,
+      84,
+      90,
+      104,
+      114,
+      135,
+      141,
+      142,
+      143,
       144,
-      162,
-      163,
+      151,
+      157,
+      159,
+      167,
+      168,
+      170,
+      172,
+      173,
       174,
-      179,
       180,
-      181,
-      189,
-      196
+      184,
+      191,
+      199,
+      200
     ]
   }
 },
@@ -5683,46 +5959,46 @@
   "fields": {
     "name": "Store_44",
     "books": [
-      5,
-      6,
+      2,
+      9,
+      16,
       18,
-      22,
-      28,
-      34,
-      35,
-      39,
-      42,
-      45,
-      52,
+      24,
+      25,
+      29,
+      36,
+      37,
+      51,
+      55,
       64,
-      65,
-      68,
-      72,
-      76,
+      86,
+      87,
       92,
-      96,
-      99,
-      100,
+      94,
+      97,
+      101,
       102,
       104,
-      110,
-      114,
-      115,
-      119,
-      131,
+      108,
+      109,
+      121,
+      122,
+      124,
+      133,
       135,
-      139,
-      141,
-      147,
+      136,
+      144,
+      149,
       152,
+      154,
       161,
-      166,
-      168,
-      169,
-      187,
-      188,
-      191,
-      199
+      162,
+      165,
+      181,
+      186,
+      189,
+      194,
+      198
     ]
   }
 },
@@ -5732,40 +6008,32 @@
   "fields": {
     "name": "Store_45",
     "books": [
-      21,
-      27,
-      32,
-      34,
-      36,
-      37,
+      3,
+      6,
+      7,
+      22,
+      25,
+      26,
+      40,
       41,
-      43,
-      54,
-      57,
-      60,
-      71,
-      72,
-      75,
-      79,
-      85,
-      86,
-      95,
-      99,
-      105,
+      47,
+      49,
+      59,
+      81,
+      97,
+      101,
+      109,
+      112,
       113,
-      117,
-      134,
-      141,
-      146,
-      149,
-      152,
-      154,
-      165,
+      130,
+      136,
+      143,
+      159,
       173,
-      176,
-      179,
-      188,
-      200
+      174,
+      185,
+      186,
+      191
     ]
   }
 },
@@ -5775,13 +6043,20 @@
   "fields": {
     "name": "Store_46",
     "books": [
-      5,
-      51,
-      58,
-      131,
-      143,
-      164,
-      186
+      33,
+      41,
+      47,
+      75,
+      81,
+      93,
+      108,
+      150,
+      153,
+      158,
+      168,
+      186,
+      190,
+      199
     ]
   }
 },
@@ -5791,29 +6066,28 @@
   "fields": {
     "name": "Store_47",
     "books": [
-      1,
-      8,
-      10,
-      11,
-      22,
       29,
+      33,
       35,
-      57,
-      60,
-      78,
-      81,
-      85,
+      38,
+      40,
+      48,
+      49,
+      76,
+      82,
+      86,
+      90,
+      93,
       111,
-      125,
-      135,
-      139,
-      151,
-      153,
-      158,
-      159,
-      166,
-      197,
-      198
+      115,
+      128,
+      131,
+      145,
+      161,
+      172,
+      182,
+      184,
+      193
     ]
   }
 },
@@ -5823,33 +6097,18 @@
   "fields": {
     "name": "Store_48",
     "books": [
-      7,
-      11,
-      22,
-      28,
-      42,
-      46,
-      51,
-      53,
-      54,
-      58,
-      70,
-      79,
-      83,
-      86,
-      102,
-      104,
-      113,
-      145,
-      151,
-      153,
+      21,
+      24,
+      34,
+      37,
+      99,
+      108,
+      109,
+      117,
       160,
-      161,
       162,
-      164,
-      175,
-      189,
-      196
+      177,
+      198
     ]
   }
 },
@@ -5859,20 +6118,13 @@
   "fields": {
     "name": "Store_49",
     "books": [
-      20,
-      58,
-      68,
-      89,
-      97,
-      116,
-      124,
-      125,
-      129,
-      130,
-      160,
-      161,
-      169,
-      190
+      3,
+      8,
+      52,
+      53,
+      152,
+      178,
+      193
     ]
   }
 },
@@ -5882,35 +6134,34 @@
   "fields": {
     "name": "Store_50",
     "books": [
+      1,
       10,
-      12,
-      26,
-      29,
-      44,
-      46,
-      53,
-      56,
-      57,
-      64,
-      65,
-      72,
-      90,
-      96,
-      103,
-      107,
-      108,
+      11,
+      21,
+      22,
+      27,
+      30,
+      32,
+      38,
+      49,
+      79,
+      85,
+      91,
+      97,
+      100,
+      110,
       122,
-      127,
-      129,
-      154,
-      155,
+      142,
+      144,
+      159,
       170,
-      172,
-      178,
-      179,
+      174,
+      177,
+      181,
+      182,
+      183,
       185,
-      194,
-      195
+      188
     ]
   }
 },
@@ -5920,15 +6171,26 @@
   "fields": {
     "name": "Store_51",
     "books": [
-      34,
-      54,
-      58,
-      73,
-      95,
-      103,
-      125,
-      129,
-      169
+      1,
+      7,
+      23,
+      33,
+      39,
+      51,
+      59,
+      65,
+      96,
+      111,
+      116,
+      123,
+      131,
+      135,
+      136,
+      145,
+      159,
+      171,
+      185,
+      197
     ]
   }
 },
@@ -5938,26 +6200,43 @@
   "fields": {
     "name": "Store_52",
     "books": [
-      5,
+      12,
+      16,
+      18,
+      22,
       31,
-      40,
+      36,
+      39,
+      41,
+      45,
       48,
-      60,
+      52,
+      56,
+      57,
+      58,
+      68,
       69,
-      70,
-      84,
-      87,
-      98,
+      81,
+      83,
+      90,
+      92,
       99,
-      112,
+      104,
       117,
-      126,
-      131,
-      135,
-      141,
-      164,
-      177,
-      193
+      121,
+      128,
+      129,
+      133,
+      136,
+      137,
+      155,
+      156,
+      157,
+      161,
+      166,
+      185,
+      186,
+      192
     ]
   }
 },
@@ -5967,27 +6246,48 @@
   "fields": {
     "name": "Store_53",
     "books": [
-      4,
+      1,
       5,
-      7,
-      21,
-      22,
-      40,
-      41,
-      65,
-      69,
+      12,
+      17,
+      18,
+      19,
+      24,
+      30,
+      37,
+      50,
+      55,
+      58,
+      59,
+      64,
+      66,
       74,
-      123,
-      138,
-      141,
-      146,
-      156,
-      169,
+      76,
+      82,
+      86,
+      93,
+      94,
+      97,
+      100,
+      102,
+      104,
+      110,
+      121,
+      131,
+      132,
+      134,
+      135,
+      158,
+      163,
+      164,
+      172,
+      175,
       176,
-      184,
-      186,
-      187,
-      190
+      180,
+      181,
+      188,
+      191,
+      198
     ]
   }
 },
@@ -5997,13 +6297,46 @@
   "fields": {
     "name": "Store_54",
     "books": [
+      4,
+      8,
+      13,
       16,
-      35,
-      110,
-      112,
-      131,
-      151,
-      162
+      25,
+      38,
+      48,
+      50,
+      51,
+      53,
+      64,
+      68,
+      69,
+      78,
+      83,
+      87,
+      95,
+      96,
+      100,
+      101,
+      103,
+      106,
+      107,
+      118,
+      120,
+      127,
+      136,
+      143,
+      145,
+      154,
+      156,
+      168,
+      169,
+      172,
+      177,
+      178,
+      183,
+      186,
+      192,
+      195
     ]
   }
 },
@@ -6013,27 +6346,17 @@
   "fields": {
     "name": "Store_55",
     "books": [
-      3,
-      6,
-      11,
-      12,
-      19,
-      20,
-      23,
-      26,
-      34,
-      37,
-      40,
-      48,
-      68,
-      92,
-      106,
-      110,
-      131,
-      151,
+      24,
+      30,
+      47,
+      54,
+      134,
       152,
-      163,
-      194
+      164,
+      184,
+      194,
+      195,
+      199
     ]
   }
 },
@@ -6043,44 +6366,29 @@
   "fields": {
     "name": "Store_56",
     "books": [
-      20,
-      21,
-      22,
-      31,
-      40,
+      10,
+      14,
+      17,
+      23,
+      24,
+      30,
+      32,
       41,
-      47,
-      52,
-      54,
-      55,
+      45,
+      56,
       58,
-      59,
-      61,
-      66,
-      67,
-      85,
-      91,
+      88,
+      90,
       98,
-      103,
-      106,
-      114,
-      117,
-      118,
-      123,
-      125,
-      130,
-      139,
-      153,
+      105,
+      111,
+      113,
+      115,
+      126,
+      143,
       155,
-      158,
-      159,
-      163,
-      172,
-      177,
-      182,
-      190,
-      193,
-      198
+      170,
+      185
     ]
   }
 },
@@ -6090,22 +6398,34 @@
   "fields": {
     "name": "Store_57",
     "books": [
-      23,
+      18,
+      29,
       33,
-      44,
-      48,
-      69,
-      73,
-      74,
-      76,
-      97,
-      111,
-      113,
-      132,
+      58,
+      59,
+      61,
+      71,
+      80,
+      81,
+      87,
+      95,
+      109,
+      121,
+      129,
+      136,
+      144,
+      146,
+      149,
+      152,
       159,
-      175,
-      184,
-      191
+      163,
+      168,
+      169,
+      172,
+      176,
+      182,
+      188,
+      189
     ]
   }
 },
@@ -6115,41 +6435,32 @@
   "fields": {
     "name": "Store_58",
     "books": [
-      2,
-      9,
-      13,
-      16,
-      24,
-      31,
-      32,
-      34,
-      38,
-      42,
-      45,
-      47,
-      52,
+      3,
+      8,
+      12,
+      36,
+      37,
       61,
-      67,
       73,
-      81,
-      99,
+      74,
+      82,
+      84,
+      86,
+      97,
       100,
-      111,
-      113,
+      101,
+      104,
       114,
-      117,
-      118,
       135,
-      137,
-      143,
-      151,
+      148,
+      153,
       159,
-      162,
-      168,
-      169,
-      181,
-      192,
-      195
+      164,
+      165,
+      179,
+      187,
+      190,
+      192
     ]
   }
 },
@@ -6159,16 +6470,21 @@
   "fields": {
     "name": "Store_59",
     "books": [
-      9,
+      23,
       30,
-      74,
-      87,
-      93,
-      98,
-      120,
-      168,
-      183,
-      189
+      36,
+      41,
+      69,
+      72,
+      102,
+      109,
+      128,
+      136,
+      139,
+      162,
+      164,
+      172,
+      185
     ]
   }
 },
@@ -6178,35 +6494,9 @@
   "fields": {
     "name": "Store_60",
     "books": [
-      2,
-      7,
-      8,
-      20,
-      27,
-      29,
-      35,
-      38,
-      44,
-      53,
-      56,
-      58,
-      66,
-      69,
-      81,
-      101,
-      102,
-      105,
-      107,
-      118,
-      119,
-      130,
-      136,
-      141,
-      159,
-      178,
-      183,
-      197,
-      199
+      116,
+      166,
+      177
     ]
   }
 },
@@ -6216,28 +6506,13 @@
   "fields": {
     "name": "Store_61",
     "books": [
-      3,
-      4,
-      15,
-      27,
-      44,
-      45,
-      46,
-      57,
-      66,
-      108,
-      113,
-      130,
-      140,
-      141,
-      146,
-      149,
-      153,
-      154,
-      172,
-      176,
-      181,
-      187
+      25,
+      47,
+      54,
+      56,
+      109,
+      144,
+      184
     ]
   }
 },
@@ -6247,14 +6522,13 @@
   "fields": {
     "name": "Store_62",
     "books": [
-      22,
-      56,
-      76,
-      116,
-      122,
-      144,
-      164,
-      200
+      8,
+      11,
+      93,
+      110,
+      126,
+      141,
+      150
     ]
   }
 },
@@ -6264,32 +6538,45 @@
   "fields": {
     "name": "Store_63",
     "books": [
-      7,
-      8,
-      13,
+      3,
+      9,
+      10,
+      12,
       16,
-      19,
-      20,
-      21,
-      34,
-      38,
-      41,
-      45,
+      25,
+      26,
+      28,
+      29,
+      30,
+      39,
+      49,
       50,
-      56,
-      86,
+      51,
+      59,
+      60,
+      66,
+      71,
+      74,
+      79,
+      83,
       89,
-      97,
-      112,
-      121,
-      128,
-      137,
-      143,
-      146,
-      151,
-      155,
-      184,
-      186
+      95,
+      98,
+      107,
+      109,
+      114,
+      130,
+      132,
+      138,
+      160,
+      169,
+      171,
+      175,
+      186,
+      191,
+      192,
+      193,
+      198
     ]
   }
 },
@@ -6299,37 +6586,26 @@
   "fields": {
     "name": "Store_64",
     "books": [
-      1,
-      4,
-      8,
-      14,
-      19,
-      23,
-      26,
+      10,
+      16,
+      21,
+      32,
       40,
-      54,
-      64,
-      67,
-      68,
-      70,
-      84,
-      99,
-      109,
-      111,
-      132,
-      134,
-      142,
-      145,
-      146,
-      153,
-      155,
-      159,
-      161,
-      170,
-      180,
-      185,
+      73,
+      74,
+      75,
+      81,
+      95,
+      100,
+      108,
+      117,
+      118,
+      119,
+      139,
+      143,
+      158,
       189,
-      190
+      194
     ]
   }
 },
@@ -6339,9 +6615,51 @@
   "fields": {
     "name": "Store_65",
     "books": [
-      43,
-      94,
-      186
+      5,
+      6,
+      9,
+      14,
+      25,
+      26,
+      27,
+      29,
+      31,
+      35,
+      38,
+      39,
+      41,
+      45,
+      46,
+      48,
+      51,
+      58,
+      64,
+      69,
+      76,
+      78,
+      86,
+      88,
+      92,
+      99,
+      103,
+      105,
+      116,
+      121,
+      127,
+      135,
+      140,
+      144,
+      145,
+      156,
+      166,
+      177,
+      179,
+      180,
+      181,
+      185,
+      194,
+      197,
+      199
     ]
   }
 },
@@ -6351,47 +6669,18 @@
   "fields": {
     "name": "Store_66",
     "books": [
-      3,
-      7,
-      21,
-      24,
-      37,
-      39,
-      47,
-      49,
+      20,
+      31,
+      33,
       64,
-      71,
-      75,
-      77,
-      79,
-      81,
-      84,
-      93,
-      99,
-      105,
-      112,
-      114,
-      115,
-      118,
-      126,
-      129,
-      134,
-      135,
-      143,
-      155,
-      161,
-      171,
-      174,
-      176,
-      179,
-      182,
-      183,
-      184,
-      187,
+      65,
+      92,
+      113,
+      120,
+      168,
+      186,
       189,
-      191,
-      199,
-      200
+      197
     ]
   }
 },
@@ -6401,7 +6690,23 @@
   "fields": {
     "name": "Store_67",
     "books": [
-      3
+      21,
+      32,
+      67,
+      74,
+      76,
+      84,
+      92,
+      99,
+      119,
+      124,
+      125,
+      141,
+      171,
+      187,
+      188,
+      192,
+      200
     ]
   }
 },
@@ -6412,21 +6717,43 @@
     "name": "Store_68",
     "books": [
       2,
-      22,
+      4,
+      9,
+      12,
+      21,
+      29,
+      34,
+      40,
       47,
+      51,
+      53,
+      54,
+      55,
+      57,
       58,
+      59,
       60,
-      61,
-      80,
-      86,
-      90,
-      91,
-      115,
-      170,
+      68,
+      73,
+      104,
+      112,
+      116,
+      117,
+      130,
+      136,
+      143,
+      147,
+      148,
+      159,
+      160,
+      169,
+      179,
       180,
-      181,
-      182,
-      195
+      187,
+      190,
+      194,
+      197,
+      199
     ]
   }
 },
@@ -6436,43 +6763,39 @@
   "fields": {
     "name": "Store_69",
     "books": [
-      1,
       4,
+      6,
+      8,
       9,
-      13,
+      11,
       15,
       17,
-      20,
+      19,
+      22,
       30,
-      32,
-      35,
-      39,
-      41,
-      42,
-      48,
-      51,
+      34,
+      49,
+      56,
+      59,
       65,
-      66,
-      68,
-      70,
       74,
-      76,
-      79,
+      85,
+      92,
       93,
+      94,
+      106,
+      110,
       114,
-      122,
-      130,
-      135,
+      117,
+      126,
       137,
-      146,
-      161,
-      164,
-      171,
-      174,
-      178,
+      142,
+      148,
+      152,
+      172,
       183,
-      184,
-      200
+      189,
+      192
     ]
   }
 },
@@ -6482,13 +6805,7 @@
   "fields": {
     "name": "Store_70",
     "books": [
-      4,
-      51,
-      126,
-      141,
-      148,
-      149,
-      172
+      102
     ]
   }
 },
@@ -6498,22 +6815,41 @@
   "fields": {
     "name": "Store_71",
     "books": [
-      3,
-      11,
-      26,
-      44,
+      2,
+      5,
+      8,
+      9,
+      19,
+      23,
+      24,
+      29,
+      41,
       47,
-      76,
+      52,
+      55,
+      58,
+      64,
+      66,
+      75,
       81,
-      91,
-      95,
-      127,
-      129,
-      130,
-      144,
+      106,
+      118,
+      121,
+      132,
+      139,
+      149,
+      151,
+      154,
+      156,
+      160,
+      161,
+      178,
+      179,
       180,
-      183,
-      195
+      182,
+      187,
+      189,
+      192
     ]
   }
 },
@@ -6523,17 +6859,36 @@
   "fields": {
     "name": "Store_72",
     "books": [
-      1,
-      54,
-      59,
-      65,
-      74,
-      101,
-      127,
-      140,
+      9,
+      19,
+      23,
+      30,
+      38,
+      45,
+      55,
+      64,
+      66,
+      76,
+      82,
+      86,
+      87,
+      90,
+      108,
+      111,
+      116,
+      126,
+      129,
+      142,
       143,
-      149,
-      155
+      145,
+      146,
+      150,
+      155,
+      157,
+      164,
+      170,
+      175,
+      185
     ]
   }
 },
@@ -6543,44 +6898,49 @@
   "fields": {
     "name": "Store_73",
     "books": [
-      10,
-      14,
-      24,
-      35,
+      4,
+      5,
+      13,
+      17,
+      21,
+      33,
       36,
-      39,
-      43,
-      48,
+      40,
+      46,
+      47,
+      49,
+      54,
+      55,
       60,
-      66,
-      70,
+      73,
       74,
-      75,
       80,
-      83,
-      88,
+      84,
+      87,
+      89,
+      92,
+      93,
       94,
       98,
-      101,
-      113,
-      117,
-      122,
+      107,
+      108,
+      115,
+      116,
+      121,
       123,
-      131,
+      128,
+      129,
       132,
+      139,
       144,
-      147,
-      148,
-      151,
-      157,
-      160,
-      164,
-      166,
+      152,
+      154,
+      163,
+      171,
+      175,
       181,
-      182,
-      187,
-      193,
-      198,
+      184,
+      192,
       200
     ]
   }
@@ -6591,32 +6951,44 @@
   "fields": {
     "name": "Store_74",
     "books": [
-      2,
-      7,
-      14,
+      13,
       27,
-      31,
-      44,
-      79,
-      84,
+      29,
+      39,
+      54,
+      56,
+      64,
+      68,
+      69,
+      74,
+      76,
+      83,
+      90,
+      91,
       93,
       97,
-      101,
+      100,
+      102,
+      103,
       104,
-      127,
-      128,
+      107,
+      110,
+      112,
+      113,
+      119,
       136,
-      137,
-      149,
-      151,
-      155,
-      156,
-      157,
-      163,
-      169,
-      189,
-      193,
-      197
+      140,
+      142,
+      146,
+      154,
+      160,
+      164,
+      174,
+      178,
+      179,
+      180,
+      181,
+      191
     ]
   }
 },
@@ -6626,37 +6998,22 @@
   "fields": {
     "name": "Store_75",
     "books": [
-      3,
-      19,
-      24,
-      28,
-      31,
-      56,
-      66,
-      70,
-      72,
-      79,
-      82,
-      87,
-      93,
-      99,
-      101,
-      107,
-      112,
-      113,
-      115,
-      125,
-      129,
-      132,
-      172,
-      174,
+      32,
+      44,
+      48,
+      52,
+      62,
+      73,
+      75,
+      95,
+      156,
+      165,
+      168,
+      171,
+      176,
       181,
-      182,
-      189,
-      190,
-      195,
-      196,
-      200
+      184,
+      197
     ]
   }
 },
@@ -6666,8 +7023,29 @@
   "fields": {
     "name": "Store_76",
     "books": [
-      56,
-      120
+      8,
+      12,
+      18,
+      31,
+      32,
+      35,
+      44,
+      48,
+      50,
+      51,
+      83,
+      87,
+      88,
+      115,
+      121,
+      122,
+      132,
+      135,
+      139,
+      145,
+      179,
+      182,
+      196
     ]
   }
 },
@@ -6677,46 +7055,26 @@
   "fields": {
     "name": "Store_77",
     "books": [
-      4,
-      8,
-      11,
-      13,
-      24,
-      25,
-      27,
-      36,
-      40,
-      41,
-      43,
-      54,
-      59,
-      61,
-      63,
+      22,
+      37,
+      47,
+      62,
       65,
-      67,
-      70,
-      71,
-      72,
-      74,
-      82,
-      100,
-      101,
-      102,
-      109,
-      113,
-      117,
-      128,
-      135,
-      146,
-      154,
-      161,
-      162,
-      164,
-      165,
-      171,
-      178,
-      181,
-      189
+      76,
+      80,
+      83,
+      89,
+      94,
+      95,
+      115,
+      119,
+      121,
+      140,
+      143,
+      175,
+      185,
+      193,
+      197
     ]
   }
 },
@@ -6726,48 +7084,17 @@
   "fields": {
     "name": "Store_78",
     "books": [
-      2,
-      6,
-      7,
-      17,
-      18,
-      28,
-      29,
-      30,
-      33,
-      38,
-      39,
-      42,
-      53,
-      55,
-      67,
-      69,
-      72,
-      77,
-      80,
-      87,
-      88,
-      100,
-      101,
-      103,
-      107,
-      116,
-      119,
-      126,
-      130,
-      139,
-      143,
-      148,
-      149,
-      152,
-      154,
-      157,
-      170,
-      175,
-      180,
-      187,
-      189,
-      196
+      13,
+      34,
+      40,
+      49,
+      60,
+      89,
+      106,
+      108,
+      125,
+      136,
+      195
     ]
   }
 },
@@ -6777,39 +7104,45 @@
   "fields": {
     "name": "Store_79",
     "books": [
-      2,
-      5,
-      8,
+      3,
+      7,
+      9,
       11,
-      22,
-      26,
-      29,
-      40,
-      47,
-      49,
+      16,
+      30,
+      31,
+      35,
+      38,
+      41,
+      50,
+      51,
+      53,
+      56,
       61,
       67,
-      73,
-      82,
-      91,
-      99,
-      101,
-      106,
-      121,
-      126,
-      129,
-      132,
-      139,
-      142,
-      161,
-      175,
+      74,
+      95,
+      97,
+      103,
+      114,
+      125,
+      128,
+      131,
+      133,
+      134,
+      143,
+      145,
+      147,
+      148,
+      152,
+      157,
+      162,
+      165,
+      168,
+      170,
       177,
-      182,
-      186,
-      191,
-      192,
-      196,
-      200
+      189,
+      199
     ]
   }
 },
@@ -6819,29 +7152,44 @@
   "fields": {
     "name": "Store_80",
     "books": [
+      2,
       5,
-      7,
-      19,
-      31,
-      52,
-      58,
-      61,
-      62,
-      71,
-      73,
-      78,
-      87,
-      92,
-      95,
-      141,
-      152,
-      154,
-      155,
-      166,
-      178,
-      183,
-      187,
-      193
+      8,
+      13,
+      20,
+      22,
+      23,
+      26,
+      38,
+      44,
+      47,
+      68,
+      70,
+      75,
+      80,
+      82,
+      84,
+      97,
+      98,
+      105,
+      107,
+      109,
+      110,
+      127,
+      131,
+      136,
+      138,
+      139,
+      140,
+      142,
+      143,
+      146,
+      153,
+      165,
+      172,
+      192,
+      193,
+      194
     ]
   }
 },
@@ -6851,46 +7199,10 @@
   "fields": {
     "name": "Store_81",
     "books": [
-      4,
-      7,
-      13,
-      14,
-      37,
-      39,
-      40,
-      61,
-      74,
-      85,
-      89,
-      90,
-      91,
-      96,
-      97,
-      101,
-      103,
-      105,
+      36,
+      38,
       106,
-      112,
-      115,
-      118,
-      121,
-      123,
-      124,
-      136,
-      141,
-      142,
-      149,
-      152,
-      154,
-      155,
-      164,
-      168,
-      174,
-      176,
-      184,
-      186,
-      195,
-      198
+      108
     ]
   }
 },
@@ -6900,28 +7212,21 @@
   "fields": {
     "name": "Store_82",
     "books": [
-      4,
-      5,
-      31,
-      33,
-      47,
+      3,
+      18,
+      26,
+      42,
       48,
-      50,
-      56,
-      58,
-      61,
-      63,
-      80,
+      52,
+      86,
       88,
-      94,
-      125,
-      129,
-      132,
-      138,
-      142,
-      174,
-      179,
-      197
+      89,
+      107,
+      122,
+      148,
+      161,
+      181,
+      184
     ]
   }
 },
@@ -6931,15 +7236,46 @@
   "fields": {
     "name": "Store_83",
     "books": [
-      37,
-      46,
-      54,
-      63,
+      3,
+      8,
+      9,
+      10,
+      17,
+      19,
+      21,
+      28,
+      33,
+      58,
+      62,
+      71,
+      76,
+      82,
+      83,
+      86,
+      91,
       98,
-      113,
-      119,
-      183,
-      194
+      100,
+      105,
+      111,
+      112,
+      115,
+      116,
+      120,
+      127,
+      138,
+      141,
+      144,
+      146,
+      150,
+      153,
+      157,
+      161,
+      168,
+      170,
+      176,
+      191,
+      193,
+      199
     ]
   }
 },
@@ -6949,28 +7285,42 @@
   "fields": {
     "name": "Store_84",
     "books": [
-      8,
-      18,
-      29,
-      33,
+      6,
+      9,
+      10,
+      11,
+      16,
+      17,
+      19,
+      23,
+      25,
+      26,
+      30,
+      40,
+      46,
       53,
-      54,
       56,
-      71,
-      81,
-      87,
-      95,
+      60,
+      62,
+      66,
+      67,
+      77,
       96,
-      103,
-      108,
-      110,
-      129,
-      142,
-      147,
+      106,
+      119,
+      128,
+      143,
+      153,
       160,
-      164,
-      183,
-      199
+      163,
+      166,
+      168,
+      174,
+      179,
+      187,
+      190,
+      192,
+      194
     ]
   }
 },
@@ -6980,24 +7330,15 @@
   "fields": {
     "name": "Store_85",
     "books": [
-      5,
-      16,
+      3,
       19,
-      30,
-      43,
-      55,
-      62,
-      74,
-      89,
-      105,
-      121,
-      124,
-      130,
-      131,
-      141,
-      147,
-      148,
-      160
+      22,
+      40,
+      61,
+      64,
+      85,
+      116,
+      177
     ]
   }
 },
@@ -7007,11 +7348,30 @@
   "fields": {
     "name": "Store_86",
     "books": [
-      15,
-      58,
-      84,
-      121,
-      198
+      3,
+      6,
+      24,
+      30,
+      40,
+      44,
+      46,
+      53,
+      86,
+      87,
+      91,
+      93,
+      115,
+      116,
+      117,
+      126,
+      127,
+      142,
+      148,
+      187,
+      189,
+      191,
+      197,
+      200
     ]
   }
 },
@@ -7022,27 +7382,49 @@
     "name": "Store_87",
     "books": [
       3,
-      10,
-      11,
-      12,
-      15,
-      32,
-      33,
-      49,
+      4,
+      7,
+      13,
+      16,
+      19,
+      22,
+      23,
+      25,
+      35,
+      36,
+      39,
+      42,
+      53,
       55,
-      57,
       60,
-      80,
-      95,
-      109,
-      118,
-      143,
-      148,
-      161,
+      70,
+      92,
+      101,
+      106,
+      114,
+      117,
+      125,
+      127,
+      134,
+      135,
+      141,
+      145,
+      150,
+      153,
+      155,
+      157,
+      159,
+      167,
+      171,
+      172,
+      178,
+      180,
+      182,
       184,
-      189,
-      194,
-      196
+      185,
+      192,
+      193,
+      194
     ]
   }
 },
@@ -7052,49 +7434,27 @@
   "fields": {
     "name": "Store_88",
     "books": [
-      10,
-      11,
+      1,
+      9,
       12,
-      17,
-      19,
       24,
-      26,
-      28,
-      35,
-      36,
-      41,
-      50,
-      57,
+      33,
+      37,
+      44,
+      49,
+      55,
+      56,
       69,
-      75,
-      77,
-      81,
-      82,
-      83,
-      88,
-      89,
-      99,
-      119,
-      123,
-      134,
-      136,
-      139,
-      140,
-      142,
-      151,
-      162,
-      164,
-      167,
-      170,
+      80,
+      97,
+      122,
+      135,
+      150,
+      152,
+      163,
       171,
-      173,
-      177,
       185,
-      186,
-      189,
-      193,
-      199,
-      200
+      189
     ]
   }
 },
@@ -7104,9 +7464,32 @@
   "fields": {
     "name": "Store_89",
     "books": [
-      69,
-      89,
-      95
+      3,
+      12,
+      19,
+      21,
+      45,
+      46,
+      50,
+      57,
+      60,
+      79,
+      88,
+      105,
+      110,
+      119,
+      120,
+      132,
+      134,
+      135,
+      139,
+      141,
+      142,
+      160,
+      164,
+      167,
+      182,
+      189
     ]
   }
 },
@@ -7116,25 +7499,39 @@
   "fields": {
     "name": "Store_90",
     "books": [
-      15,
-      27,
-      37,
-      45,
+      2,
+      8,
+      9,
+      16,
+      28,
+      40,
+      53,
+      54,
+      60,
+      62,
+      67,
       69,
-      88,
-      101,
+      75,
+      78,
+      79,
+      81,
+      85,
+      86,
+      87,
+      91,
+      92,
       106,
-      111,
-      114,
+      112,
       120,
-      150,
-      159,
-      169,
+      132,
+      134,
+      139,
+      156,
+      164,
+      165,
       177,
-      179,
-      181,
-      187,
-      197
+      184,
+      200
     ]
   }
 },
@@ -7144,12 +7541,20 @@
   "fields": {
     "name": "Store_91",
     "books": [
-      42,
-      62,
-      97,
-      110,
-      138,
-      143
+      13,
+      15,
+      25,
+      28,
+      63,
+      83,
+      117,
+      118,
+      125,
+      140,
+      149,
+      151,
+      153,
+      181
     ]
   }
 },
@@ -7159,22 +7564,47 @@
   "fields": {
     "name": "Store_92",
     "books": [
-      30,
-      43,
-      49,
-      83,
+      2,
+      5,
+      10,
+      13,
+      33,
+      40,
+      41,
+      45,
+      51,
+      61,
+      67,
+      69,
+      70,
+      72,
+      73,
+      78,
+      79,
       86,
       93,
-      129,
-      140,
-      160,
-      167,
-      169,
-      175,
-      185,
-      194,
-      197,
-      198
+      96,
+      101,
+      106,
+      111,
+      123,
+      125,
+      130,
+      133,
+      137,
+      138,
+      139,
+      146,
+      151,
+      153,
+      154,
+      155,
+      156,
+      165,
+      172,
+      184,
+      196,
+      197
     ]
   }
 },
@@ -7184,39 +7614,35 @@
   "fields": {
     "name": "Store_93",
     "books": [
-      5,
-      15,
-      32,
-      34,
-      38,
+      3,
+      11,
+      35,
+      43,
+      44,
+      50,
       53,
-      55,
-      60,
-      62,
-      71,
-      76,
-      89,
-      96,
-      101,
+      59,
+      73,
+      79,
+      81,
+      103,
       110,
-      114,
-      123,
-      125,
-      133,
-      135,
-      142,
-      145,
-      146,
-      155,
-      156,
-      162,
+      122,
+      127,
+      129,
+      130,
+      134,
+      151,
+      153,
+      161,
       163,
-      166,
-      170,
-      173,
-      178,
-      180,
-      195
+      164,
+      168,
+      185,
+      189,
+      194,
+      195,
+      197
     ]
   }
 },
@@ -7226,32 +7652,8 @@
   "fields": {
     "name": "Store_94",
     "books": [
-      10,
-      15,
-      25,
-      27,
-      39,
-      64,
-      68,
-      69,
-      74,
-      75,
-      81,
-      83,
-      92,
-      99,
-      109,
-      121,
-      129,
-      133,
-      136,
-      138,
-      143,
-      148,
-      151,
-      165,
-      166,
-      194
+      7,
+      67
     ]
   }
 },
@@ -7261,11 +7663,37 @@
   "fields": {
     "name": "Store_95",
     "books": [
-      35,
+      4,
+      16,
+      19,
+      25,
+      26,
+      31,
+      38,
+      41,
       44,
-      50,
-      159,
-      167
+      47,
+      52,
+      67,
+      71,
+      84,
+      85,
+      88,
+      91,
+      97,
+      102,
+      106,
+      108,
+      109,
+      110,
+      138,
+      140,
+      141,
+      146,
+      148,
+      157,
+      162,
+      190
     ]
   }
 },
@@ -7275,19 +7703,48 @@
   "fields": {
     "name": "Store_96",
     "books": [
-      9,
-      15,
-      23,
-      38,
-      49,
-      82,
-      85,
+      14,
+      19,
+      24,
+      27,
+      32,
+      34,
+      35,
+      36,
+      42,
+      46,
+      50,
+      65,
+      69,
+      72,
+      79,
       95,
-      112,
-      123,
+      96,
+      115,
+      119,
+      120,
+      122,
       127,
-      162,
-      174
+      128,
+      129,
+      131,
+      135,
+      139,
+      146,
+      148,
+      152,
+      158,
+      161,
+      169,
+      176,
+      177,
+      179,
+      182,
+      184,
+      191,
+      192,
+      196,
+      199
     ]
   }
 },
@@ -7297,42 +7754,27 @@
   "fields": {
     "name": "Store_97",
     "books": [
-      6,
-      11,
-      30,
+      7,
+      25,
+      28,
       31,
-      44,
-      48,
-      57,
-      63,
-      67,
+      33,
+      52,
       75,
-      76,
-      79,
-      85,
-      88,
-      89,
-      96,
-      97,
-      98,
-      105,
-      108,
-      120,
+      99,
+      102,
+      121,
       122,
-      131,
-      143,
-      144,
+      126,
+      129,
+      142,
       146,
-      147,
-      148,
-      149,
-      160,
-      161,
-      167,
-      179,
-      184,
-      195,
-      200
+      152,
+      170,
+      172,
+      180,
+      186,
+      192
     ]
   }
 },
@@ -7342,47 +7784,45 @@
   "fields": {
     "name": "Store_98",
     "books": [
-      4,
-      7,
-      8,
+      3,
       13,
       17,
-      24,
-      27,
+      21,
+      32,
       44,
-      45,
-      51,
+      47,
+      48,
+      49,
       53,
-      54,
+      56,
+      58,
       59,
-      62,
-      68,
-      74,
-      75,
-      76,
+      63,
+      69,
+      73,
       79,
-      93,
+      91,
+      94,
       98,
-      100,
-      102,
+      101,
       103,
-      108,
-      115,
-      124,
-      129,
-      130,
-      133,
-      135,
+      106,
+      111,
+      118,
+      120,
+      131,
       136,
-      142,
-      155,
-      156,
-      161,
-      171,
-      173,
-      188,
-      190,
-      197
+      139,
+      141,
+      143,
+      147,
+      157,
+      159,
+      164,
+      165,
+      168,
+      186,
+      195
     ]
   }
 },
@@ -7393,19 +7833,50 @@
     "name": "Store_99",
     "books": [
       1,
+      3,
+      4,
+      6,
+      7,
       10,
-      45,
-      58,
-      80,
-      82,
-      96,
+      20,
+      30,
+      36,
+      37,
+      41,
+      46,
+      51,
+      53,
+      56,
+      67,
+      70,
+      74,
+      79,
+      88,
+      91,
+      94,
+      97,
+      99,
       100,
-      137,
-      139,
-      146,
-      158,
-      160,
-      184
+      108,
+      111,
+      113,
+      116,
+      123,
+      127,
+      131,
+      133,
+      136,
+      144,
+      150,
+      153,
+      161,
+      165,
+      174,
+      177,
+      180,
+      183,
+      195,
+      196
     ]
   }
 }

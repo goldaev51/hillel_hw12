@@ -53,10 +53,13 @@ class Command(BaseCommand):
     def create_books(self):
         cnt = 200
 
-        # get min and max id from author model
+        # get author ids
         author_id = Author.objects.aggregate(min_id=Min('id'), max_id=Max('id'))
-        # get min and max id from publisher model
-        publisher_id = Publisher.objects.aggregate(min_id=Min('id'), max_id=Max('id'))
+        author_ids = Author.objects.values_list('id', flat=True)
+        author_ids_cnt = author_ids.count() - 1
+        # get publisher ids
+        publisher_ids = Publisher.objects.values_list('id', flat=True)
+        publisher_ids_cnt = publisher_ids.count() - 1
 
         # create books in loop for needed cnt
         for i in range(cnt):
@@ -70,18 +73,22 @@ class Command(BaseCommand):
             # create book object without connections of publisher and authors
             book = Book(name=name, pages=pages, price=price, rating=rating, pubdate=pubdate)
 
-            # get publisher randomly by randint from min_id to max_id
-            publisher = Publisher.objects.get(pk=random.randint(publisher_id['min_id'], publisher_id['max_id']))
+            # get publisher randomly by randint from publisher ids
+            random_publisher_pk = random.randint(0, publisher_ids_cnt)
+            publisher = Publisher.objects.get(pk=publisher_ids[random_publisher_pk])
             # add random publisher to book
             book.publisher = publisher
             book.save()
 
             # get randomly selected authors from 1 to 4 to add them to book
+            random_authors_ids = list()
             for k in range(random.randint(1, 4)):
-                # get author randomly by randint from min_id to max_id
-                author = Author.objects.get(pk=random.randint(author_id['min_id'], author_id['max_id']))
-                # add author to created book
-                book.authors.add(author)
+                # get author randomly by randint from author ids
+                random_author_pk = random.randint(0, author_ids_cnt)
+                random_authors_ids.append(author_ids[random_author_pk])
+
+            # add authors to created book
+            book.authors.add(*random_authors_ids)
 
 
         self.stdout.write(self.style.SUCCESS(f'Created {cnt} books'))
@@ -89,8 +96,9 @@ class Command(BaseCommand):
     def create_stores(self):
         cnt = 100
 
-        # get min and max id from book model
-        book_id = Book.objects.aggregate(min_id=Min('id'), max_id=Max('id'))
+        # list of book ids
+        book_ids = Book.objects.values_list('id', flat=True)
+        book_ids_cnt = book_ids.count() - 1
 
         # create stores in loop for needed cnt
         for i in range(cnt):
@@ -101,12 +109,14 @@ class Command(BaseCommand):
             store.save()
 
             # get randomly selected books from 1 to 50 to add them to store
+            random_books_ids = list()
             for k in range(random.randint(1, 50)):
-                # get book randomly by randint from min_id to max_id
-                book = Book.objects.get(pk=random.randint(book_id['min_id'], book_id['max_id']))
-                # add book to created store
-                store.books.add(book)
+                # get random book ids
+                random_book_id = random.randint(0, book_ids_cnt)
+                random_books_ids.append(book_ids[random_book_id])
 
+            # add books to store
+            store.books.add(*random_books_ids)
 
         self.stdout.write(self.style.SUCCESS(f'Created {cnt} stores'))
 
