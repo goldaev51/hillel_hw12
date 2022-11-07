@@ -8,12 +8,20 @@ class Author(models.Model):
     def __str__(self):
         return self.name
 
+    class Meta:
+        ordering = ['id']
+        default_related_name = 'author'
+
 
 class Publisher(models.Model):
     name = models.CharField(max_length=300)
 
     def __str__(self):
         return self.name
+
+    class Meta:
+        ordering = ['id']
+        default_related_name = 'publisher'
 
 
 class Book(models.Model):
@@ -28,6 +36,10 @@ class Book(models.Model):
     def __str__(self):
         return self.name
 
+    class Meta:
+        ordering = ['id']
+        default_related_name = 'book'
+
 
 class Store(models.Model):
     name = models.CharField(max_length=300)
@@ -35,3 +47,7 @@ class Store(models.Model):
 
     def __str__(self):
         return self.name
+
+    class Meta:
+        ordering = ['id']
+        default_related_name = 'store'

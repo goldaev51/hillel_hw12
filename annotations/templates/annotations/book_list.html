@@ -1,0 +1,43 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+    <h1>Book List</h1>
+
+    {% if page_obj %}
+
+        <table class="table table-bordered">
+            <thead>
+            <tr>
+                <th>Name</th>
+                <th>Pages</th>
+                <th>Price</th>
+                <th>Rating</th>
+                <th>Authors</th>
+                <th>Stores</th>
+                <th>Publisher</th>
+                <th>Pubdate</th>
+            </tr>
+            </thead>
+            <tbody>
+            {% for book in page_obj %}
+                <tr>
+                    <td><a href={% url 'annotations:author-info' book.id %}>{{ book.name }}</a></td>
+                    <td>{{ book.pages }}</td>
+                    <td>{{ book.price }}</td>
+                    <td>{{ book.rating }}</td>
+                    <td>{{ book.authors.count }}</td>
+                    <td>{{ book.store.count }}</td>
+                    <td>{{ book.publisher.name }}</td>
+                    <td>{{ book.pubdate }}</td>
+                </tr>
+                </tbody>
+            {% endfor %}
+        </table>
+
+
+
+    {% else %}
+        <p>There are no books in db.</p>
+    {% endif %}
+
+{% endblock %}

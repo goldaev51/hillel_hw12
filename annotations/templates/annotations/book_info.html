@@ -1,0 +1,48 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+    <h1>Book: {{ book.name }}</h1>
+
+    <p><strong>Pages:</strong> {{ book.pages }} </p> <!-- author detail link not yet defined -->
+    <p><strong>Price:</strong> {{ book.price }} </p> <!-- author detail link not yet defined -->
+    <p><strong>Rating:</strong> {{ book.rating }} </p>
+    <p><strong>Pubdate:</strong> {{ book.pubdate }} </p>
+    <p><strong>Publisher:</strong> <a href="{% url 'annotations:publisher-info' book.publisher.id %}">{{ book.publisher.name }}</a> </p>
+
+    <div style="margin-left:20px;margin-top:20px">
+        <h4>Authors</h4>
+
+        {% if book.authors.all %}
+            <ul>
+                {% for author in book.authors.all %}
+                    <li>
+                        <a href="{% url 'annotations:author-info' author.id %}">{{ author.name }}</a>
+                        <p class="text-muted"><strong>Age:</strong> {{ author.age }}</p>
+                    </li>
+                    {% if not forloop.last %}
+                        <hr>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p>Book has no authors</p>
+        {% endif %}
+
+        <h4>Stores</h4>
+        {% if book.store.all %}
+            <ul>
+                {% for store in book.store.all %}
+                    <li>
+                        <a href="{% url 'annotations:store-info' store.id %}">{{ store.name }}</a>
+                    </li>
+                    {% if not forloop.last %}
+                        <hr>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p>Book has no stores</p>
+        {% endif %}
+
+    </div>
+{% endblock %}

@@ -1,0 +1,32 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+    <h1>Author List</h1>
+
+    {% if page_obj %}
+        <ul>
+            <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th>Books</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for author in page_obj %}
+                    <tr>
+                        <td><a href="{% url 'annotations:author-info' author.id %}">{{ author.name }}</a></td>
+                        <td>{{ author.age }}</td>
+                        <td>{{ author.book.count }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+            </table>
+
+        </ul>
+    {% else %}
+        <p>There are no authors in db.</p>
+    {% endif %}
+
+{% endblock %}

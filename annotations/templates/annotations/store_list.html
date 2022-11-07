@@ -1,0 +1,30 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+    <h1>Store List</h1>
+
+    {% if page_obj %}
+        <ul>
+            <table class="table table-bordered">
+                <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Books</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for store in page_obj %}
+                    <tr>
+                        <td><a href="{% url 'annotations:store-info' store.id %}">{{ store.name }}</a></td>
+                        <td>{{ store.books.count }}</td>
+                    </tr>
+                </tbody>
+                {% endfor %}
+            </table>
+
+        </ul>
+    {% else %}
+        <p>There are no stores in db.</p>
+    {% endif %}
+
+{% endblock %}
