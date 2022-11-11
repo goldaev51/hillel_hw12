@@ -6,7 +6,6 @@
     <div style="margin-left:20px;margin-top:20px">
         <h4>Books</h4>
 
-        {% if publisher.book.all %}
             <ul>
                 {% for book in publisher.book.all %}
                     <li>
@@ -15,11 +14,10 @@
                     {% if not forloop.last %}
                         <hr>
                     {% endif %}
+                {% empty %}
+                    <li>Publisher has no books</li>
                 {% endfor %}
             </ul>
-        {% else %}
-            <p>Publisher has no books</p>
-        {% endif %}
 
     </div>
 {% endblock %}
