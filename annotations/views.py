@@ -29,15 +29,9 @@ def books(request):
         book_author_store = paginator.page(paginator.num_pages)
 
     return render(request, 'annotations/book_list.html', {"page_obj": book_author_store})
-    # return render(request, 'annotations/book_list.html', {"page_obj": book_author_store_query})
 
 
 def book_info(request, pk):
-    # book = Book.objects \
-    #     .prefetch_related('authors') \
-    #     .prefetch_related('store') \
-    #     .select_related('publisher') \
-    #     .get(pk=pk)
     book = get_object_or_404(Book.objects.select_related('publisher'), pk=pk)
 
     return render(request, 'annotations/book_info.html', {'book': book})
@@ -60,7 +54,6 @@ def authors(request):
 
 
 def author_info(request, pk):
-    # author = Author.objects.prefetch_related('book').get(pk=pk)
     author = get_object_or_404(Author.objects.prefetch_related('book'), pk=pk)
     return render(request, 'annotations/author_info.html', {'author': author})
 
@@ -91,10 +84,6 @@ def stores(request):
     stores_books_query = Store.objects\
         .annotate(books_cnt=Count('books'))\
         .all()
-    # stores_books_query = Store.objects\
-    #     .prefetch_related('books')\
-    #     .annotate(store_books_rating=Round(Avg('books__rating')))\
-    #     .all()
 
     page = request.GET.get('page', 1)
 
@@ -110,7 +99,6 @@ def stores(request):
 
 
 def store_info(request, pk):
-    # store = Store.objects.prefetch_related('books').get(pk=pk)
     store = get_object_or_404(Store, pk=pk)
     books_rating = store.books.aggregate(books_avg_rating=Round(Avg('rating')))
     store_books = store.books.all()
