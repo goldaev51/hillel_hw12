@@ -1,0 +1,25 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+    <h1>Publisher: {{ publisher.name }}</h1>
+
+    <div style="margin-left:20px;margin-top:20px">
+        <h4>Books</h4>
+
+        {% if publisher.book.all %}
+            <ul>
+                {% for book in publisher.book.all %}
+                    <li>
+                        <a href="{% url 'annotations:book-info' book.id %}">{{ book.name }}</a>
+                    </li>
+                    {% if not forloop.last %}
+                        <hr>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p>Publisher has no books</p>
+        {% endif %}
+
+    </div>
+{% endblock %}

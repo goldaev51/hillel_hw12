@@ -1,0 +1,27 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+    <h1>Author: {{ author.name }}</h1>
+
+    <p><strong>Age:</strong> {{ author.age }} </p>
+
+    <div style="margin-left:20px;margin-top:20px">
+        <h4>Books</h4>
+
+        {% if author.book.all %}
+            <ul>
+                {% for book in author.book.all %}
+                    <li>
+                        <a href="{% url 'annotations:book-info' book.id %}">{{ book.name }}</a>
+                    </li>
+                    {% if not forloop.last %}
+                        <hr>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p>Author has no books</p>
+        {% endif %}
+
+    </div>
+{% endblock %}

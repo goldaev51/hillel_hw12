@@ -1,0 +1,27 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+    <h1>Store: {{ store.name }}</h1>
+
+    <div style="margin-left:20px;margin-top:20px">
+        <h3>Books</h3>
+
+        {% if store_books %}
+            <h4>Books rating: {{ books_rating.books_avg_rating }}</h4>
+
+            <ul>
+                {% for book in store_books %}
+                    <li>
+                        <a href="{% url 'annotations:book-info' book.id %}">{{ book.name }} -- {{ book.rating }}</a>
+                    </li>
+                    {% if not forloop.last %}
+                        <hr>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p>Store has no books</p>
+        {% endif %}
+
+    </div>
+{% endblock %}
