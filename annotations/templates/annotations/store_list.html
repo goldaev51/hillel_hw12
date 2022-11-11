@@ -16,7 +16,7 @@
                 {% for store in page_obj %}
                     <tr>
                         <td><a href="{% url 'annotations:store-info' store.id %}">{{ store.name }}</a></td>
-                        <td>{{ store.books.count }}</td>
+                        <td>{{ store.books_cnt }}</td>
                     </tr>
                 </tbody>
                 {% endfor %}

@@ -19,7 +19,7 @@ class Command(BaseCommand):
         self.stdout.write(self.style.SUCCESS('Database filled!'))
 
     def create_authors(self):
-        cnt = 100
+        cnt = 500
         fake = Faker()
         authors = list()
 
@@ -36,7 +36,7 @@ class Command(BaseCommand):
         self.stdout.write(self.style.SUCCESS(f'Created {cnt} authors'))
 
     def create_publishers(self):
-        cnt = 30
+        cnt = 100
         publishers = list()
 
         # create publishers in loop for needed cnt
@@ -51,7 +51,7 @@ class Command(BaseCommand):
         self.stdout.write(self.style.SUCCESS(f'Created {cnt} publishers'))
 
     def create_books(self):
-        cnt = 200
+        cnt = 1000
 
         # get author ids
         author_ids = Author.objects.values_list('id', flat=True)
@@ -92,7 +92,7 @@ class Command(BaseCommand):
         self.stdout.write(self.style.SUCCESS(f'Created {cnt} books'))
 
     def create_stores(self):
-        cnt = 100
+        cnt = 400
 
         # list of book ids
         book_ids = Book.objects.values_list('id', flat=True)

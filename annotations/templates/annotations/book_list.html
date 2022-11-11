@@ -21,12 +21,16 @@
             <tbody>
             {% for book in page_obj %}
                 <tr>
-                    <td><a href={% url 'annotations:author-info' book.id %}>{{ book.name }}</a></td>
+                    <td><a href={% url 'annotations:book-info' book.id %}>{{ book.name }}</a></td>
                     <td>{{ book.pages }}</td>
                     <td>{{ book.price }}</td>
                     <td>{{ book.rating }}</td>
-                    <td>{{ book.authors.count }}</td>
-                    <td>{{ book.store.count }}</td>
+                    <td>
+                        {% for a in book.authors.all %}
+                            {{ a.name }}{% if not forloop.last %},{% endif %}
+                        {% endfor %}
+                    </td>
+                    <td>{{ book.stores_cnt }}</td>
                     <td>{{ book.publisher.name }}</td>
                     <td>{{ book.pubdate }}</td>
                 </tr>

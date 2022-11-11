@@ -16,7 +16,7 @@
                 {% for publisher in page_obj %}
                     <tr>
                         <td><a href="{% url 'annotations:publisher-info' publisher.id %}">{{ publisher.name }}</a></td>
-                        <td>{{ publisher.book.count }}</td>
+                        <td>{{ publisher.books_cnt }}</td>
                     </tr>
                 {% endfor %}
             </tbody>

@@ -18,7 +18,7 @@
                     <tr>
                         <td><a href="{% url 'annotations:author-info' author.id %}">{{ author.name }}</a></td>
                         <td>{{ author.age }}</td>
-                        <td>{{ author.book.count }}</td>
+                        <td>{{ author.books_cnt }}</td>
                     </tr>
                 {% endfor %}
             </tbody>
