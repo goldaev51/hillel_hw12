@@ -22,5 +22,6 @@ urlpatterns = [
     # path('', include('annotations.urls')),
     path('admin/', admin.site.urls),
     path('annotations/', include('annotations.urls')),
+    path('notification/', include('notification.urls')),
     path('__debug__/', include('debug_toolbar.urls')),
 ]
