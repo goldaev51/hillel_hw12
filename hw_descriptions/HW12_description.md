@@ -1,4 +1,4 @@
-# hillel_hw12
+# hillel_hw12 -- Annotate aggregate
 
 ## Description
 
