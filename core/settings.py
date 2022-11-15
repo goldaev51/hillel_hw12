@@ -45,6 +45,7 @@ INSTALLED_APPS = [
 
     'annotations.apps.AnnotationsConfig',
     'notification.apps.NotificationConfig',
+    'celery_beat.apps.CeleryBeatConfig',
     'django_extensions',
     'debug_toolbar',
     'django_celery_results',
@@ -132,12 +133,12 @@ STATIC_URL = 'static/'
 MESSAGE_STORAGE = 'django.contrib.messages.storage.cookie.CookieStorage'
 
 MESSAGE_TAGS = {
-        messages.DEBUG: 'alert-secondary',
-        messages.INFO: 'alert-info',
-        messages.SUCCESS: 'alert-success',
-        messages.WARNING: 'alert-warning',
-        messages.ERROR: 'alert-danger',
- }
+    messages.DEBUG: 'alert-secondary',
+    messages.INFO: 'alert-info',
+    messages.SUCCESS: 'alert-success',
+    messages.WARNING: 'alert-warning',
+    messages.ERROR: 'alert-danger',
+}
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
