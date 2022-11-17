@@ -3,7 +3,7 @@
 {% block content %}
     <h1>Book List</h1>
 
-    {% if book_list %}
+    {% if page_obj %}
 
         <table class="table table-bordered">
             <thead>
@@ -19,9 +19,9 @@
             </tr>
             </thead>
             <tbody>
-            {% for book in book_list %}
+            {% for book in page_obj %}
                 <tr>
-                    <td><a href={% url 'annotations:book-details' book.id %}>{{ book.name }}</a></td>
+                    <td><a href={% url 'annotations:book-info' book.id %}>{{ book.name }}</a></td>
                     <td>{{ book.pages }}</td>
                     <td>{{ book.price }}</td>
                     <td>{{ book.rating }}</td>

@@ -1,4 +1,5 @@
 from django.db import models
+from django.urls import reverse
 
 
 class Author(models.Model):
@@ -39,6 +40,12 @@ class Book(models.Model):
     class Meta:
         ordering = ['id']
         default_related_name = 'book'
+
+    def get_absolute_url(self):
+        """
+        Returns the url to access a particular book instance.
+        """
+        return reverse('annotations:book-details', args=[str(self.id)])
 
 
 class Store(models.Model):

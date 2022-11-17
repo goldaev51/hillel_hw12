@@ -1,13 +1,50 @@
+import datetime
 from abc import ABC
 
 from annotations.models import Author, Book, Publisher, Store
 
+from django.contrib.auth.mixins import LoginRequiredMixin
 from django.core.paginator import EmptyPage, PageNotAnInteger, Paginator
 from django.db.models import Avg, Count, Func
 from django.shortcuts import get_object_or_404, render
+from django.urls import reverse_lazy
+from django.views import generic
+from django.views.generic import CreateView, DeleteView, UpdateView
 
 
 DATA_PER_PAGE = 12
+
+
+class BookCreate(LoginRequiredMixin, CreateView):
+    initial = {'pubdate': datetime.datetime.today()}
+    model = Book
+    fields = ['name', 'pages', 'price', 'rating', 'pubdate', 'publisher', 'authors']
+
+
+class BookListView(generic.ListView):
+    model = Book
+    queryset = Book.objects \
+        .annotate(stores_cnt=Count('store')) \
+        .prefetch_related('authors') \
+        .select_related('publisher') \
+        .order_by('id') \
+        .all()
+    paginate_by = DATA_PER_PAGE
+
+
+class BookDetailView(generic.DetailView):
+    model = Book
+    queryset = Book.objects.select_related('publisher')
+
+
+class BookUpdate(LoginRequiredMixin, UpdateView):
+    model = Book
+    fields = ['name', 'pages', 'price', 'rating', 'pubdate', 'publisher', 'authors']
+
+
+class BookDelete(LoginRequiredMixin, DeleteView):
+    model = Book
+    success_url = reverse_lazy('annotations:books-list')
 
 
 def books(request):
@@ -15,7 +52,7 @@ def books(request):
         .annotate(stores_cnt=Count('store')) \
         .prefetch_related('authors') \
         .select_related('publisher') \
-        .order_by('id')\
+        .order_by('id') \
         .all()
 
     page = request.GET.get('page', 1)
@@ -28,7 +65,7 @@ def books(request):
     except EmptyPage:
         book_author_store = paginator.page(paginator.num_pages)
 
-    return render(request, 'annotations/book_list.html', {"page_obj": book_author_store})
+    return render(request, 'annotations/books_list_data.html', {"page_obj": book_author_store})
 
 
 def book_info(request, pk):
@@ -81,8 +118,8 @@ def publisher_info(request, pk):
 
 
 def stores(request):
-    stores_books_query = Store.objects\
-        .annotate(books_cnt=Count('books'))\
+    stores_books_query = Store.objects \
+        .annotate(books_cnt=Count('books')) \
         .all()
 
     page = request.GET.get('page', 1)
