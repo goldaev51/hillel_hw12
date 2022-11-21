@@ -13,6 +13,7 @@ urlpatterns = [
     path('stores/', views.stores, name='stores'),
     path('store/<int:pk>', views.store_info, name='store-info'),
 
+    # path('classbased/books/', cache_page(10)(views.BookListView.as_view()), name='books-list'),
     path('classbased/books/', views.BookListView.as_view(), name='books-list'),
     path('classbased/books/<int:pk>', views.BookDetailView.as_view(), name='book-details'),
     path('classbased/books/create', views.BookCreate.as_view(), name='book-create'),

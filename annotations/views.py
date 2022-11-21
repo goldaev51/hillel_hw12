@@ -1,18 +1,23 @@
 import datetime
 from abc import ABC
 
+
 from annotations.models import Author, Book, Publisher, Store
 
+from django.conf import settings
 from django.contrib.auth.mixins import LoginRequiredMixin
 from django.core.paginator import EmptyPage, PageNotAnInteger, Paginator
 from django.db.models import Avg, Count, Func
 from django.shortcuts import get_object_or_404, render
 from django.urls import reverse_lazy
+from django.utils.decorators import method_decorator
 from django.views import generic
+from django.views.decorators.cache import cache_page
+from django.views.decorators.vary import vary_on_cookie
 from django.views.generic import CreateView, DeleteView, UpdateView
 
 
-DATA_PER_PAGE = 12
+decorators = [cache_page(20), vary_on_cookie]
 
 
 class BookCreate(LoginRequiredMixin, CreateView):
@@ -21,6 +26,7 @@ class BookCreate(LoginRequiredMixin, CreateView):
     fields = ['name', 'pages', 'price', 'rating', 'pubdate', 'publisher', 'authors']
 
 
+@method_decorator(decorators, 'dispatch')
 class BookListView(generic.ListView):
     model = Book
     queryset = Book.objects \
@@ -29,9 +35,10 @@ class BookListView(generic.ListView):
         .select_related('publisher') \
         .order_by('id') \
         .all()
-    paginate_by = DATA_PER_PAGE
+    paginate_by = settings.PAGINATION_DATA_PER_PAGE
 
 
+@method_decorator(decorators, 'dispatch')
 class BookDetailView(generic.DetailView):
     model = Book
     queryset = Book.objects.select_related('publisher')
@@ -57,7 +64,7 @@ def books(request):
 
     page = request.GET.get('page', 1)
 
-    paginator = Paginator(book_author_store_query, DATA_PER_PAGE)
+    paginator = Paginator(book_author_store_query, settings.PAGINATION_DATA_PER_PAGE)
     try:
         book_author_store = paginator.page(page)
     except PageNotAnInteger:
@@ -79,7 +86,7 @@ def authors(request):
 
     page = request.GET.get('page', 1)
 
-    paginator = Paginator(authors_books_query, DATA_PER_PAGE)
+    paginator = Paginator(authors_books_query, settings.PAGINATION_DATA_PER_PAGE)
     try:
         authors_books = paginator.page(page)
     except PageNotAnInteger:
@@ -100,7 +107,7 @@ def publishers(request):
 
     page = request.GET.get('page', 1)
 
-    paginator = Paginator(publishers_books_query, DATA_PER_PAGE)
+    paginator = Paginator(publishers_books_query, settings.PAGINATION_DATA_PER_PAGE)
     try:
         publishers_books = paginator.page(page)
     except PageNotAnInteger:
@@ -124,7 +131,7 @@ def stores(request):
 
     page = request.GET.get('page', 1)
 
-    paginator = Paginator(stores_books_query, DATA_PER_PAGE)
+    paginator = Paginator(stores_books_query, settings.PAGINATION_DATA_PER_PAGE)
     try:
         stores_books = paginator.page(page)
     except PageNotAnInteger:
