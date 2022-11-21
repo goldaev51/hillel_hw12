@@ -1,4 +1,4 @@
-# hillel_hw14 -- Celery beat
+# hillel_hw15 -- Class based views, pagination
 
 ## Description
 
